@@ -1,0 +1,34 @@
+{
+  "newCategories": [
+    {
+      "name": "example category"
+    }
+  ],
+  "newGroups": [
+    {
+      "name": "example Group",
+      "categories": []
+    }
+  ],
+  "categoriesList0": [],
+  "categoriesList1": [],
+  "categoriesList2": [],
+  "categoriesList3": [],
+  "categoriesList4": [],
+  "categoriesList5": [],
+  "categoriesList6": [],
+  "categoriesList7": [],
+  "categoriesList8": [],
+  "categoriesList9": [],
+  "categoriesList10": [],
+  "categoriesList11": [],
+  "categoriesList12": [],
+  "categoriesList13": [],
+  "categoriesList14": [],
+  "categoriesList15": [],
+  "categoriesList16": [],
+  "categoriesList17": [],
+  "categoriesList18": [],
+  "categoriesList19": [],
+  "categoriesList20": []
+}

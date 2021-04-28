@@ -1,0 +1,7252 @@
+{
+  "newCategories": [
+    {
+      "name": "example category"
+    }
+  ],
+  "newGroups": [
+    {
+      "name": "example Group",
+      "categories": []
+    }
+  ],
+  "categoriesList0": [
+    {
+      "name": "tech-women",
+      "categories": []
+    },
+    {
+      "name": "women-leaders",
+      "categories": []
+    },
+    {
+      "name": "woman-entrepreneurship",
+      "categories": []
+    },
+    {
+      "name": "women-in-tech",
+      "categories": []
+    },
+    {
+      "name": "seo-services",
+      "categories": []
+    },
+    {
+      "name": "seo-trends",
+      "categories": []
+    },
+    {
+      "name": "seo-tips",
+      "categories": []
+    },
+    {
+      "name": "markup",
+      "categories": []
+    },
+    {
+      "name": "yaml",
+      "categories": []
+    },
+    {
+      "name": "context",
+      "categories": []
+    },
+    {
+      "name": "render-props",
+      "categories": []
+    },
+    {
+      "name": "hoc",
+      "categories": []
+    },
+    {
+      "name": "advanced-components",
+      "categories": []
+    },
+    {
+      "name": "components",
+      "categories": []
+    },
+    {
+      "name": "reactjs",
+      "categories": []
+    },
+    {
+      "name": "computing",
+      "categories": []
+    },
+    {
+      "name": "artificial-general-intelligence",
+      "categories": []
+    },
+    {
+      "name": "low-code",
+      "categories": []
+    },
+    {
+      "name": "compiler",
+      "categories": []
+    },
+    {
+      "name": "beginner",
+      "categories": []
+    },
+    {
+      "name": "criminal",
+      "categories": []
+    },
+    {
+      "name": "RUNEUSD",
+      "categories": []
+    },
+    {
+      "name": "coinbase listing",
+      "categories": []
+    },
+    {
+      "name": "coin",
+      "categories": []
+    },
+    {
+      "name": "Witek Radomski",
+      "categories": []
+    },
+    {
+      "name": "JumpNet",
+      "categories": []
+    },
+    {
+      "name": "EJN",
+      "categories": []
+    },
+    {
+      "name": "DPR",
+      "categories": []
+    },
+    {
+      "name": "Deeper Connect",
+      "categories": []
+    },
+    {
+      "name": "XRP Price Surge",
+      "categories": []
+    },
+    {
+      "name": "XRP All-Time High",
+      "categories": []
+    },
+    {
+      "name": "XRP $2",
+      "categories": []
+    },
+    {
+      "name": "Ripple vs SEC",
+      "categories": []
+    },
+    {
+      "name": "chris larsen",
+      "categories": []
+    },
+    {
+      "name": "Intel Corporation",
+      "categories": []
+    },
+    {
+      "name": "Sterling Pound",
+      "categories": []
+    },
+    {
+      "name": "Hester Pierce",
+      "categories": []
+    },
+    {
+      "name": "GBP",
+      "categories": []
+    },
+    {
+      "name": "BTC/GBP",
+      "categories": []
+    },
+    {
+      "name": "TSLA Stock",
+      "categories": []
+    },
+    {
+      "name": "Tesla Stock",
+      "categories": []
+    },
+    {
+      "name": "Binance Stock Tokens",
+      "categories": []
+    },
+    {
+      "name": "trx price analysis",
+      "categories": []
+    },
+    {
+      "name": "Layer 2 Ethereum",
+      "categories": []
+    },
+    {
+      "name": "Ethereum Scaling",
+      "categories": []
+    },
+    {
+      "name": "COIN Price",
+      "categories": []
+    },
+    {
+      "name": "SHEESHA Token",
+      "categories": []
+    },
+    {
+      "name": "DeFi ETF",
+      "categories": []
+    },
+    {
+      "name": "BXMI",
+      "categories": []
+    },
+    {
+      "name": "bitxmi",
+      "categories": []
+    },
+    {
+      "name": "Kraken News",
+      "categories": []
+    },
+    {
+      "name": "Kraken IPO",
+      "categories": []
+    },
+    {
+      "name": "OptionRoom",
+      "categories": []
+    },
+    {
+      "name": "stock",
+      "categories": []
+    },
+    {
+      "name": "Exodus",
+      "categories": []
+    },
+    {
+      "name": "peer to peer payments",
+      "categories": []
+    },
+    {
+      "name": "privacy messenger",
+      "categories": []
+    },
+    {
+      "name": "valuation",
+      "categories": []
+    },
+    {
+      "name": "U.S.",
+      "categories": []
+    },
+    {
+      "name": "Shinhan Bank",
+      "categories": []
+    },
+    {
+      "name": "world's youngest crypo educator",
+      "categories": []
+    },
+    {
+      "name": "Lily Knight",
+      "categories": []
+    },
+    {
+      "name": "Killroy",
+      "categories": []
+    },
+    {
+      "name": "Megadeth",
+      "categories": []
+    },
+    {
+      "name": "MEME",
+      "categories": []
+    },
+    {
+      "name": "World Marathon record",
+      "categories": []
+    },
+    {
+      "name": "Momentible.io",
+      "categories": []
+    },
+    {
+      "name": "Kenya NFT",
+      "categories": []
+    },
+    {
+      "name": "Eliud Kipchoge",
+      "categories": []
+    },
+    {
+      "name": "Berlin Marathon",
+      "categories": []
+    },
+    {
+      "name": "Bityard",
+      "categories": []
+    },
+    {
+      "name": "TVL",
+      "categories": []
+    },
+    {
+      "name": "DeFi investment",
+      "categories": []
+    },
+    {
+      "name": "tone vays",
+      "categories": []
+    },
+    {
+      "name": "Cryptonews Deals",
+      "categories": []
+    },
+    {
+      "name": "counter terrorism financing",
+      "categories": []
+    },
+    {
+      "name": "Ira Kleiman Dr. Craig Wright",
+      "categories": []
+    },
+    {
+      "name": "dave kleiman",
+      "categories": []
+    },
+    {
+      "name": "Tom Brady",
+      "categories": []
+    },
+    {
+      "name": "non-fungible tokens",
+      "categories": []
+    },
+    {
+      "name": "Autograph",
+      "categories": []
+    },
+    {
+      "name": "meetup",
+      "categories": []
+    },
+    {
+      "name": "Fai\u0101",
+      "categories": []
+    },
+    {
+      "name": "Dr. Imtiaz Khan",
+      "categories": []
+    },
+    {
+      "name": "Dr. Hossein Jahanshahloo",
+      "categories": []
+    },
+    {
+      "name": "BSV Wales",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin and Data",
+      "categories": []
+    },
+    {
+      "name": "CIA",
+      "categories": []
+    },
+    {
+      "name": "op-ed",
+      "categories": []
+    },
+    {
+      "name": "XLMBTC",
+      "categories": []
+    },
+    {
+      "name": "THORchain",
+      "categories": []
+    },
+    {
+      "name": "Bank of New York",
+      "categories": []
+    },
+    {
+      "name": "NFT news",
+      "categories": []
+    },
+    {
+      "name": "White Paper",
+      "categories": []
+    },
+    {
+      "name": "uk",
+      "categories": []
+    },
+    {
+      "name": "Satoshi Nakamoto claims",
+      "categories": []
+    },
+    {
+      "name": "rightful owner",
+      "categories": []
+    },
+    {
+      "name": "Intellectual Property",
+      "categories": []
+    },
+    {
+      "name": "injunction",
+      "categories": []
+    },
+    {
+      "name": "England and Wales",
+      "categories": []
+    }
+  ],
+  "categoriesList1": [
+    {
+      "name": "Plato",
+      "categories": []
+    },
+    {
+      "name": "ParaState",
+      "categories": []
+    },
+    {
+      "name": "Tulip Trust",
+      "categories": []
+    },
+    {
+      "name": "ramona ang",
+      "categories": []
+    },
+    {
+      "name": "Ira Kleiman",
+      "categories": []
+    },
+    {
+      "name": "Discreet logs",
+      "categories": []
+    },
+    {
+      "name": "Forks",
+      "categories": []
+    },
+    {
+      "name": "U.S. House of Representatives",
+      "categories": []
+    },
+    {
+      "name": "M1",
+      "categories": []
+    },
+    {
+      "name": "Urbit",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Sign Guy",
+      "categories": []
+    },
+    {
+      "name": "Family",
+      "categories": []
+    },
+    {
+      "name": "memory-management",
+      "categories": []
+    },
+    {
+      "name": "xcode-memory-graph",
+      "categories": []
+    },
+    {
+      "name": "memory",
+      "categories": []
+    },
+    {
+      "name": "ios-memory-graph",
+      "categories": []
+    },
+    {
+      "name": "xcode-instruments",
+      "categories": []
+    },
+    {
+      "name": "plastic-pollution",
+      "categories": []
+    },
+    {
+      "name": "big-problems",
+      "categories": []
+    },
+    {
+      "name": "boyan-slat",
+      "categories": []
+    },
+    {
+      "name": "the-ocean-cleanup",
+      "categories": []
+    },
+    {
+      "name": "climate-crisis",
+      "categories": []
+    },
+    {
+      "name": "climate-change",
+      "categories": []
+    },
+    {
+      "name": "emotional-intelligence",
+      "categories": []
+    },
+    {
+      "name": "direct-to-consumer",
+      "categories": []
+    },
+    {
+      "name": "industry-4.0",
+      "categories": []
+    },
+    {
+      "name": "orchestration",
+      "categories": []
+    },
+    {
+      "name": "litmuschaos",
+      "categories": []
+    },
+    {
+      "name": "cloudnative",
+      "categories": []
+    },
+    {
+      "name": "retail-marketing",
+      "categories": []
+    },
+    {
+      "name": "retail-tech",
+      "categories": []
+    },
+    {
+      "name": "rlogin",
+      "categories": []
+    },
+    {
+      "name": "rns",
+      "categories": []
+    },
+    {
+      "name": "rsk",
+      "categories": []
+    },
+    {
+      "name": "gitcoin",
+      "categories": []
+    },
+    {
+      "name": "observability",
+      "categories": []
+    },
+    {
+      "name": "fastapi",
+      "categories": []
+    },
+    {
+      "name": "aws-data-lake",
+      "categories": []
+    },
+    {
+      "name": "nft-art",
+      "categories": []
+    },
+    {
+      "name": "nft-top-story",
+      "categories": []
+    },
+    {
+      "name": "gaming-and-nft",
+      "categories": []
+    },
+    {
+      "name": "nft-gaming",
+      "categories": []
+    },
+    {
+      "name": "nfts-in-defi",
+      "categories": []
+    },
+    {
+      "name": "psp-vita",
+      "categories": []
+    },
+    {
+      "name": "nyse",
+      "categories": []
+    },
+    {
+      "name": "Polkaswap",
+      "categories": []
+    },
+    {
+      "name": "Paraswap",
+      "categories": []
+    },
+    {
+      "name": "exchange tokens",
+      "categories": []
+    },
+    {
+      "name": "MACD",
+      "categories": []
+    },
+    {
+      "name": "coingecko",
+      "categories": []
+    },
+    {
+      "name": "NEO/USD",
+      "categories": []
+    },
+    {
+      "name": "NEO News",
+      "categories": []
+    },
+    {
+      "name": "European Union (EU)",
+      "categories": []
+    },
+    {
+      "name": "SuperRare",
+      "categories": []
+    },
+    {
+      "name": "NFT Music",
+      "categories": []
+    },
+    {
+      "name": "ShapeShift",
+      "categories": []
+    },
+    {
+      "name": "Bridge",
+      "categories": []
+    },
+    {
+      "name": "renewable energy",
+      "categories": []
+    },
+    {
+      "name": "coinbase bitcoin",
+      "categories": []
+    },
+    {
+      "name": "politics",
+      "categories": []
+    },
+    {
+      "name": "postal service",
+      "categories": []
+    },
+    {
+      "name": "liquidations",
+      "categories": []
+    },
+    {
+      "name": "Ether futures",
+      "categories": []
+    },
+    {
+      "name": "worlds reserve currency",
+      "categories": []
+    },
+    {
+      "name": "threat to usd",
+      "categories": []
+    },
+    {
+      "name": "threat to us dollar",
+      "categories": []
+    },
+    {
+      "name": "Zimbabwe",
+      "categories": []
+    },
+    {
+      "name": "Unbanked",
+      "categories": []
+    },
+    {
+      "name": "Local.bitcoin.com",
+      "categories": []
+    },
+    {
+      "name": "Ghana",
+      "categories": []
+    },
+    {
+      "name": "financial exclusion",
+      "categories": []
+    },
+    {
+      "name": "FATF Guidelines",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Cash Africa",
+      "categories": []
+    },
+    {
+      "name": "Africa Bitcoin Cash",
+      "categories": []
+    },
+    {
+      "name": "Galaxy Digital Bitcoin ETF",
+      "categories": []
+    },
+    {
+      "name": "Galaxy Bitcoin ETF",
+      "categories": []
+    },
+    {
+      "name": "TV",
+      "categories": []
+    },
+    {
+      "name": "Television",
+      "categories": []
+    },
+    {
+      "name": "Simpsons",
+      "categories": []
+    },
+    {
+      "name": "SEC Commissioner",
+      "categories": []
+    },
+    {
+      "name": "sec approves bitcoin etf",
+      "categories": []
+    },
+    {
+      "name": "hester peirce",
+      "categories": []
+    },
+    {
+      "name": "banning cryptocurrencies",
+      "categories": []
+    },
+    {
+      "name": "Banning Bitcoin",
+      "categories": []
+    },
+    {
+      "name": "ban crypto",
+      "categories": []
+    },
+    {
+      "name": "ban bitcoin",
+      "categories": []
+    },
+    {
+      "name": "asgardex",
+      "categories": []
+    },
+    {
+      "name": "european investment bank",
+      "categories": []
+    },
+    {
+      "name": "EIB",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Robots",
+      "categories": []
+    },
+    {
+      "name": "Ethereum Berlin",
+      "categories": []
+    },
+    {
+      "name": "Berlin",
+      "categories": []
+    },
+    {
+      "name": "AUD",
+      "categories": []
+    },
+    {
+      "name": "julian assange",
+      "categories": []
+    },
+    {
+      "name": "Millennium Management",
+      "categories": []
+    },
+    {
+      "name": "cultural",
+      "categories": []
+    },
+    {
+      "name": "Mempool.space",
+      "categories": []
+    },
+    {
+      "name": "square crypto",
+      "categories": []
+    },
+    {
+      "name": "Caruso",
+      "categories": []
+    },
+    {
+      "name": "Real estate",
+      "categories": []
+    }
+  ],
+  "categoriesList2": [
+    {
+      "name": "BitBlockBoom",
+      "categories": []
+    },
+    {
+      "name": "Credit",
+      "categories": []
+    },
+    {
+      "name": "erlay",
+      "categories": []
+    },
+    {
+      "name": "Halving",
+      "categories": []
+    },
+    {
+      "name": "Paxful",
+      "categories": []
+    },
+    {
+      "name": "soccer",
+      "categories": []
+    },
+    {
+      "name": "Copa",
+      "categories": []
+    },
+    {
+      "name": "Southampton",
+      "categories": []
+    },
+    {
+      "name": "sportsbet.io",
+      "categories": []
+    },
+    {
+      "name": "Foreign Currency",
+      "categories": []
+    },
+    {
+      "name": "Time Magazine",
+      "categories": []
+    },
+    {
+      "name": "Corporate Treasury",
+      "categories": []
+    },
+    {
+      "name": "UniLend",
+      "categories": []
+    },
+    {
+      "name": "teamwork",
+      "categories": []
+    },
+    {
+      "name": "qtum",
+      "categories": []
+    },
+    {
+      "name": "qtum-blockchain",
+      "categories": []
+    },
+    {
+      "name": "defi-interview",
+      "categories": []
+    },
+    {
+      "name": "cyborgs",
+      "categories": []
+    },
+    {
+      "name": "cyberpunk",
+      "categories": []
+    },
+    {
+      "name": "cyborg",
+      "categories": []
+    },
+    {
+      "name": "embedded-systems",
+      "categories": []
+    },
+    {
+      "name": "understanding-javascript",
+      "categories": []
+    },
+    {
+      "name": "dom",
+      "categories": []
+    },
+    {
+      "name": "js",
+      "categories": []
+    },
+    {
+      "name": "vanillajs",
+      "categories": []
+    },
+    {
+      "name": "servers",
+      "categories": []
+    },
+    {
+      "name": "disney-plus",
+      "categories": []
+    },
+    {
+      "name": "video-streaming-services",
+      "categories": []
+    },
+    {
+      "name": "operating-systems",
+      "categories": []
+    },
+    {
+      "name": "how-to-install-homebrew",
+      "categories": []
+    },
+    {
+      "name": "macbook",
+      "categories": []
+    },
+    {
+      "name": "tips",
+      "categories": []
+    },
+    {
+      "name": "apple-m1",
+      "categories": []
+    },
+    {
+      "name": "apple-macbook",
+      "categories": []
+    },
+    {
+      "name": "blogging-tips",
+      "categories": []
+    },
+    {
+      "name": "dev-blog",
+      "categories": []
+    },
+    {
+      "name": "tech-blogging",
+      "categories": []
+    },
+    {
+      "name": "learn",
+      "categories": []
+    },
+    {
+      "name": "weekend",
+      "categories": []
+    },
+    {
+      "name": "pytorch",
+      "categories": []
+    },
+    {
+      "name": "django-filters",
+      "categories": []
+    },
+    {
+      "name": "crispy-forms",
+      "categories": []
+    },
+    {
+      "name": "range-slider",
+      "categories": []
+    },
+    {
+      "name": "filters",
+      "categories": []
+    },
+    {
+      "name": "diy-projects",
+      "categories": []
+    },
+    {
+      "name": "diy",
+      "categories": []
+    },
+    {
+      "name": "customization",
+      "categories": []
+    },
+    {
+      "name": "eyecare",
+      "categories": []
+    },
+    {
+      "name": "eyeglasses",
+      "categories": []
+    },
+    {
+      "name": "3d-printing",
+      "categories": []
+    },
+    {
+      "name": "containerization",
+      "categories": []
+    },
+    {
+      "name": "tldr",
+      "categories": []
+    },
+    {
+      "name": "possessions-can-disappear",
+      "categories": []
+    },
+    {
+      "name": "courses-during-lockdown",
+      "categories": []
+    },
+    {
+      "name": "crypto-education",
+      "categories": []
+    },
+    {
+      "name": "better-batteries",
+      "categories": []
+    },
+    {
+      "name": "wireless-charging",
+      "categories": []
+    },
+    {
+      "name": "electric-vehicles",
+      "categories": []
+    },
+    {
+      "name": "fallout-4-weapon-mods",
+      "categories": []
+    },
+    {
+      "name": "modding",
+      "categories": []
+    },
+    {
+      "name": "pc-gaming",
+      "categories": []
+    },
+    {
+      "name": "fallout-4",
+      "categories": []
+    },
+    {
+      "name": "fallout-4-modding",
+      "categories": []
+    },
+    {
+      "name": "roundups",
+      "categories": []
+    },
+    {
+      "name": "non-fungible-token",
+      "categories": []
+    },
+    {
+      "name": "pain",
+      "categories": []
+    },
+    {
+      "name": "two-factor-authentication",
+      "categories": []
+    },
+    {
+      "name": "auth0",
+      "categories": []
+    },
+    {
+      "name": "canaan",
+      "categories": []
+    },
+    {
+      "name": "ETX Capital",
+      "categories": []
+    },
+    {
+      "name": "CFI Group",
+      "categories": []
+    },
+    {
+      "name": "Tickmill",
+      "categories": []
+    },
+    {
+      "name": "Praxis",
+      "categories": []
+    },
+    {
+      "name": "Key Way Investments",
+      "categories": []
+    },
+    {
+      "name": "Capex.com",
+      "categories": []
+    },
+    {
+      "name": "IS Prime",
+      "categories": []
+    },
+    {
+      "name": "Prime Brokerage",
+      "categories": []
+    },
+    {
+      "name": "Prophecy",
+      "categories": []
+    },
+    {
+      "name": "bomb",
+      "categories": []
+    },
+    {
+      "name": "algorithmic trading",
+      "categories": []
+    },
+    {
+      "name": "CMC Markets",
+      "categories": []
+    },
+    {
+      "name": "revenues",
+      "categories": []
+    },
+    {
+      "name": "GMI Group",
+      "categories": []
+    },
+    {
+      "name": "mcafee",
+      "categories": []
+    },
+    {
+      "name": "fdm",
+      "categories": []
+    },
+    {
+      "name": "nigeria",
+      "categories": []
+    },
+    {
+      "name": "CBN",
+      "categories": []
+    },
+    {
+      "name": "violations",
+      "categories": []
+    },
+    {
+      "name": "market maker",
+      "categories": []
+    },
+    {
+      "name": "FINRA",
+      "categories": []
+    },
+    {
+      "name": "Peter Thiel",
+      "categories": []
+    },
+    {
+      "name": "US Treasury",
+      "categories": []
+    },
+    {
+      "name": "the Federal Reserve",
+      "categories": []
+    },
+    {
+      "name": "TGA",
+      "categories": []
+    },
+    {
+      "name": "Poolz",
+      "categories": []
+    },
+    {
+      "name": "AnRKey X",
+      "categories": []
+    },
+    {
+      "name": "Binace",
+      "categories": []
+    },
+    {
+      "name": "OpenOcean",
+      "categories": []
+    },
+    {
+      "name": "OOE tokens",
+      "categories": []
+    },
+    {
+      "name": "CEX",
+      "categories": []
+    }
+  ],
+  "categoriesList3": [
+    {
+      "name": "Yellow Road",
+      "categories": []
+    },
+    {
+      "name": "UTrust",
+      "categories": []
+    },
+    {
+      "name": "The Sandbox",
+      "categories": []
+    },
+    {
+      "name": "Sandbox Metaverse",
+      "categories": []
+    },
+    {
+      "name": "SAND",
+      "categories": []
+    },
+    {
+      "name": "Blockchain Gaming",
+      "categories": []
+    },
+    {
+      "name": "vet",
+      "categories": []
+    },
+    {
+      "name": "Indian Crypto Bill",
+      "categories": []
+    },
+    {
+      "name": "India wants crypto",
+      "categories": []
+    },
+    {
+      "name": "India crypto",
+      "categories": []
+    },
+    {
+      "name": "TSLA/BUSD",
+      "categories": []
+    },
+    {
+      "name": "busd",
+      "categories": []
+    },
+    {
+      "name": "$TSLA",
+      "categories": []
+    },
+    {
+      "name": "HSBC",
+      "categories": []
+    },
+    {
+      "name": "HIDC",
+      "categories": []
+    },
+    {
+      "name": "NYSE NFT",
+      "categories": []
+    },
+    {
+      "name": "First Trade NFTs",
+      "categories": []
+    },
+    {
+      "name": "Beeple NFT",
+      "categories": []
+    },
+    {
+      "name": "Coinbase Pre-IPO Shares",
+      "categories": []
+    },
+    {
+      "name": "$COIN",
+      "categories": []
+    },
+    {
+      "name": "BTC All-time high",
+      "categories": []
+    },
+    {
+      "name": "Tokenized stocks",
+      "categories": []
+    },
+    {
+      "name": "Stock tokens",
+      "categories": []
+    },
+    {
+      "name": "Former CIA Director",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Fearmongering",
+      "categories": []
+    },
+    {
+      "name": "Kevin McCarthy",
+      "categories": []
+    },
+    {
+      "name": "HBARUSDT",
+      "categories": []
+    },
+    {
+      "name": "HBARUSDC",
+      "categories": []
+    },
+    {
+      "name": "HBARETH",
+      "categories": []
+    },
+    {
+      "name": "HBARBTC",
+      "categories": []
+    },
+    {
+      "name": "HBAR Price Analysis",
+      "categories": []
+    },
+    {
+      "name": "Casino",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Casinos",
+      "categories": []
+    },
+    {
+      "name": "ETHUSDT(TradingView)",
+      "categories": []
+    },
+    {
+      "name": "BTCUSDT (TradingView) LTCUSDT (TradingView)",
+      "categories": []
+    },
+    {
+      "name": "XRPUSDT (TradingView)",
+      "categories": []
+    },
+    {
+      "name": "XRPUSD (TradingView)",
+      "categories": []
+    },
+    {
+      "name": "XRPBTC (TradingView)",
+      "categories": []
+    },
+    {
+      "name": "Casino Benefits",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Casino",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Benefits",
+      "categories": []
+    },
+    {
+      "name": "Best BCH Wallet",
+      "categories": []
+    },
+    {
+      "name": "BCH Wallet",
+      "categories": []
+    },
+    {
+      "name": "Digibyte wallet",
+      "categories": []
+    },
+    {
+      "name": "Digibyte",
+      "categories": []
+    },
+    {
+      "name": "DGB Wallet",
+      "categories": []
+    },
+    {
+      "name": "xrp news",
+      "categories": []
+    },
+    {
+      "name": "Quantum Economics",
+      "categories": []
+    },
+    {
+      "name": "Mati Greenspan",
+      "categories": []
+    },
+    {
+      "name": "OGN",
+      "categories": []
+    },
+    {
+      "name": "NKN",
+      "categories": []
+    },
+    {
+      "name": "JumpNET",
+      "categories": []
+    },
+    {
+      "name": "Enfinity",
+      "categories": []
+    },
+    {
+      "name": "CryptoCom",
+      "categories": []
+    },
+    {
+      "name": "Coinbase Pro",
+      "categories": []
+    },
+    {
+      "name": "XRP Army",
+      "categories": []
+    },
+    {
+      "name": "Binance Coin Price Analysis",
+      "categories": []
+    },
+    {
+      "name": "Binance Coin News",
+      "categories": []
+    },
+    {
+      "name": "Real Vision Group",
+      "categories": []
+    },
+    {
+      "name": "eCurrency Mint",
+      "categories": []
+    },
+    {
+      "name": "Bank of Jamaica",
+      "categories": []
+    },
+    {
+      "name": "Bloomberg Intelligence",
+      "categories": []
+    },
+    {
+      "name": "binance chain",
+      "categories": []
+    },
+    {
+      "name": "Project Spotlight",
+      "categories": []
+    },
+    {
+      "name": "Impermanent Loss",
+      "categories": []
+    },
+    {
+      "name": "Social Trading",
+      "categories": []
+    },
+    {
+      "name": "Enso Finance",
+      "categories": []
+    },
+    {
+      "name": "COPA",
+      "categories": []
+    },
+    {
+      "name": "Stock Trading News",
+      "categories": []
+    },
+    {
+      "name": "Spotify Stock",
+      "categories": []
+    },
+    {
+      "name": "New York Stock Exchange (NYSE)",
+      "categories": []
+    },
+    {
+      "name": "Coupang Stock",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Pi Cycle",
+      "categories": []
+    },
+    {
+      "name": "Ripple Lawsuit",
+      "categories": []
+    },
+    {
+      "name": "IlCOIN",
+      "categories": []
+    },
+    {
+      "name": "MLB News",
+      "categories": []
+    },
+    {
+      "name": "Crypto Awards",
+      "categories": []
+    },
+    {
+      "name": "SOL/USD",
+      "categories": []
+    },
+    {
+      "name": "POKT",
+      "categories": []
+    },
+    {
+      "name": "Pocket Network",
+      "categories": []
+    },
+    {
+      "name": "Infura",
+      "categories": []
+    },
+    {
+      "name": "Eden Block",
+      "categories": []
+    },
+    {
+      "name": "poker",
+      "categories": []
+    },
+    {
+      "name": "Digital Asset Management",
+      "categories": []
+    },
+    {
+      "name": "northern data",
+      "categories": []
+    },
+    {
+      "name": "crypto miner",
+      "categories": []
+    },
+    {
+      "name": "riot blockchain",
+      "categories": []
+    },
+    {
+      "name": "cartoons",
+      "categories": []
+    },
+    {
+      "name": "simpsons",
+      "categories": []
+    },
+    {
+      "name": "Layer-2",
+      "categories": []
+    },
+    {
+      "name": "CeFi",
+      "categories": []
+    },
+    {
+      "name": "Margin Trading",
+      "categories": []
+    },
+    {
+      "name": "digital asset management",
+      "categories": []
+    },
+    {
+      "name": "etc group",
+      "categories": []
+    },
+    {
+      "name": "etp",
+      "categories": []
+    },
+    {
+      "name": "XinFin",
+      "categories": []
+    },
+    {
+      "name": "TIME magazine",
+      "categories": []
+    },
+    {
+      "name": "Non-fungible token",
+      "categories": []
+    },
+    {
+      "name": "BUSD",
+      "categories": []
+    },
+    {
+      "name": "Social tokens",
+      "categories": []
+    }
+  ],
+  "categoriesList4": [
+    {
+      "name": "Coinlist",
+      "categories": []
+    },
+    {
+      "name": "Liquid token sale",
+      "categories": []
+    },
+    {
+      "name": "cross-chain",
+      "categories": []
+    },
+    {
+      "name": "RUNE",
+      "categories": []
+    },
+    {
+      "name": "Thorchain",
+      "categories": []
+    },
+    {
+      "name": "Henrik Anderson",
+      "categories": []
+    },
+    {
+      "name": "dTOP",
+      "categories": []
+    },
+    {
+      "name": "dHEDGE",
+      "categories": []
+    },
+    {
+      "name": "Santander",
+      "categories": []
+    },
+    {
+      "name": "European Union",
+      "categories": []
+    },
+    {
+      "name": "Unique.One",
+      "categories": []
+    },
+    {
+      "name": "Non-Profits",
+      "categories": []
+    },
+    {
+      "name": "XRouter",
+      "categories": []
+    },
+    {
+      "name": "Blocknet",
+      "categories": []
+    },
+    {
+      "name": "Interchain",
+      "categories": []
+    },
+    {
+      "name": "Finxflo",
+      "categories": []
+    },
+    {
+      "name": "travel rule",
+      "categories": []
+    },
+    {
+      "name": "A nightclub in Miami is set to return from a year of a pandemic shutdown by starting accepting Bitcoin and other cryptocurrencies as a form of payment.",
+      "categories": []
+    },
+    {
+      "name": "Step Finance",
+      "categories": []
+    },
+    {
+      "name": "wealth transfer",
+      "categories": []
+    },
+    {
+      "name": "Nigeria Stock Exchange",
+      "categories": []
+    },
+    {
+      "name": "nigeria cryptocurrency",
+      "categories": []
+    },
+    {
+      "name": "Flutterwave",
+      "categories": []
+    },
+    {
+      "name": "bank validation number",
+      "categories": []
+    },
+    {
+      "name": "World's Richest",
+      "categories": []
+    },
+    {
+      "name": "Satoshi's Stash",
+      "categories": []
+    },
+    {
+      "name": "Sam Walton",
+      "categories": []
+    },
+    {
+      "name": "Rob Walton",
+      "categories": []
+    },
+    {
+      "name": "Nakamoto",
+      "categories": []
+    },
+    {
+      "name": "Michael Bloomberg",
+      "categories": []
+    },
+    {
+      "name": "Jim Walton",
+      "categories": []
+    },
+    {
+      "name": "jeff bezos",
+      "categories": []
+    },
+    {
+      "name": "centibillionaire",
+      "categories": []
+    },
+    {
+      "name": "BTG",
+      "categories": []
+    },
+    {
+      "name": "BTC Stash",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Stash",
+      "categories": []
+    },
+    {
+      "name": "19th position",
+      "categories": []
+    },
+    {
+      "name": "1",
+      "categories": []
+    },
+    {
+      "name": "Euler.Tools",
+      "categories": []
+    },
+    {
+      "name": "WPT",
+      "categories": []
+    },
+    {
+      "name": "WPN",
+      "categories": []
+    },
+    {
+      "name": "Virtue Poker",
+      "categories": []
+    },
+    {
+      "name": "poker bitcoin",
+      "categories": []
+    },
+    {
+      "name": "Poker",
+      "categories": []
+    },
+    {
+      "name": "NFT marketplace",
+      "categories": []
+    },
+    {
+      "name": "games.bitcoin.com",
+      "categories": []
+    },
+    {
+      "name": "ConsensYs",
+      "categories": []
+    },
+    {
+      "name": "cashgames.bitcoin.com",
+      "categories": []
+    },
+    {
+      "name": "vat",
+      "categories": []
+    },
+    {
+      "name": "value added tax",
+      "categories": []
+    },
+    {
+      "name": "crypto taxes",
+      "categories": []
+    },
+    {
+      "name": "power",
+      "categories": []
+    },
+    {
+      "name": "mining bitcoin",
+      "categories": []
+    },
+    {
+      "name": "Low Carbon Mining Token",
+      "categories": []
+    },
+    {
+      "name": "Igor Runets",
+      "categories": []
+    },
+    {
+      "name": "BTR",
+      "categories": []
+    },
+    {
+      "name": "Bratsk",
+      "categories": []
+    },
+    {
+      "name": "venezuelan",
+      "categories": []
+    },
+    {
+      "name": "venezuela mining crypto",
+      "categories": []
+    },
+    {
+      "name": "venezuela crypto adoption",
+      "categories": []
+    },
+    {
+      "name": "Venezuela bitcoin mining",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Venezuela",
+      "categories": []
+    },
+    {
+      "name": "time magazine",
+      "categories": []
+    },
+    {
+      "name": "grayscale partner",
+      "categories": []
+    },
+    {
+      "name": "bitcoin videos",
+      "categories": []
+    },
+    {
+      "name": "bitcoin video series",
+      "categories": []
+    },
+    {
+      "name": "bitcoin balance sheet",
+      "categories": []
+    },
+    {
+      "name": "Price High",
+      "categories": []
+    },
+    {
+      "name": "polkadot (DOT)",
+      "categories": []
+    },
+    {
+      "name": "Delta Exchange",
+      "categories": []
+    },
+    {
+      "name": "Crypto markets",
+      "categories": []
+    },
+    {
+      "name": "cardano (ADA)",
+      "categories": []
+    },
+    {
+      "name": "$63275 per BTC",
+      "categories": []
+    },
+    {
+      "name": "time",
+      "categories": []
+    },
+    {
+      "name": "Run",
+      "categories": []
+    },
+    {
+      "name": "JavaScript",
+      "categories": []
+    },
+    {
+      "name": "build on Bitcoin",
+      "categories": []
+    },
+    {
+      "name": "BSV Library",
+      "categories": []
+    },
+    {
+      "name": "Sunny Fung",
+      "categories": []
+    },
+    {
+      "name": "Showpay",
+      "categories": []
+    },
+    {
+      "name": "MetaID",
+      "categories": []
+    },
+    {
+      "name": "data ownership",
+      "categories": []
+    },
+    {
+      "name": "WeAreDevelopers",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin SV DevCon 2021",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin SV DevCon",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin development",
+      "categories": []
+    },
+    {
+      "name": "patent",
+      "categories": []
+    },
+    {
+      "name": "reginald fowler",
+      "categories": []
+    },
+    {
+      "name": "Crypto Capital",
+      "categories": []
+    },
+    {
+      "name": "IntechOpen",
+      "categories": []
+    },
+    {
+      "name": "Eva R Porras",
+      "categories": []
+    },
+    {
+      "name": "Bryan Daugherty",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin and Ethics in a Technological Society",
+      "categories": []
+    },
+    {
+      "name": "Crypto Open Patent Alliance",
+      "categories": []
+    },
+    {
+      "name": "Paystack",
+      "categories": []
+    },
+    {
+      "name": "bank verification number",
+      "categories": []
+    },
+    {
+      "name": "PwC",
+      "categories": []
+    },
+    {
+      "name": "SDF",
+      "categories": []
+    },
+    {
+      "name": "Cryptocurrency Adoption",
+      "categories": []
+    },
+    {
+      "name": "Currency.com",
+      "categories": []
+    }
+  ],
+  "categoriesList5": [
+    {
+      "name": "spectrocoin",
+      "categories": []
+    },
+    {
+      "name": "ColdStack",
+      "categories": []
+    },
+    {
+      "name": "orbs network",
+      "categories": []
+    },
+    {
+      "name": "metamask",
+      "categories": []
+    },
+    {
+      "name": "market watch",
+      "categories": []
+    },
+    {
+      "name": "pundix",
+      "categories": []
+    },
+    {
+      "name": "IOTA (MIOTA)",
+      "categories": []
+    },
+    {
+      "name": "cpi",
+      "categories": []
+    },
+    {
+      "name": "Raze Network",
+      "categories": []
+    },
+    {
+      "name": "pi cycle top indicator",
+      "categories": []
+    },
+    {
+      "name": "pi",
+      "categories": []
+    },
+    {
+      "name": "core inflation",
+      "categories": []
+    },
+    {
+      "name": "consumer price inflation",
+      "categories": []
+    },
+    {
+      "name": "German",
+      "categories": []
+    },
+    {
+      "name": "CAKE",
+      "categories": []
+    },
+    {
+      "name": "BTG Price",
+      "categories": []
+    },
+    {
+      "name": "Accenture",
+      "categories": []
+    },
+    {
+      "name": "Corda",
+      "categories": []
+    },
+    {
+      "name": "Liberty",
+      "categories": []
+    },
+    {
+      "name": "Smart contracts",
+      "categories": []
+    },
+    {
+      "name": "dlcs",
+      "categories": []
+    },
+    {
+      "name": "ben carman",
+      "categories": []
+    },
+    {
+      "name": "arthur hayes",
+      "categories": []
+    },
+    {
+      "name": "Courts",
+      "categories": []
+    },
+    {
+      "name": "marriage",
+      "categories": []
+    },
+    {
+      "name": "nft-securities",
+      "categories": []
+    },
+    {
+      "name": "are-nfts-securities",
+      "categories": []
+    },
+    {
+      "name": "robux",
+      "categories": []
+    },
+    {
+      "name": "roblox-memes",
+      "categories": []
+    },
+    {
+      "name": "roblox",
+      "categories": []
+    },
+    {
+      "name": "ic-markets",
+      "categories": []
+    },
+    {
+      "name": "ParagonEX Dynamic",
+      "categories": []
+    },
+    {
+      "name": "Paragonex",
+      "categories": []
+    },
+    {
+      "name": "nominations",
+      "categories": []
+    },
+    {
+      "name": "Marex",
+      "categories": []
+    },
+    {
+      "name": "KNC",
+      "categories": []
+    },
+    {
+      "name": "automated market maker (AMM)",
+      "categories": []
+    },
+    {
+      "name": "TRO token",
+      "categories": []
+    },
+    {
+      "name": "Metis",
+      "categories": []
+    },
+    {
+      "name": "Ripple labs",
+      "categories": []
+    },
+    {
+      "name": "Whatsapp",
+      "categories": []
+    },
+    {
+      "name": "Signal App",
+      "categories": []
+    },
+    {
+      "name": "MobileCoin",
+      "categories": []
+    },
+    {
+      "name": "Facebook Libra",
+      "categories": []
+    },
+    {
+      "name": "Facebook Diem",
+      "categories": []
+    },
+    {
+      "name": "Crypto payments",
+      "categories": []
+    },
+    {
+      "name": "Atani",
+      "categories": []
+    },
+    {
+      "name": "KOSPI Exchange",
+      "categories": []
+    },
+    {
+      "name": "sandbox",
+      "categories": []
+    },
+    {
+      "name": "Concordium",
+      "categories": []
+    },
+    {
+      "name": "KSMUSD",
+      "categories": []
+    },
+    {
+      "name": "XLM/USD Price Analysis",
+      "categories": []
+    },
+    {
+      "name": "fei protocol",
+      "categories": []
+    },
+    {
+      "name": "Gemini News",
+      "categories": []
+    },
+    {
+      "name": "TRIBE Price",
+      "categories": []
+    },
+    {
+      "name": "FEI Price",
+      "categories": []
+    },
+    {
+      "name": "InstaDApp",
+      "categories": []
+    },
+    {
+      "name": "INST Token",
+      "categories": []
+    },
+    {
+      "name": "BitMEX News",
+      "categories": []
+    },
+    {
+      "name": "messaging app",
+      "categories": []
+    },
+    {
+      "name": "crypto rewards",
+      "categories": []
+    },
+    {
+      "name": "Polkadot futures",
+      "categories": []
+    },
+    {
+      "name": "Dot price",
+      "categories": []
+    },
+    {
+      "name": "Greg Dwyer",
+      "categories": []
+    },
+    {
+      "name": "Samuel Reed",
+      "categories": []
+    },
+    {
+      "name": "Ben Delo",
+      "categories": []
+    },
+    {
+      "name": "messaging",
+      "categories": []
+    },
+    {
+      "name": "OpenSea",
+      "categories": []
+    },
+    {
+      "name": "SNL",
+      "categories": []
+    },
+    {
+      "name": "Luka Garza",
+      "categories": []
+    },
+    {
+      "name": "Quarterly reports",
+      "categories": []
+    },
+    {
+      "name": "Valuation",
+      "categories": []
+    },
+    {
+      "name": "institutional funds",
+      "categories": []
+    },
+    {
+      "name": "U.S. Government",
+      "categories": []
+    },
+    {
+      "name": "Environment",
+      "categories": []
+    },
+    {
+      "name": "xrp sec",
+      "categories": []
+    },
+    {
+      "name": "xrp lawsuit",
+      "categories": []
+    },
+    {
+      "name": "sec xrp",
+      "categories": []
+    },
+    {
+      "name": "ripple sec",
+      "categories": []
+    },
+    {
+      "name": "nexo xrp",
+      "categories": []
+    },
+    {
+      "name": "nexo sued",
+      "categories": []
+    },
+    {
+      "name": "nexo lawsuit",
+      "categories": []
+    },
+    {
+      "name": "the Sacramento Kings",
+      "categories": []
+    },
+    {
+      "name": "Sacramento Kings cryptocurrency",
+      "categories": []
+    },
+    {
+      "name": "Sacramento Kings crypto",
+      "categories": []
+    },
+    {
+      "name": "Sacramento Kings bitcoin",
+      "categories": []
+    },
+    {
+      "name": "paid in bitcoin",
+      "categories": []
+    },
+    {
+      "name": "nba team",
+      "categories": []
+    },
+    {
+      "name": "nba bitcoin",
+      "categories": []
+    },
+    {
+      "name": "SBTC",
+      "categories": []
+    },
+    {
+      "name": "Renbtc",
+      "categories": []
+    },
+    {
+      "name": "LBTC",
+      "categories": []
+    },
+    {
+      "name": "Ki Young Ju",
+      "categories": []
+    },
+    {
+      "name": "HBTC",
+      "categories": []
+    },
+    {
+      "name": "Cryptoquant",
+      "categories": []
+    },
+    {
+      "name": "BTCB",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin-pegged",
+      "categories": []
+    },
+    {
+      "name": "Binance Smartchain",
+      "categories": []
+    },
+    {
+      "name": "Binance BTCB reserve balance",
+      "categories": []
+    },
+    {
+      "name": "/r/btc",
+      "categories": []
+    }
+  ],
+  "categoriesList6": [
+    {
+      "name": "Barter Smartplace",
+      "categories": []
+    },
+    {
+      "name": "Github repository",
+      "categories": []
+    },
+    {
+      "name": "cyber attacks",
+      "categories": []
+    },
+    {
+      "name": "crypto miners",
+      "categories": []
+    },
+    {
+      "name": "Cloud Mining",
+      "categories": []
+    },
+    {
+      "name": "digital yen",
+      "categories": []
+    },
+    {
+      "name": "Marathon Digital Holdings",
+      "categories": []
+    },
+    {
+      "name": "DMG Blockchain",
+      "categories": []
+    },
+    {
+      "name": "speculation",
+      "categories": []
+    },
+    {
+      "name": "Paxos blockchain",
+      "categories": []
+    },
+    {
+      "name": "Nomura",
+      "categories": []
+    },
+    {
+      "name": "Validators",
+      "categories": []
+    },
+    {
+      "name": "Stellar Network",
+      "categories": []
+    },
+    {
+      "name": "Bitstsmp",
+      "categories": []
+    },
+    {
+      "name": "btc/usd",
+      "categories": []
+    },
+    {
+      "name": "Snopp Dogg",
+      "categories": []
+    },
+    {
+      "name": "Celer Network",
+      "categories": []
+    },
+    {
+      "name": "Topps",
+      "categories": []
+    },
+    {
+      "name": "Time",
+      "categories": []
+    },
+    {
+      "name": "Quartz",
+      "categories": []
+    },
+    {
+      "name": "Playmates",
+      "categories": []
+    },
+    {
+      "name": "Playboy NFTs",
+      "categories": []
+    },
+    {
+      "name": "Playboy Magazine",
+      "categories": []
+    },
+    {
+      "name": "Playboy",
+      "categories": []
+    },
+    {
+      "name": "NYT NFT",
+      "categories": []
+    },
+    {
+      "name": "NFT Auction House",
+      "categories": []
+    },
+    {
+      "name": "Men's Lifestyle",
+      "categories": []
+    },
+    {
+      "name": "Entertainment Magazine",
+      "categories": []
+    },
+    {
+      "name": "Associated Press NFT",
+      "categories": []
+    },
+    {
+      "name": "latvia",
+      "categories": []
+    },
+    {
+      "name": "artists",
+      "categories": []
+    },
+    {
+      "name": "settlement",
+      "categories": []
+    },
+    {
+      "name": "Instinet",
+      "categories": []
+    },
+    {
+      "name": "Paysbitcoin.org",
+      "categories": []
+    },
+    {
+      "name": "rodolfo novak",
+      "categories": []
+    },
+    {
+      "name": "TRON Price",
+      "categories": []
+    },
+    {
+      "name": "Books",
+      "categories": []
+    },
+    {
+      "name": "coinmarketcap",
+      "categories": []
+    },
+    {
+      "name": "Single Asset Investment Vehicle",
+      "categories": []
+    },
+    {
+      "name": "Oracle Token",
+      "categories": []
+    },
+    {
+      "name": "Large Cap Fund",
+      "categories": []
+    },
+    {
+      "name": "GDLC",
+      "categories": []
+    },
+    {
+      "name": "Ethereum-built",
+      "categories": []
+    },
+    {
+      "name": "Digital Large Cap Fund",
+      "categories": []
+    },
+    {
+      "name": "SIX Exchange",
+      "categories": []
+    },
+    {
+      "name": "MATICUSD",
+      "categories": []
+    },
+    {
+      "name": "MATICBTC",
+      "categories": []
+    },
+    {
+      "name": "COMPUSD",
+      "categories": []
+    },
+    {
+      "name": "STX",
+      "categories": []
+    },
+    {
+      "name": "ALPHA",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Faucet",
+      "categories": []
+    },
+    {
+      "name": "Polkdot (DOT)",
+      "categories": []
+    },
+    {
+      "name": "margin call",
+      "categories": []
+    },
+    {
+      "name": "CFD trading",
+      "categories": []
+    },
+    {
+      "name": "patterns",
+      "categories": []
+    },
+    {
+      "name": "tools",
+      "categories": []
+    },
+    {
+      "name": "apps",
+      "categories": []
+    },
+    {
+      "name": "analytics",
+      "categories": []
+    },
+    {
+      "name": "b2b",
+      "categories": []
+    },
+    {
+      "name": "saas-marketing",
+      "categories": []
+    },
+    {
+      "name": "b2b-marketing",
+      "categories": []
+    },
+    {
+      "name": "stress-reduction",
+      "categories": []
+    },
+    {
+      "name": "success",
+      "categories": []
+    },
+    {
+      "name": "datasets",
+      "categories": []
+    },
+    {
+      "name": "big-data-processing",
+      "categories": []
+    },
+    {
+      "name": "big-data-analytics",
+      "categories": []
+    },
+    {
+      "name": "headless",
+      "categories": []
+    },
+    {
+      "name": "headless-chrome",
+      "categories": []
+    },
+    {
+      "name": "winklevoss",
+      "categories": []
+    },
+    {
+      "name": "Porn",
+      "categories": []
+    },
+    {
+      "name": "gemini",
+      "categories": []
+    },
+    {
+      "name": "erotica",
+      "categories": []
+    },
+    {
+      "name": "Voltage",
+      "categories": []
+    },
+    {
+      "name": "Wikileaks",
+      "categories": []
+    },
+    {
+      "name": "cFund",
+      "categories": []
+    },
+    {
+      "name": "Scaling",
+      "categories": []
+    },
+    {
+      "name": "Initial DEX Offering (IDO)",
+      "categories": []
+    },
+    {
+      "name": "Gnosis Safe",
+      "categories": []
+    },
+    {
+      "name": "Gnosis Auction",
+      "categories": []
+    },
+    {
+      "name": "Gnosis",
+      "categories": []
+    },
+    {
+      "name": "XRP price",
+      "categories": []
+    },
+    {
+      "name": "total value locked",
+      "categories": []
+    },
+    {
+      "name": "trading cards",
+      "categories": []
+    },
+    {
+      "name": "digital collectibles. NFTs",
+      "categories": []
+    },
+    {
+      "name": "topps",
+      "categories": []
+    },
+    {
+      "name": "micropayments",
+      "categories": []
+    },
+    {
+      "name": "KIWIE",
+      "categories": []
+    },
+    {
+      "name": "COTI",
+      "categories": []
+    },
+    {
+      "name": "New Jersey",
+      "categories": []
+    },
+    {
+      "name": "LTC price",
+      "categories": []
+    },
+    {
+      "name": "Litecoin ETP",
+      "categories": []
+    },
+    {
+      "name": "Grayscale Large Cap Fund",
+      "categories": []
+    },
+    {
+      "name": "Chainlik",
+      "categories": []
+    },
+    {
+      "name": "CI Global",
+      "categories": []
+    },
+    {
+      "name": "CI Financial Corp",
+      "categories": []
+    },
+    {
+      "name": "South Korean Exchanges",
+      "categories": []
+    },
+    {
+      "name": "SK Retail",
+      "categories": []
+    },
+    {
+      "name": "Korbit",
+      "categories": []
+    },
+    {
+      "name": "kimchi premium",
+      "categories": []
+    },
+    {
+      "name": "fatf",
+      "categories": []
+    }
+  ],
+  "categoriesList7": [
+    {
+      "name": "ethereum prices",
+      "categories": []
+    },
+    {
+      "name": "Bithumb",
+      "categories": []
+    },
+    {
+      "name": "bitcoin prices",
+      "categories": []
+    },
+    {
+      "name": "bitcoin cash prices",
+      "categories": []
+    },
+    {
+      "name": "18% Premium",
+      "categories": []
+    },
+    {
+      "name": "social marketplace",
+      "categories": []
+    },
+    {
+      "name": "Mijem",
+      "categories": []
+    },
+    {
+      "name": "Ayre Group Ventures",
+      "categories": []
+    },
+    {
+      "name": "joe biden",
+      "categories": []
+    },
+    {
+      "name": "Altcoin Prices",
+      "categories": []
+    },
+    {
+      "name": "Altcoin Dominance",
+      "categories": []
+    },
+    {
+      "name": "Higher Education",
+      "categories": []
+    },
+    {
+      "name": "Music NFT",
+      "categories": []
+    },
+    {
+      "name": "Cryptowisser",
+      "categories": []
+    },
+    {
+      "name": "Intergovernmental Fintech Working Group",
+      "categories": []
+    },
+    {
+      "name": "Zatoshi",
+      "categories": []
+    },
+    {
+      "name": "onboarding",
+      "categories": []
+    },
+    {
+      "name": "Mitto.Cash",
+      "categories": []
+    },
+    {
+      "name": "Gifting",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Trust Fund",
+      "categories": []
+    },
+    {
+      "name": "iFXEXPO Dubai",
+      "categories": []
+    },
+    {
+      "name": "events",
+      "categories": []
+    },
+    {
+      "name": "Cointelegraph Consulting",
+      "categories": []
+    },
+    {
+      "name": "PrimeXBT",
+      "categories": []
+    },
+    {
+      "name": "Akon",
+      "categories": []
+    },
+    {
+      "name": "bttusd",
+      "categories": []
+    },
+    {
+      "name": "btt price",
+      "categories": []
+    },
+    {
+      "name": "bittorrent price",
+      "categories": []
+    },
+    {
+      "name": "bittorrent",
+      "categories": []
+    },
+    {
+      "name": "Fincen",
+      "categories": []
+    },
+    {
+      "name": "Newcomers",
+      "categories": []
+    },
+    {
+      "name": "Compass",
+      "categories": []
+    },
+    {
+      "name": "Asics",
+      "categories": []
+    },
+    {
+      "name": "Upstream data",
+      "categories": []
+    },
+    {
+      "name": "South korea",
+      "categories": []
+    },
+    {
+      "name": "dollar cost averaging",
+      "categories": []
+    },
+    {
+      "name": "Kattana",
+      "categories": []
+    },
+    {
+      "name": "web",
+      "categories": []
+    },
+    {
+      "name": "html",
+      "categories": []
+    },
+    {
+      "name": "wasm",
+      "categories": []
+    },
+    {
+      "name": "c-programming",
+      "categories": []
+    },
+    {
+      "name": "cpp",
+      "categories": []
+    },
+    {
+      "name": "mobile-apps",
+      "categories": []
+    },
+    {
+      "name": "mobidev",
+      "categories": []
+    },
+    {
+      "name": "best-skyrim-hair-mods",
+      "categories": []
+    },
+    {
+      "name": "skyrim-hair-mods",
+      "categories": []
+    },
+    {
+      "name": "trends",
+      "categories": []
+    },
+    {
+      "name": "tech-trends-2021",
+      "categories": []
+    },
+    {
+      "name": "customer-support",
+      "categories": []
+    },
+    {
+      "name": "ticketing-systems",
+      "categories": []
+    },
+    {
+      "name": "zendesk",
+      "categories": []
+    },
+    {
+      "name": "slack-integration",
+      "categories": []
+    },
+    {
+      "name": "quora",
+      "categories": []
+    },
+    {
+      "name": "wikipedia",
+      "categories": []
+    },
+    {
+      "name": "tech-ceo-interviews",
+      "categories": []
+    },
+    {
+      "name": "goal-setting",
+      "categories": []
+    },
+    {
+      "name": "long-term-results",
+      "categories": []
+    },
+    {
+      "name": "how-to-think-about-your-career",
+      "categories": []
+    },
+    {
+      "name": "vision",
+      "categories": []
+    },
+    {
+      "name": "careers",
+      "categories": []
+    },
+    {
+      "name": "goals",
+      "categories": []
+    },
+    {
+      "name": "ec2",
+      "categories": []
+    },
+    {
+      "name": "docker-image",
+      "categories": []
+    },
+    {
+      "name": "docker",
+      "categories": []
+    },
+    {
+      "name": "iosdevelopment",
+      "categories": []
+    },
+    {
+      "name": "video-game-development",
+      "categories": []
+    },
+    {
+      "name": "gamedev",
+      "categories": []
+    },
+    {
+      "name": "game-development",
+      "categories": []
+    },
+    {
+      "name": "unity3d",
+      "categories": []
+    },
+    {
+      "name": "unity",
+      "categories": []
+    },
+    {
+      "name": "responsive-web-design",
+      "categories": []
+    },
+    {
+      "name": "design-trends",
+      "categories": []
+    },
+    {
+      "name": "workplace",
+      "categories": []
+    },
+    {
+      "name": "startup-culture",
+      "categories": []
+    },
+    {
+      "name": "freelance-writing",
+      "categories": []
+    },
+    {
+      "name": "seo-content-writing",
+      "categories": []
+    },
+    {
+      "name": "enterprise-technology",
+      "categories": []
+    },
+    {
+      "name": "it-innovation",
+      "categories": []
+    },
+    {
+      "name": "tt-games",
+      "categories": []
+    },
+    {
+      "name": "lego-star-wars",
+      "categories": []
+    },
+    {
+      "name": "lego",
+      "categories": []
+    },
+    {
+      "name": "lego-star-wars-skywalker-saga",
+      "categories": []
+    },
+    {
+      "name": "Solitics",
+      "categories": []
+    },
+    {
+      "name": "Retention",
+      "categories": []
+    },
+    {
+      "name": "longevity",
+      "categories": []
+    },
+    {
+      "name": "japan crypto",
+      "categories": []
+    },
+    {
+      "name": "Bank Of Japan",
+      "categories": []
+    },
+    {
+      "name": "acuity",
+      "categories": []
+    },
+    {
+      "name": "Stripe",
+      "categories": []
+    },
+    {
+      "name": "trading 212",
+      "categories": []
+    },
+    {
+      "name": "IG",
+      "categories": []
+    },
+    {
+      "name": "Exness",
+      "categories": []
+    },
+    {
+      "name": "Apac",
+      "categories": []
+    },
+    {
+      "name": "Credit Suisse",
+      "categories": []
+    },
+    {
+      "name": "Praxis Cashier",
+      "categories": []
+    },
+    {
+      "name": "Match2Pay",
+      "categories": []
+    },
+    {
+      "name": "Match-Prime",
+      "categories": []
+    },
+    {
+      "name": "regtech",
+      "categories": []
+    },
+    {
+      "name": "prime of prime",
+      "categories": []
+    },
+    {
+      "name": "cfh-clearing",
+      "categories": []
+    }
+  ],
+  "categoriesList8": [
+    {
+      "name": "virtue signaling",
+      "categories": []
+    },
+    {
+      "name": "celebrity",
+      "categories": []
+    },
+    {
+      "name": "StormX",
+      "categories": []
+    },
+    {
+      "name": "Storm Shop",
+      "categories": []
+    },
+    {
+      "name": "Storm Play",
+      "categories": []
+    },
+    {
+      "name": "STMX",
+      "categories": []
+    },
+    {
+      "name": "omi",
+      "categories": []
+    },
+    {
+      "name": "ecomi",
+      "categories": []
+    },
+    {
+      "name": "Xend Finance",
+      "categories": []
+    },
+    {
+      "name": "Human Protocol",
+      "categories": []
+    },
+    {
+      "name": "e-money",
+      "categories": []
+    },
+    {
+      "name": "LTO Network",
+      "categories": []
+    },
+    {
+      "name": "Future-of-Work",
+      "categories": []
+    },
+    {
+      "name": "Effect Force",
+      "categories": []
+    },
+    {
+      "name": "Decentralized Identity",
+      "categories": []
+    },
+    {
+      "name": "turkey",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin demand",
+      "categories": []
+    },
+    {
+      "name": "DeepStake",
+      "categories": []
+    },
+    {
+      "name": "Vogue Business",
+      "categories": []
+    },
+    {
+      "name": "Fashion NFT",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Holdings",
+      "categories": []
+    },
+    {
+      "name": "$MTR",
+      "categories": []
+    },
+    {
+      "name": "BTC buy calls",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Rally",
+      "categories": []
+    },
+    {
+      "name": "ETH Spot Volume",
+      "categories": []
+    },
+    {
+      "name": "ETH Implied Volume",
+      "categories": []
+    },
+    {
+      "name": "Sites",
+      "categories": []
+    },
+    {
+      "name": "Cryptocurrency trading sites",
+      "categories": []
+    },
+    {
+      "name": "xlmusdt",
+      "categories": []
+    },
+    {
+      "name": "Total Value Locked",
+      "categories": []
+    },
+    {
+      "name": "DEFIPERP",
+      "categories": []
+    },
+    {
+      "name": "KNCUSD",
+      "categories": []
+    },
+    {
+      "name": "Rumors",
+      "categories": []
+    },
+    {
+      "name": "Tyler Winklevoss",
+      "categories": []
+    },
+    {
+      "name": "Ark Invest",
+      "categories": []
+    },
+    {
+      "name": "Kimchi Premium",
+      "categories": []
+    },
+    {
+      "name": "Digital Fashion",
+      "categories": []
+    },
+    {
+      "name": "Burn",
+      "categories": []
+    },
+    {
+      "name": "Sacramento Kings",
+      "categories": []
+    },
+    {
+      "name": "usdt",
+      "categories": []
+    },
+    {
+      "name": "Polkdadot",
+      "categories": []
+    },
+    {
+      "name": "tokenized securities",
+      "categories": []
+    },
+    {
+      "name": "currency.com",
+      "categories": []
+    },
+    {
+      "name": "DFX token",
+      "categories": []
+    },
+    {
+      "name": "DeFireX",
+      "categories": []
+    },
+    {
+      "name": "LQTY Price",
+      "categories": []
+    },
+    {
+      "name": "LQTY",
+      "categories": []
+    },
+    {
+      "name": "Liquity",
+      "categories": []
+    },
+    {
+      "name": "IRS Cryptocurrency",
+      "categories": []
+    },
+    {
+      "name": "Internal Revenue Service (IRS)",
+      "categories": []
+    },
+    {
+      "name": "Coinbase Stock",
+      "categories": []
+    },
+    {
+      "name": "COIN Stock",
+      "categories": []
+    },
+    {
+      "name": "KAVA Price",
+      "categories": []
+    },
+    {
+      "name": "GRT Price",
+      "categories": []
+    },
+    {
+      "name": "Aramco",
+      "categories": []
+    },
+    {
+      "name": "ARK investments",
+      "categories": []
+    },
+    {
+      "name": "Awards",
+      "categories": []
+    },
+    {
+      "name": "Sustainability",
+      "categories": []
+    },
+    {
+      "name": "cross-border billing",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin 20 Multi-Market Investment Fund. Gemini custody",
+      "categories": []
+    },
+    {
+      "name": "BTG Pactual",
+      "categories": []
+    },
+    {
+      "name": "Pitch Competition",
+      "categories": []
+    },
+    {
+      "name": "3LAU",
+      "categories": []
+    },
+    {
+      "name": "Ashton Kutcher",
+      "categories": []
+    },
+    {
+      "name": "Art exhibition",
+      "categories": []
+    },
+    {
+      "name": "Mork",
+      "categories": []
+    },
+    {
+      "name": "RLY",
+      "categories": []
+    },
+    {
+      "name": "Rally",
+      "categories": []
+    },
+    {
+      "name": "Whale",
+      "categories": []
+    },
+    {
+      "name": "social tokens",
+      "categories": []
+    },
+    {
+      "name": "xrp price",
+      "categories": []
+    },
+    {
+      "name": "CryptoKitties",
+      "categories": []
+    },
+    {
+      "name": "CoinShares",
+      "categories": []
+    },
+    {
+      "name": "Publicly Listed firm",
+      "categories": []
+    },
+    {
+      "name": "microstrategy btc",
+      "categories": []
+    },
+    {
+      "name": "BTC Microstrategy",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Microstrategy",
+      "categories": []
+    },
+    {
+      "name": "Valuations",
+      "categories": []
+    },
+    {
+      "name": "IOV blockchain",
+      "categories": []
+    },
+    {
+      "name": "hitchain",
+      "categories": []
+    },
+    {
+      "name": "elysian",
+      "categories": []
+    },
+    {
+      "name": "Crypto Prices",
+      "categories": []
+    },
+    {
+      "name": "crypto economy",
+      "categories": []
+    },
+    {
+      "name": "BTC Dominance",
+      "categories": []
+    },
+    {
+      "name": "Central Bank of Argentina",
+      "categories": []
+    },
+    {
+      "name": "bank account",
+      "categories": []
+    },
+    {
+      "name": "argentina cryptocurrency",
+      "categories": []
+    },
+    {
+      "name": "argentina bitcoin",
+      "categories": []
+    },
+    {
+      "name": "BTCS",
+      "categories": []
+    },
+    {
+      "name": "price prediction",
+      "categories": []
+    },
+    {
+      "name": "institutional adoption",
+      "categories": []
+    },
+    {
+      "name": "bitcoin price target",
+      "categories": []
+    },
+    {
+      "name": "virgin coins",
+      "categories": []
+    },
+    {
+      "name": "trade war china",
+      "categories": []
+    },
+    {
+      "name": "kevin o'leary cryptocurrency",
+      "categories": []
+    },
+    {
+      "name": "kevin o'leary bitcoin",
+      "categories": []
+    },
+    {
+      "name": "kevin o'leary",
+      "categories": []
+    },
+    {
+      "name": "human rights",
+      "categories": []
+    },
+    {
+      "name": "GREEN Energy",
+      "categories": []
+    },
+    {
+      "name": "clean coins",
+      "categories": []
+    }
+  ],
+  "categoriesList9": [
+    {
+      "name": "clean bitcoins",
+      "categories": []
+    },
+    {
+      "name": "blood coins",
+      "categories": []
+    },
+    {
+      "name": "Skew.com",
+      "categories": []
+    },
+    {
+      "name": "perpetual swaps",
+      "categories": []
+    },
+    {
+      "name": "Pankaj Balani",
+      "categories": []
+    },
+    {
+      "name": "Open Interest",
+      "categories": []
+    },
+    {
+      "name": "Okex",
+      "categories": []
+    },
+    {
+      "name": "deribit",
+      "categories": []
+    },
+    {
+      "name": "daily volume",
+      "categories": []
+    },
+    {
+      "name": "cboe",
+      "categories": []
+    },
+    {
+      "name": "Bybit",
+      "categories": []
+    },
+    {
+      "name": "BTC Futures",
+      "categories": []
+    },
+    {
+      "name": "Binance Bitcoin Futures",
+      "categories": []
+    },
+    {
+      "name": "National Crime Agency",
+      "categories": []
+    },
+    {
+      "name": "Illegal Drugs",
+      "categories": []
+    },
+    {
+      "name": "Forum",
+      "categories": []
+    },
+    {
+      "name": "Drugs",
+      "categories": []
+    },
+    {
+      "name": "darknet marketplaces",
+      "categories": []
+    },
+    {
+      "name": "darknet",
+      "categories": []
+    },
+    {
+      "name": "Potcoin",
+      "categories": []
+    },
+    {
+      "name": "Nexus",
+      "categories": []
+    },
+    {
+      "name": "financing round",
+      "categories": []
+    },
+    {
+      "name": "CB Insights",
+      "categories": []
+    },
+    {
+      "name": "bitcoin bull run",
+      "categories": []
+    },
+    {
+      "name": "Her Majesty\u2019s Revenue and Customs",
+      "categories": []
+    },
+    {
+      "name": "Tokenized",
+      "categories": []
+    },
+    {
+      "name": "Platform as a Service",
+      "categories": []
+    },
+    {
+      "name": "Banking as a Service",
+      "categories": []
+    },
+    {
+      "name": "API tools",
+      "categories": []
+    },
+    {
+      "name": "Twetch Egg",
+      "categories": []
+    },
+    {
+      "name": "non-fungible token",
+      "categories": []
+    },
+    {
+      "name": "Billy Rose",
+      "categories": []
+    },
+    {
+      "name": "airdrop",
+      "categories": []
+    },
+    {
+      "name": "John Glen",
+      "categories": []
+    },
+    {
+      "name": "iGaming affiliates",
+      "categories": []
+    },
+    {
+      "name": "Xiaohui Liu",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Class with Satoshi",
+      "categories": []
+    },
+    {
+      "name": "Wei Dai",
+      "categories": []
+    },
+    {
+      "name": "digital cash",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Alert Key",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin SV Virtual Meetup",
+      "categories": []
+    },
+    {
+      "name": "Asia Pacific",
+      "categories": []
+    },
+    {
+      "name": "wink",
+      "categories": []
+    },
+    {
+      "name": "vBNT",
+      "categories": []
+    },
+    {
+      "name": "BItTorrent Token",
+      "categories": []
+    },
+    {
+      "name": "Cryptocurrency market cap",
+      "categories": []
+    },
+    {
+      "name": "$2 Trillion",
+      "categories": []
+    },
+    {
+      "name": "Prada",
+      "categories": []
+    },
+    {
+      "name": "Louis Vuitton",
+      "categories": []
+    },
+    {
+      "name": "Gucci",
+      "categories": []
+    },
+    {
+      "name": "Manga",
+      "categories": []
+    },
+    {
+      "name": "CROSSLINK",
+      "categories": []
+    },
+    {
+      "name": "Bull Run",
+      "categories": []
+    },
+    {
+      "name": "ONTUSD",
+      "categories": []
+    },
+    {
+      "name": "ONTBTC",
+      "categories": []
+    },
+    {
+      "name": "fei",
+      "categories": []
+    },
+    {
+      "name": "puell multiple",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin futures",
+      "categories": []
+    },
+    {
+      "name": "Digital Euros",
+      "categories": []
+    },
+    {
+      "name": "Cryptocurrency Ban",
+      "categories": []
+    },
+    {
+      "name": "Crypto Loan",
+      "categories": []
+    },
+    {
+      "name": "Nexo",
+      "categories": []
+    },
+    {
+      "name": "Bittorrent",
+      "categories": []
+    },
+    {
+      "name": "CMS Prime",
+      "categories": []
+    },
+    {
+      "name": "cfds",
+      "categories": []
+    },
+    {
+      "name": "platinum",
+      "categories": []
+    },
+    {
+      "name": "palladium",
+      "categories": []
+    },
+    {
+      "name": "Copper",
+      "categories": []
+    },
+    {
+      "name": "Twetch",
+      "categories": []
+    },
+    {
+      "name": "Tendie",
+      "categories": []
+    },
+    {
+      "name": "MatterPool",
+      "categories": []
+    },
+    {
+      "name": "Josh Petty",
+      "categories": []
+    },
+    {
+      "name": "Elon Moist",
+      "categories": []
+    },
+    {
+      "name": "Ask Me Anything",
+      "categories": []
+    },
+    {
+      "name": "April Fools Day",
+      "categories": []
+    },
+    {
+      "name": "trading volumes",
+      "categories": []
+    },
+    {
+      "name": "MOEX\u2019s FX Market",
+      "categories": []
+    },
+    {
+      "name": "GBTC Premium",
+      "categories": []
+    },
+    {
+      "name": "TRXBTC",
+      "categories": []
+    },
+    {
+      "name": "uk fca",
+      "categories": []
+    },
+    {
+      "name": "UK Crypto Legal",
+      "categories": []
+    },
+    {
+      "name": "crypto scams",
+      "categories": []
+    },
+    {
+      "name": "Crown Prosecution Service",
+      "categories": []
+    },
+    {
+      "name": "CPS",
+      "categories": []
+    },
+    {
+      "name": "twilio",
+      "categories": []
+    },
+    {
+      "name": "sms",
+      "categories": []
+    },
+    {
+      "name": "plivo",
+      "categories": []
+    },
+    {
+      "name": "mortal-kombat",
+      "categories": []
+    },
+    {
+      "name": "3ds",
+      "categories": []
+    },
+    {
+      "name": "xbox",
+      "categories": []
+    },
+    {
+      "name": "halo-infinite-release-date",
+      "categories": []
+    },
+    {
+      "name": "halo-infinite",
+      "categories": []
+    },
+    {
+      "name": "new-halo-game",
+      "categories": []
+    },
+    {
+      "name": "the-simpsons",
+      "categories": []
+    },
+    {
+      "name": "mario",
+      "categories": []
+    },
+    {
+      "name": "game-weapons",
+      "categories": []
+    },
+    {
+      "name": "zelda",
+      "categories": []
+    },
+    {
+      "name": "final-fantasy",
+      "categories": []
+    },
+    {
+      "name": "korea",
+      "categories": []
+    },
+    {
+      "name": "ZEEDO",
+      "categories": []
+    }
+  ],
+  "categoriesList10": [
+    {
+      "name": "TRO",
+      "categories": []
+    },
+    {
+      "name": "TRIBE",
+      "categories": []
+    },
+    {
+      "name": "Fei Labs",
+      "categories": []
+    },
+    {
+      "name": "WRX Price",
+      "categories": []
+    },
+    {
+      "name": "wazirx",
+      "categories": []
+    },
+    {
+      "name": "blockchain marriage",
+      "categories": []
+    },
+    {
+      "name": "Wedding",
+      "categories": []
+    },
+    {
+      "name": "crypto adoption",
+      "categories": []
+    },
+    {
+      "name": "bonding curve",
+      "categories": []
+    },
+    {
+      "name": "FEI",
+      "categories": []
+    },
+    {
+      "name": "xFORCE",
+      "categories": []
+    },
+    {
+      "name": "should i sell bitcoin",
+      "categories": []
+    },
+    {
+      "name": "should i buy bitcoin",
+      "categories": []
+    },
+    {
+      "name": "selling bitcoin",
+      "categories": []
+    },
+    {
+      "name": "dave ramsey cryptocurrency",
+      "categories": []
+    },
+    {
+      "name": "dave ramsey crypto advice",
+      "categories": []
+    },
+    {
+      "name": "dave ramsey crypto",
+      "categories": []
+    },
+    {
+      "name": "dave ramsey bitcoin advice",
+      "categories": []
+    },
+    {
+      "name": "dave ramsey bitcoin",
+      "categories": []
+    },
+    {
+      "name": "dave ramsey",
+      "categories": []
+    },
+    {
+      "name": "bitcoin investment advice",
+      "categories": []
+    },
+    {
+      "name": "ron paul bitcoin",
+      "categories": []
+    },
+    {
+      "name": "Ron Paul",
+      "categories": []
+    },
+    {
+      "name": "government threat",
+      "categories": []
+    },
+    {
+      "name": "government intervention",
+      "categories": []
+    },
+    {
+      "name": "government crackdown",
+      "categories": []
+    },
+    {
+      "name": "government ban",
+      "categories": []
+    },
+    {
+      "name": "gold confiscation",
+      "categories": []
+    },
+    {
+      "name": "bitcoin confiscation",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin ban",
+      "categories": []
+    },
+    {
+      "name": "well-anchored 2%",
+      "categories": []
+    },
+    {
+      "name": "US Inflation",
+      "categories": []
+    },
+    {
+      "name": "shadowstats.com",
+      "categories": []
+    },
+    {
+      "name": "Purchasing Power",
+      "categories": []
+    },
+    {
+      "name": "OIL",
+      "categories": []
+    },
+    {
+      "name": "Lumber",
+      "categories": []
+    },
+    {
+      "name": "Inflation per annum",
+      "categories": []
+    },
+    {
+      "name": "home sales",
+      "categories": []
+    },
+    {
+      "name": "goods services",
+      "categories": []
+    },
+    {
+      "name": "Goods and Services",
+      "categories": []
+    },
+    {
+      "name": "equipmentradar.com",
+      "categories": []
+    },
+    {
+      "name": "Corn",
+      "categories": []
+    },
+    {
+      "name": "Bureaucrats",
+      "categories": []
+    },
+    {
+      "name": "2%",
+      "categories": []
+    },
+    {
+      "name": "2.24%",
+      "categories": []
+    },
+    {
+      "name": "Zoracles",
+      "categories": []
+    },
+    {
+      "name": "oracle projects spike",
+      "categories": []
+    },
+    {
+      "name": "oracle projects",
+      "categories": []
+    },
+    {
+      "name": "Ether oracles",
+      "categories": []
+    },
+    {
+      "name": "ETH oracles",
+      "categories": []
+    },
+    {
+      "name": "defi oracles",
+      "categories": []
+    },
+    {
+      "name": "band",
+      "categories": []
+    },
+    {
+      "name": "Bitstocks Sight Series",
+      "categories": []
+    },
+    {
+      "name": "holiday",
+      "categories": []
+    },
+    {
+      "name": "Easter",
+      "categories": []
+    },
+    {
+      "name": "Time ventures",
+      "categories": []
+    },
+    {
+      "name": "Ribbit",
+      "categories": []
+    },
+    {
+      "name": "Chainanalysis",
+      "categories": []
+    },
+    {
+      "name": "Blockchain Technnology",
+      "categories": []
+    },
+    {
+      "name": "Blockchain Adoption",
+      "categories": []
+    },
+    {
+      "name": "interest rate",
+      "categories": []
+    },
+    {
+      "name": "FOMC",
+      "categories": []
+    },
+    {
+      "name": "enjusd",
+      "categories": []
+    },
+    {
+      "name": "enjbtc",
+      "categories": []
+    },
+    {
+      "name": "Jpmorgan",
+      "categories": []
+    },
+    {
+      "name": "google-cloud-platform",
+      "categories": []
+    },
+    {
+      "name": "cloud-based-apps",
+      "categories": []
+    },
+    {
+      "name": "cloud-native",
+      "categories": []
+    },
+    {
+      "name": "technology-newbies",
+      "categories": []
+    },
+    {
+      "name": "self-learning",
+      "categories": []
+    },
+    {
+      "name": "career-development",
+      "categories": []
+    },
+    {
+      "name": "newbie",
+      "categories": []
+    },
+    {
+      "name": "programming-languages",
+      "categories": []
+    },
+    {
+      "name": "integration-testing",
+      "categories": []
+    },
+    {
+      "name": "application",
+      "categories": []
+    },
+    {
+      "name": "api-gateway",
+      "categories": []
+    },
+    {
+      "name": "api-testing",
+      "categories": []
+    },
+    {
+      "name": "instagram-strategy",
+      "categories": []
+    },
+    {
+      "name": "marketing-trends",
+      "categories": []
+    },
+    {
+      "name": "tech-companies",
+      "categories": []
+    },
+    {
+      "name": "digital-marketing-service",
+      "categories": []
+    },
+    {
+      "name": "ipo",
+      "categories": []
+    },
+    {
+      "name": "semrush",
+      "categories": []
+    },
+    {
+      "name": "BTC Off Exchanges",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Liquidity",
+      "categories": []
+    },
+    {
+      "name": "The Weeknd",
+      "categories": []
+    },
+    {
+      "name": "Video Games",
+      "categories": []
+    },
+    {
+      "name": "Fei Protocol",
+      "categories": []
+    },
+    {
+      "name": "snoop dogg",
+      "categories": []
+    },
+    {
+      "name": "storj",
+      "categories": []
+    },
+    {
+      "name": "markets pro",
+      "categories": []
+    },
+    {
+      "name": "newsquake",
+      "categories": []
+    },
+    {
+      "name": "vortecs",
+      "categories": []
+    },
+    {
+      "name": "prime minister",
+      "categories": []
+    },
+    {
+      "name": "Xapo",
+      "categories": []
+    },
+    {
+      "name": "south africa crypto",
+      "categories": []
+    },
+    {
+      "name": "regulatory box",
+      "categories": []
+    },
+    {
+      "name": "Mercury FX",
+      "categories": []
+    },
+    {
+      "name": "cross border remittances",
+      "categories": []
+    },
+    {
+      "name": "Centbee",
+      "categories": []
+    }
+  ],
+  "categoriesList11": [
+    {
+      "name": "john doe summons",
+      "categories": []
+    },
+    {
+      "name": "cryptocurrency users",
+      "categories": []
+    },
+    {
+      "name": "crypto users",
+      "categories": []
+    },
+    {
+      "name": "crypto traders",
+      "categories": []
+    },
+    {
+      "name": "Crypto tax",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Users",
+      "categories": []
+    },
+    {
+      "name": "\u00d8ystein Stray Spetalen",
+      "categories": []
+    },
+    {
+      "name": "Norwegian billionaire",
+      "categories": []
+    },
+    {
+      "name": "millionaires fomo",
+      "categories": []
+    },
+    {
+      "name": "Millionaires",
+      "categories": []
+    },
+    {
+      "name": "Kjell Inge R\u00f8kke",
+      "categories": []
+    },
+    {
+      "name": "FOMO",
+      "categories": []
+    },
+    {
+      "name": "fear of missing out",
+      "categories": []
+    },
+    {
+      "name": "Billionaires",
+      "categories": []
+    },
+    {
+      "name": "billionaire fomo",
+      "categories": []
+    },
+    {
+      "name": "XTM",
+      "categories": []
+    },
+    {
+      "name": "Torum",
+      "categories": []
+    },
+    {
+      "name": "paris hilton nft",
+      "categories": []
+    },
+    {
+      "name": "paris hilton cryptocurrency",
+      "categories": []
+    },
+    {
+      "name": "paris hilton crypto",
+      "categories": []
+    },
+    {
+      "name": "paris hilton btc",
+      "categories": []
+    },
+    {
+      "name": "paris hilton bitcoin",
+      "categories": []
+    },
+    {
+      "name": "Paris Hilton",
+      "categories": []
+    },
+    {
+      "name": "laser eyes",
+      "categories": []
+    },
+    {
+      "name": "Litecoin News",
+      "categories": []
+    },
+    {
+      "name": "LiquidiFy",
+      "categories": []
+    },
+    {
+      "name": "prediction markets",
+      "categories": []
+    },
+    {
+      "name": "polars",
+      "categories": []
+    },
+    {
+      "name": "BCH/BYC",
+      "categories": []
+    },
+    {
+      "name": "Guide",
+      "categories": []
+    },
+    {
+      "name": "LTC price rally",
+      "categories": []
+    },
+    {
+      "name": "Litecoin price rally",
+      "categories": []
+    },
+    {
+      "name": "Orbs Blockchain",
+      "categories": []
+    },
+    {
+      "name": "White Hat",
+      "categories": []
+    },
+    {
+      "name": "ForceDAO",
+      "categories": []
+    },
+    {
+      "name": "attack",
+      "categories": []
+    },
+    {
+      "name": "Contango,",
+      "categories": []
+    },
+    {
+      "name": "On-chain Analysis",
+      "categories": []
+    },
+    {
+      "name": "team",
+      "categories": []
+    },
+    {
+      "name": "nontechnical-explanation",
+      "categories": []
+    },
+    {
+      "name": "business-analysis",
+      "categories": []
+    },
+    {
+      "name": "non-developers",
+      "categories": []
+    },
+    {
+      "name": "for-non-tech-people",
+      "categories": []
+    },
+    {
+      "name": "graph",
+      "categories": []
+    },
+    {
+      "name": "baas",
+      "categories": []
+    },
+    {
+      "name": "saas",
+      "categories": []
+    },
+    {
+      "name": "best-practices",
+      "categories": []
+    },
+    {
+      "name": "data-security-guide",
+      "categories": []
+    },
+    {
+      "name": "udemy",
+      "categories": []
+    },
+    {
+      "name": "lms",
+      "categories": []
+    },
+    {
+      "name": "edtech",
+      "categories": []
+    },
+    {
+      "name": "lms-software",
+      "categories": []
+    },
+    {
+      "name": "linkedin",
+      "categories": []
+    },
+    {
+      "name": "customer-service",
+      "categories": []
+    },
+    {
+      "name": "chrome-extension",
+      "categories": []
+    },
+    {
+      "name": "google-chrome",
+      "categories": []
+    },
+    {
+      "name": "salesql-updates",
+      "categories": []
+    },
+    {
+      "name": "mmorpg",
+      "categories": []
+    },
+    {
+      "name": "elder-scrolls-online-enhanced",
+      "categories": []
+    },
+    {
+      "name": "elder-scrolls",
+      "categories": []
+    },
+    {
+      "name": "team-cherry",
+      "categories": []
+    },
+    {
+      "name": "silksong-release-date",
+      "categories": []
+    },
+    {
+      "name": "hollow-knight-silksong",
+      "categories": []
+    },
+    {
+      "name": "hollow-knight",
+      "categories": []
+    },
+    {
+      "name": "route-planning",
+      "categories": []
+    },
+    {
+      "name": "maps",
+      "categories": []
+    },
+    {
+      "name": "mapbox-vs-googlemap",
+      "categories": []
+    },
+    {
+      "name": "mapbox",
+      "categories": []
+    },
+    {
+      "name": "cyber-risks",
+      "categories": []
+    },
+    {
+      "name": "risk-assessment",
+      "categories": []
+    },
+    {
+      "name": "trends-in-cybersecurity",
+      "categories": []
+    },
+    {
+      "name": "interviewing-tips",
+      "categories": []
+    },
+    {
+      "name": "recr",
+      "categories": []
+    },
+    {
+      "name": "branding-tips",
+      "categories": []
+    },
+    {
+      "name": "font-picker",
+      "categories": []
+    },
+    {
+      "name": "digital-marketing-design",
+      "categories": []
+    },
+    {
+      "name": "work",
+      "categories": []
+    },
+    {
+      "name": "how-to-start-learning-to-code",
+      "categories": []
+    },
+    {
+      "name": "practice-daily",
+      "categories": []
+    },
+    {
+      "name": "beginners-to-coding",
+      "categories": []
+    },
+    {
+      "name": "how-to-choose-a-logo",
+      "categories": []
+    },
+    {
+      "name": "logo-design",
+      "categories": []
+    },
+    {
+      "name": "brand",
+      "categories": []
+    },
+    {
+      "name": "video-streaming",
+      "categories": []
+    },
+    {
+      "name": "streaming",
+      "categories": []
+    },
+    {
+      "name": "captioning",
+      "categories": []
+    },
+    {
+      "name": "video-marketing",
+      "categories": []
+    },
+    {
+      "name": "video",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Halving",
+      "categories": []
+    },
+    {
+      "name": "Fuse",
+      "categories": []
+    },
+    {
+      "name": "DAO Maker",
+      "categories": []
+    },
+    {
+      "name": "DAFI",
+      "categories": []
+    },
+    {
+      "name": "Ankr",
+      "categories": []
+    },
+    {
+      "name": "SEFI tokens",
+      "categories": []
+    },
+    {
+      "name": "secretswap",
+      "categories": []
+    },
+    {
+      "name": "Secret DeFi",
+      "categories": []
+    },
+    {
+      "name": "scrt",
+      "categories": []
+    },
+    {
+      "name": "spi",
+      "categories": []
+    },
+    {
+      "name": "shoppin.io",
+      "categories": []
+    },
+    {
+      "name": "IM Intelligent Mining",
+      "categories": []
+    }
+  ],
+  "categoriesList12": [
+    {
+      "name": "Crypto mining",
+      "categories": []
+    },
+    {
+      "name": "Linear Finance",
+      "categories": []
+    },
+    {
+      "name": "erc-20 token",
+      "categories": []
+    },
+    {
+      "name": "FuseSwap",
+      "categories": []
+    },
+    {
+      "name": "FUSE token",
+      "categories": []
+    },
+    {
+      "name": "Battle Pets",
+      "categories": []
+    },
+    {
+      "name": "shopify",
+      "categories": []
+    },
+    {
+      "name": "defi commerce",
+      "categories": []
+    },
+    {
+      "name": "hedera hashgraph",
+      "categories": []
+    },
+    {
+      "name": "ENJUSDT",
+      "categories": []
+    },
+    {
+      "name": "ENJUSD",
+      "categories": []
+    },
+    {
+      "name": "ENJEUR",
+      "categories": []
+    },
+    {
+      "name": "ENJETH",
+      "categories": []
+    },
+    {
+      "name": "HT",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Bulls",
+      "categories": []
+    },
+    {
+      "name": "BTC Trading Volume",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Kimchi Premium",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin $60K",
+      "categories": []
+    },
+    {
+      "name": "ICXUSDT (TradingView)",
+      "categories": []
+    },
+    {
+      "name": "ICXUSD (TradingView)",
+      "categories": []
+    },
+    {
+      "name": "ICXETH (TradingView)",
+      "categories": []
+    },
+    {
+      "name": "ICXBTC (TradingView)",
+      "categories": []
+    },
+    {
+      "name": "ICX",
+      "categories": []
+    },
+    {
+      "name": "DOTUDS (TradingView)",
+      "categories": []
+    },
+    {
+      "name": "VETUSDT",
+      "categories": []
+    },
+    {
+      "name": "AVAXUSDT",
+      "categories": []
+    },
+    {
+      "name": "AVAX",
+      "categories": []
+    },
+    {
+      "name": "TD Sequential",
+      "categories": []
+    },
+    {
+      "name": "td 13",
+      "categories": []
+    },
+    {
+      "name": "ltcbtc",
+      "categories": []
+    },
+    {
+      "name": "ltc/usd",
+      "categories": []
+    },
+    {
+      "name": "Sheesha Finance",
+      "categories": []
+    },
+    {
+      "name": "Saeed Al Darmaki",
+      "categories": []
+    },
+    {
+      "name": "Royale Finance",
+      "categories": []
+    },
+    {
+      "name": "Robin Hood",
+      "categories": []
+    },
+    {
+      "name": "LGE",
+      "categories": []
+    },
+    {
+      "name": "James Bowater",
+      "categories": []
+    },
+    {
+      "name": "Benjamin Leff",
+      "categories": []
+    },
+    {
+      "name": "Blockchain Art",
+      "categories": []
+    },
+    {
+      "name": "aaveusdt",
+      "categories": []
+    },
+    {
+      "name": "THORChain (RUNE)",
+      "categories": []
+    },
+    {
+      "name": "Solana (SOL)",
+      "categories": []
+    },
+    {
+      "name": "Holo (HOT)",
+      "categories": []
+    },
+    {
+      "name": "LocalBitcoins",
+      "categories": []
+    },
+    {
+      "name": "NFT Tokens ( Non-Fungible-Tokens)",
+      "categories": []
+    },
+    {
+      "name": "Top 10s in Crypto Market",
+      "categories": []
+    },
+    {
+      "name": "US Regulation",
+      "categories": []
+    },
+    {
+      "name": "crypto market index",
+      "categories": []
+    },
+    {
+      "name": "Privacy Coins",
+      "categories": []
+    },
+    {
+      "name": "Privacy Coin",
+      "categories": []
+    },
+    {
+      "name": "KYC (Know Your Customer)",
+      "categories": []
+    },
+    {
+      "name": "Anti-Money Laundering (AML)",
+      "categories": []
+    },
+    {
+      "name": "Fat Pig Signals",
+      "categories": []
+    },
+    {
+      "name": "Bitmain News",
+      "categories": []
+    },
+    {
+      "name": "ASIC mining",
+      "categories": []
+    },
+    {
+      "name": "CTi token",
+      "categories": []
+    },
+    {
+      "name": "Clintex",
+      "categories": []
+    },
+    {
+      "name": "Solar Hashes",
+      "categories": []
+    },
+    {
+      "name": "Centralized Exchange (CEX)",
+      "categories": []
+    },
+    {
+      "name": "Altcoin Analysis",
+      "categories": []
+    },
+    {
+      "name": "DeFi Deep Dive",
+      "categories": []
+    },
+    {
+      "name": "Disney",
+      "categories": []
+    },
+    {
+      "name": "Winklevoss Twins",
+      "categories": []
+    },
+    {
+      "name": "companies",
+      "categories": []
+    },
+    {
+      "name": "portfolio",
+      "categories": []
+    },
+    {
+      "name": "diversification",
+      "categories": []
+    },
+    {
+      "name": "real estate",
+      "categories": []
+    },
+    {
+      "name": "skew",
+      "categories": []
+    },
+    {
+      "name": "ETH options",
+      "categories": []
+    },
+    {
+      "name": "Ethereum futures",
+      "categories": []
+    },
+    {
+      "name": "Shopify",
+      "categories": []
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "categories": []
+    },
+    {
+      "name": "decentralized marketplace",
+      "categories": []
+    },
+    {
+      "name": "nonfungible token",
+      "categories": []
+    },
+    {
+      "name": "crash",
+      "categories": []
+    },
+    {
+      "name": "correction",
+      "categories": []
+    },
+    {
+      "name": "Cryptopunks",
+      "categories": []
+    },
+    {
+      "name": "Women",
+      "categories": []
+    },
+    {
+      "name": "Music industry",
+      "categories": []
+    },
+    {
+      "name": "music",
+      "categories": []
+    },
+    {
+      "name": "stablecoin pooling",
+      "categories": []
+    },
+    {
+      "name": "single-sided liquidity",
+      "categories": []
+    },
+    {
+      "name": "Orbs blockchain",
+      "categories": []
+    },
+    {
+      "name": "Liquidity Pools",
+      "categories": []
+    },
+    {
+      "name": "liquidity nexus protocol",
+      "categories": []
+    },
+    {
+      "name": "cryptocurrency pooling",
+      "categories": []
+    },
+    {
+      "name": "stacktical",
+      "categories": []
+    },
+    {
+      "name": "DSLA",
+      "categories": []
+    },
+    {
+      "name": "U.S Securities and Exchange Commission's (SEC)",
+      "categories": []
+    },
+    {
+      "name": "Work",
+      "categories": []
+    },
+    {
+      "name": "vacancies",
+      "categories": []
+    },
+    {
+      "name": "positions",
+      "categories": []
+    },
+    {
+      "name": "opportunities",
+      "categories": []
+    },
+    {
+      "name": "jobs",
+      "categories": []
+    },
+    {
+      "name": "Indeed",
+      "categories": []
+    },
+    {
+      "name": "Health",
+      "categories": []
+    },
+    {
+      "name": "Freelancers",
+      "categories": []
+    },
+    {
+      "name": "epidemic",
+      "categories": []
+    },
+    {
+      "name": "crypto space",
+      "categories": []
+    },
+    {
+      "name": "Crypto jobs",
+      "categories": []
+    }
+  ],
+  "categoriesList13": [
+    {
+      "name": "coronavirus pandemic",
+      "categories": []
+    },
+    {
+      "name": "Blockchain Jobs",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin.com Jobs",
+      "categories": []
+    },
+    {
+      "name": "Ads",
+      "categories": []
+    },
+    {
+      "name": "Snoop Dogg",
+      "categories": []
+    },
+    {
+      "name": "Hip-Hop Artist",
+      "categories": []
+    },
+    {
+      "name": "TV Bitcoin",
+      "categories": []
+    },
+    {
+      "name": "The Simpsons",
+      "categories": []
+    },
+    {
+      "name": "The Falcon and the Winter Soldier.",
+      "categories": []
+    },
+    {
+      "name": "Shameless",
+      "categories": []
+    },
+    {
+      "name": "Navy CIS LA",
+      "categories": []
+    },
+    {
+      "name": "Marvel Shows",
+      "categories": []
+    },
+    {
+      "name": "Marvel Cinema",
+      "categories": []
+    },
+    {
+      "name": "marvel",
+      "categories": []
+    },
+    {
+      "name": "Jeopardy",
+      "categories": []
+    },
+    {
+      "name": "House Of Cards",
+      "categories": []
+    },
+    {
+      "name": "Good Wife",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin on TV",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin on Television",
+      "categories": []
+    },
+    {
+      "name": "Alex Trebek",
+      "categories": []
+    },
+    {
+      "name": "Uganda",
+      "categories": []
+    },
+    {
+      "name": "sales",
+      "categories": []
+    },
+    {
+      "name": "Oversupply",
+      "categories": []
+    },
+    {
+      "name": "Oversaturation",
+      "categories": []
+    },
+    {
+      "name": "nonfungible.com data",
+      "categories": []
+    },
+    {
+      "name": "Non-fungible Token",
+      "categories": []
+    },
+    {
+      "name": "NFT sales",
+      "categories": []
+    },
+    {
+      "name": "NFT interest decline",
+      "categories": []
+    },
+    {
+      "name": "James Surowiecki",
+      "categories": []
+    },
+    {
+      "name": "Google trends",
+      "categories": []
+    },
+    {
+      "name": "Finance author",
+      "categories": []
+    },
+    {
+      "name": "Mining Eth",
+      "categories": []
+    },
+    {
+      "name": "June 2021",
+      "categories": []
+    },
+    {
+      "name": "July 2021",
+      "categories": []
+    },
+    {
+      "name": "Innosilicon",
+      "categories": []
+    },
+    {
+      "name": "FinFET wafers",
+      "categories": []
+    },
+    {
+      "name": "Ether miners",
+      "categories": []
+    },
+    {
+      "name": "ETH Miners",
+      "categories": []
+    },
+    {
+      "name": "ETH hashrate",
+      "categories": []
+    },
+    {
+      "name": "A11 Pro Ethmaster",
+      "categories": []
+    },
+    {
+      "name": "750 MH/s",
+      "categories": []
+    },
+    {
+      "name": "5nm",
+      "categories": []
+    },
+    {
+      "name": "55nm",
+      "categories": []
+    },
+    {
+      "name": "500 MH/s",
+      "categories": []
+    },
+    {
+      "name": "2000 MH/s",
+      "categories": []
+    },
+    {
+      "name": "Xend",
+      "categories": []
+    },
+    {
+      "name": "AscendEx",
+      "categories": []
+    },
+    {
+      "name": "willy woo",
+      "categories": []
+    },
+    {
+      "name": "scott melker",
+      "categories": []
+    },
+    {
+      "name": "Cardano News",
+      "categories": []
+    },
+    {
+      "name": "German Finance Agency",
+      "categories": []
+    },
+    {
+      "name": "Frankfurt",
+      "categories": []
+    },
+    {
+      "name": "Deutsche Bundesbank",
+      "categories": []
+    },
+    {
+      "name": "Deutsche Borse Group",
+      "categories": []
+    },
+    {
+      "name": "Sovereign",
+      "categories": []
+    },
+    {
+      "name": "Republic of Marshall Islands",
+      "categories": []
+    },
+    {
+      "name": "Marshall Islands",
+      "categories": []
+    },
+    {
+      "name": "grants",
+      "categories": []
+    },
+    {
+      "name": "food and beverage",
+      "categories": []
+    },
+    {
+      "name": "Brisbane",
+      "categories": []
+    },
+    {
+      "name": "Blockchain Pilot Grants",
+      "categories": []
+    },
+    {
+      "name": "polkamon",
+      "categories": []
+    },
+    {
+      "name": "CLVA",
+      "categories": []
+    },
+    {
+      "name": "Clever DeFi",
+      "categories": []
+    },
+    {
+      "name": "CLEVER",
+      "categories": []
+    },
+    {
+      "name": "TFUELUSD",
+      "categories": []
+    },
+    {
+      "name": "Tik Tok Influencer",
+      "categories": []
+    },
+    {
+      "name": "Mando Coin",
+      "categories": []
+    },
+    {
+      "name": "Coinmetrics",
+      "categories": []
+    },
+    {
+      "name": "BTC Gold Correlation",
+      "categories": []
+    },
+    {
+      "name": "Theta token",
+      "categories": []
+    },
+    {
+      "name": "alt season",
+      "categories": []
+    },
+    {
+      "name": "Alt rally",
+      "categories": []
+    },
+    {
+      "name": "Build",
+      "categories": []
+    },
+    {
+      "name": "Stake.com",
+      "categories": []
+    },
+    {
+      "name": "trading transparency",
+      "categories": []
+    },
+    {
+      "name": "DTCC",
+      "categories": []
+    },
+    {
+      "name": "call options",
+      "categories": []
+    },
+    {
+      "name": "texas",
+      "categories": []
+    },
+    {
+      "name": "Ideas",
+      "categories": []
+    },
+    {
+      "name": "law enforcement",
+      "categories": []
+    },
+    {
+      "name": "kibana",
+      "categories": []
+    },
+    {
+      "name": "devopsintelco",
+      "categories": []
+    },
+    {
+      "name": "telecommunication",
+      "categories": []
+    },
+    {
+      "name": "telco-softwarisation",
+      "categories": []
+    },
+    {
+      "name": "edge-computing",
+      "categories": []
+    },
+    {
+      "name": "edge",
+      "categories": []
+    },
+    {
+      "name": "stuxnet",
+      "categories": []
+    },
+    {
+      "name": "zero-trust",
+      "categories": []
+    },
+    {
+      "name": "data-augmentation",
+      "categories": []
+    },
+    {
+      "name": "data-annotation",
+      "categories": []
+    },
+    {
+      "name": "data-collection",
+      "categories": []
+    },
+    {
+      "name": "synthetic-data",
+      "categories": []
+    },
+    {
+      "name": "data-labelling",
+      "categories": []
+    },
+    {
+      "name": "bethesda-softworks",
+      "categories": []
+    },
+    {
+      "name": "bethesda",
+      "categories": []
+    },
+    {
+      "name": "skyrim-modding",
+      "categories": []
+    },
+    {
+      "name": "skyrim",
+      "categories": []
+    },
+    {
+      "name": "skyrim-weapon-mods",
+      "categories": []
+    },
+    {
+      "name": "mobile-development",
+      "categories": []
+    }
+  ],
+  "categoriesList14": [
+    {
+      "name": "unit-testing",
+      "categories": []
+    },
+    {
+      "name": "test-automation",
+      "categories": []
+    },
+    {
+      "name": "bull-market",
+      "categories": []
+    },
+    {
+      "name": "future-of-money",
+      "categories": []
+    },
+    {
+      "name": "get-more-btc",
+      "categories": []
+    },
+    {
+      "name": "bitcoin-stock-to-flow-model",
+      "categories": []
+    },
+    {
+      "name": "bitcoin-price",
+      "categories": []
+    },
+    {
+      "name": "student-visa",
+      "categories": []
+    },
+    {
+      "name": "engineering-education",
+      "categories": []
+    },
+    {
+      "name": "poutine",
+      "categories": []
+    },
+    {
+      "name": "morris-dancing",
+      "categories": []
+    },
+    {
+      "name": "life",
+      "categories": []
+    },
+    {
+      "name": "third-world",
+      "categories": []
+    },
+    {
+      "name": "migration",
+      "categories": []
+    },
+    {
+      "name": "bitcoin-mining",
+      "categories": []
+    },
+    {
+      "name": "stacks",
+      "categories": []
+    },
+    {
+      "name": "venezuela",
+      "categories": []
+    },
+    {
+      "name": "universal-basic-income",
+      "categories": []
+    },
+    {
+      "name": "nft-tokenization",
+      "categories": []
+    },
+    {
+      "name": "nft-vs-crypto",
+      "categories": []
+    },
+    {
+      "name": "what-is-nft",
+      "categories": []
+    },
+    {
+      "name": "nft-vr",
+      "categories": []
+    },
+    {
+      "name": "senso",
+      "categories": []
+    },
+    {
+      "name": "idor",
+      "categories": []
+    },
+    {
+      "name": "Orbs",
+      "categories": []
+    },
+    {
+      "name": "Cboe FX",
+      "categories": []
+    },
+    {
+      "name": "bank of thailand",
+      "categories": []
+    },
+    {
+      "name": "dxFeed",
+      "categories": []
+    },
+    {
+      "name": "All-Time High",
+      "categories": []
+    },
+    {
+      "name": "Yield Protocol",
+      "categories": []
+    },
+    {
+      "name": "Trodl",
+      "categories": []
+    },
+    {
+      "name": "Splyt",
+      "categories": []
+    },
+    {
+      "name": "KnitFinance",
+      "categories": []
+    },
+    {
+      "name": "Deeper Network",
+      "categories": []
+    },
+    {
+      "name": "Yeild farming",
+      "categories": []
+    },
+    {
+      "name": "Nominex",
+      "categories": []
+    },
+    {
+      "name": "April Fool",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin price target",
+      "categories": []
+    },
+    {
+      "name": "$130K",
+      "categories": []
+    },
+    {
+      "name": "eth btc",
+      "categories": []
+    },
+    {
+      "name": "BTCETH (TradingView)",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin. BTC",
+      "categories": []
+    },
+    {
+      "name": "FIL Price",
+      "categories": []
+    },
+    {
+      "name": "Goldman Sachs Bitcoin",
+      "categories": []
+    },
+    {
+      "name": "Fidelity Bitcoin",
+      "categories": []
+    },
+    {
+      "name": "CBOE Bitcoin",
+      "categories": []
+    },
+    {
+      "name": "Dapper Labs",
+      "categories": []
+    },
+    {
+      "name": "blockfi",
+      "categories": []
+    },
+    {
+      "name": "Arcane Research",
+      "categories": []
+    },
+    {
+      "name": "Draper Goren Holm",
+      "categories": []
+    },
+    {
+      "name": "VGX Price",
+      "categories": []
+    },
+    {
+      "name": "ONE Price",
+      "categories": []
+    },
+    {
+      "name": "CHSB Price",
+      "categories": []
+    },
+    {
+      "name": "CEL Price",
+      "categories": []
+    },
+    {
+      "name": "BTMX Price",
+      "categories": []
+    },
+    {
+      "name": "GreenBong Meter Coin",
+      "categories": []
+    },
+    {
+      "name": "USD Coin (USDC)",
+      "categories": []
+    },
+    {
+      "name": "U.S. Internal Revenue Service (IRS)",
+      "categories": []
+    },
+    {
+      "name": "Swipe (SXP)",
+      "categories": []
+    },
+    {
+      "name": "IOTA Price",
+      "categories": []
+    },
+    {
+      "name": "VanEck SolidX Bitcoin ETF",
+      "categories": []
+    },
+    {
+      "name": "Fidelity Investments",
+      "categories": []
+    },
+    {
+      "name": "Chicago Board Options Exchange (CBOE)",
+      "categories": []
+    },
+    {
+      "name": "HOT Price",
+      "categories": []
+    },
+    {
+      "name": "DENT",
+      "categories": []
+    },
+    {
+      "name": "EIP1559",
+      "categories": []
+    },
+    {
+      "name": "Parity",
+      "categories": []
+    },
+    {
+      "name": "Licensing",
+      "categories": []
+    },
+    {
+      "name": "Research Report",
+      "categories": []
+    },
+    {
+      "name": "NFT scam",
+      "categories": []
+    },
+    {
+      "name": "Giveaways",
+      "categories": []
+    },
+    {
+      "name": "art NFT",
+      "categories": []
+    },
+    {
+      "name": "Nasdaq Listing",
+      "categories": []
+    },
+    {
+      "name": "nasdaq",
+      "categories": []
+    },
+    {
+      "name": "coinbase stock",
+      "categories": []
+    },
+    {
+      "name": "coinbase shares",
+      "categories": []
+    },
+    {
+      "name": "Coinbase public offering",
+      "categories": []
+    },
+    {
+      "name": "coinbase nasdaq",
+      "categories": []
+    },
+    {
+      "name": "coinbase ipo date",
+      "categories": []
+    },
+    {
+      "name": "coinbase going public",
+      "categories": []
+    },
+    {
+      "name": "COIN",
+      "categories": []
+    },
+    {
+      "name": "mutual funds",
+      "categories": []
+    },
+    {
+      "name": "ms",
+      "categories": []
+    },
+    {
+      "name": "morgan stanley mutual funds",
+      "categories": []
+    },
+    {
+      "name": "morgan stanley grayscale",
+      "categories": []
+    },
+    {
+      "name": "morgan stanley gbtc",
+      "categories": []
+    },
+    {
+      "name": "morgan stanley bitcoin futures",
+      "categories": []
+    },
+    {
+      "name": "morgan stanley bitcoin",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin exposure",
+      "categories": []
+    },
+    {
+      "name": "ben armstrong",
+      "categories": []
+    },
+    {
+      "name": "jesse powell",
+      "categories": []
+    },
+    {
+      "name": "Sir Anthony Ritosssa\u2019s 14th Global Family Office Investment Summit",
+      "categories": []
+    },
+    {
+      "name": "regulatory sandbox",
+      "categories": []
+    },
+    {
+      "name": "Norway",
+      "categories": []
+    },
+    {
+      "name": "Abendum",
+      "categories": []
+    },
+    {
+      "name": "River",
+      "categories": []
+    },
+    {
+      "name": "Isaac Morehouse",
+      "categories": []
+    },
+    {
+      "name": "TrueReviews",
+      "categories": []
+    },
+    {
+      "name": "reviews",
+      "categories": []
+    },
+    {
+      "name": "Britevue",
+      "categories": []
+    }
+  ],
+  "categoriesList15": [
+    {
+      "name": "studentcoin",
+      "categories": []
+    },
+    {
+      "name": "STC",
+      "categories": []
+    },
+    {
+      "name": "FSA",
+      "categories": []
+    },
+    {
+      "name": "Mark",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Hash Rate",
+      "categories": []
+    },
+    {
+      "name": "John Bollinger",
+      "categories": []
+    },
+    {
+      "name": "Bollinger bands",
+      "categories": []
+    },
+    {
+      "name": "No Index",
+      "categories": []
+    },
+    {
+      "name": "Tranglo",
+      "categories": []
+    },
+    {
+      "name": "South Africa Regulatory Sandbox",
+      "categories": []
+    },
+    {
+      "name": "South Africa FinTech",
+      "categories": []
+    },
+    {
+      "name": "Ripple ODL",
+      "categories": []
+    },
+    {
+      "name": "On Demand Liquidity",
+      "categories": []
+    },
+    {
+      "name": "Mercury",
+      "categories": []
+    },
+    {
+      "name": "IFWG",
+      "categories": []
+    },
+    {
+      "name": "Intercontinental Exchange",
+      "categories": []
+    },
+    {
+      "name": "ICE",
+      "categories": []
+    },
+    {
+      "name": "Crypto Merchants",
+      "categories": []
+    },
+    {
+      "name": "Bakkt Holdings",
+      "categories": []
+    },
+    {
+      "name": "Chatex",
+      "categories": []
+    },
+    {
+      "name": "Morgan Stanley Bitcoin",
+      "categories": []
+    },
+    {
+      "name": "Crypto Liquidation",
+      "categories": []
+    },
+    {
+      "name": "ArcheGos Capital",
+      "categories": []
+    },
+    {
+      "name": "duckdao",
+      "categories": []
+    },
+    {
+      "name": "Qtum",
+      "categories": []
+    },
+    {
+      "name": "Michael Novogratz",
+      "categories": []
+    },
+    {
+      "name": "The9 Limited",
+      "categories": []
+    },
+    {
+      "name": "Filecoin Price Rally",
+      "categories": []
+    },
+    {
+      "name": "Filecoin Grayscale Trust",
+      "categories": []
+    },
+    {
+      "name": "FIL Rally",
+      "categories": []
+    },
+    {
+      "name": "FIL Price Surge",
+      "categories": []
+    },
+    {
+      "name": "Chinese miners",
+      "categories": []
+    },
+    {
+      "name": "China Filecoin Miners",
+      "categories": []
+    },
+    {
+      "name": "LINK Price Rally",
+      "categories": []
+    },
+    {
+      "name": "Grayscale Chainlink Trust",
+      "categories": []
+    },
+    {
+      "name": "FILETH",
+      "categories": []
+    },
+    {
+      "name": "FILBTC",
+      "categories": []
+    },
+    {
+      "name": "FIL Price Rally",
+      "categories": []
+    },
+    {
+      "name": "Polkadot Price Prediction",
+      "categories": []
+    },
+    {
+      "name": "etf",
+      "categories": []
+    },
+    {
+      "name": "ARK Investment",
+      "categories": []
+    },
+    {
+      "name": "ARK ETF",
+      "categories": []
+    },
+    {
+      "name": "Chipotle",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Fund",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Exposure",
+      "categories": []
+    },
+    {
+      "name": "Ponzi scheme",
+      "categories": []
+    },
+    {
+      "name": "Jose Angel Aman",
+      "categories": []
+    },
+    {
+      "name": "Jonathan Seigel",
+      "categories": []
+    },
+    {
+      "name": "Harold Seigel",
+      "categories": []
+    },
+    {
+      "name": "Argyle Coin",
+      "categories": []
+    },
+    {
+      "name": "Total Market Cap",
+      "categories": []
+    },
+    {
+      "name": "ark investment managment",
+      "categories": []
+    },
+    {
+      "name": "Market cap",
+      "categories": []
+    },
+    {
+      "name": "walmart",
+      "categories": []
+    },
+    {
+      "name": "Security tokens",
+      "categories": []
+    },
+    {
+      "name": "stacking sats",
+      "categories": []
+    },
+    {
+      "name": "Cme group",
+      "categories": []
+    },
+    {
+      "name": "Universities",
+      "categories": []
+    },
+    {
+      "name": "brink",
+      "categories": []
+    },
+    {
+      "name": "btcpay server",
+      "categories": []
+    },
+    {
+      "name": "payment processor",
+      "categories": []
+    },
+    {
+      "name": "satoshi nakamoto",
+      "categories": []
+    },
+    {
+      "name": "Azteco",
+      "categories": []
+    },
+    {
+      "name": "Freedom",
+      "categories": []
+    },
+    {
+      "name": "Money On Chain",
+      "categories": []
+    },
+    {
+      "name": "Defense",
+      "categories": []
+    },
+    {
+      "name": "Swipe Wallet",
+      "categories": []
+    },
+    {
+      "name": "Swipe",
+      "categories": []
+    },
+    {
+      "name": "cross-chain-defi",
+      "categories": []
+    },
+    {
+      "name": "unifi",
+      "categories": []
+    },
+    {
+      "name": "koinos",
+      "categories": []
+    },
+    {
+      "name": "organic-ranking",
+      "categories": []
+    },
+    {
+      "name": "search-engine-optimization",
+      "categories": []
+    },
+    {
+      "name": "seo-strategy",
+      "categories": []
+    },
+    {
+      "name": "seo-techniques",
+      "categories": []
+    },
+    {
+      "name": "seo-optimization",
+      "categories": []
+    },
+    {
+      "name": "seo",
+      "categories": []
+    },
+    {
+      "name": "business-growth",
+      "categories": []
+    },
+    {
+      "name": "growth-marketing",
+      "categories": []
+    },
+    {
+      "name": "digital-advertising",
+      "categories": []
+    },
+    {
+      "name": "debugging",
+      "categories": []
+    },
+    {
+      "name": "website-design",
+      "categories": []
+    },
+    {
+      "name": "suckerpunch",
+      "categories": []
+    },
+    {
+      "name": "suckerpunchproductions",
+      "categories": []
+    },
+    {
+      "name": "playstation",
+      "categories": []
+    },
+    {
+      "name": "ghost-of-tsushima-film",
+      "categories": []
+    },
+    {
+      "name": "wix-data",
+      "categories": []
+    },
+    {
+      "name": "firemonkey-framework",
+      "categories": []
+    },
+    {
+      "name": "3d",
+      "categories": []
+    },
+    {
+      "name": "shader",
+      "categories": []
+    },
+    {
+      "name": "delphi",
+      "categories": []
+    },
+    {
+      "name": "delphi-gui-programming",
+      "categories": []
+    },
+    {
+      "name": "shaders",
+      "categories": []
+    },
+    {
+      "name": "technical-books",
+      "categories": []
+    },
+    {
+      "name": "about-my-new-book",
+      "categories": []
+    },
+    {
+      "name": "deno-book",
+      "categories": []
+    },
+    {
+      "name": "deno-web-development",
+      "categories": []
+    },
+    {
+      "name": "deno",
+      "categories": []
+    },
+    {
+      "name": "recruitment",
+      "categories": []
+    },
+    {
+      "name": "how-to-find-talent",
+      "categories": []
+    }
+  ],
+  "categoriesList16": [
+    {
+      "name": "talent-acquisition",
+      "categories": []
+    },
+    {
+      "name": "azure-functions",
+      "categories": []
+    },
+    {
+      "name": "microsoft-azure",
+      "categories": []
+    },
+    {
+      "name": "azure",
+      "categories": []
+    },
+    {
+      "name": "web-performance",
+      "categories": []
+    },
+    {
+      "name": "cdn",
+      "categories": []
+    },
+    {
+      "name": "remote-work-security",
+      "categories": []
+    },
+    {
+      "name": "coding-with-velo",
+      "categories": []
+    },
+    {
+      "name": "learn-programming",
+      "categories": []
+    },
+    {
+      "name": "programming-tips",
+      "categories": []
+    },
+    {
+      "name": "how-to-start-learn-programming",
+      "categories": []
+    },
+    {
+      "name": "technology-updates",
+      "categories": []
+    },
+    {
+      "name": "rt-thread",
+      "categories": []
+    },
+    {
+      "name": "opensource",
+      "categories": []
+    },
+    {
+      "name": "virtual-land-sales",
+      "categories": []
+    },
+    {
+      "name": "the-sandbox",
+      "categories": []
+    },
+    {
+      "name": "virtual-real-estate",
+      "categories": []
+    },
+    {
+      "name": "virtual-land",
+      "categories": []
+    },
+    {
+      "name": "compliance",
+      "categories": []
+    },
+    {
+      "name": "privacy-laws",
+      "categories": []
+    },
+    {
+      "name": "legaltech",
+      "categories": []
+    },
+    {
+      "name": "documentation",
+      "categories": []
+    },
+    {
+      "name": "startup-legal-document-needed",
+      "categories": []
+    },
+    {
+      "name": "terms-and-conditions",
+      "categories": []
+    },
+    {
+      "name": "privacy-policy",
+      "categories": []
+    },
+    {
+      "name": "the-pokemon-company",
+      "categories": []
+    },
+    {
+      "name": "dinosaur-pokemon",
+      "categories": []
+    },
+    {
+      "name": "the-more-you-know",
+      "categories": []
+    },
+    {
+      "name": "turn-project-into-startup",
+      "categories": []
+    },
+    {
+      "name": "hackathon-project-into-startup",
+      "categories": []
+    },
+    {
+      "name": "five-ways",
+      "categories": []
+    },
+    {
+      "name": "sustainable-startup",
+      "categories": []
+    },
+    {
+      "name": "hackathon-project",
+      "categories": []
+    },
+    {
+      "name": "surveillance-capitalism",
+      "categories": []
+    },
+    {
+      "name": "battle-against-surveillance",
+      "categories": []
+    },
+    {
+      "name": "brave-browser",
+      "categories": []
+    },
+    {
+      "name": "digital-privacy",
+      "categories": []
+    },
+    {
+      "name": "decentralized-internet",
+      "categories": []
+    },
+    {
+      "name": "Jp Morgan",
+      "categories": []
+    },
+    {
+      "name": "Bats Global Markets",
+      "categories": []
+    },
+    {
+      "name": "EUR/USD",
+      "categories": []
+    },
+    {
+      "name": "Finance Magnates",
+      "categories": []
+    },
+    {
+      "name": "devexperts",
+      "categories": []
+    },
+    {
+      "name": "formula one",
+      "categories": []
+    },
+    {
+      "name": "Binary Options",
+      "categories": []
+    },
+    {
+      "name": "USD/THB",
+      "categories": []
+    },
+    {
+      "name": "Lucera",
+      "categories": []
+    },
+    {
+      "name": "Equiti",
+      "categories": []
+    },
+    {
+      "name": "social trading",
+      "categories": []
+    },
+    {
+      "name": "Naga Group",
+      "categories": []
+    },
+    {
+      "name": "sharding",
+      "categories": []
+    },
+    {
+      "name": "Ethereum alternatives",
+      "categories": []
+    },
+    {
+      "name": "Total Value Locked (TVL)",
+      "categories": []
+    },
+    {
+      "name": "DeFi Adoption",
+      "categories": []
+    },
+    {
+      "name": "margin trading",
+      "categories": []
+    },
+    {
+      "name": "leveraging",
+      "categories": []
+    },
+    {
+      "name": "Chinese tech stocks",
+      "categories": []
+    },
+    {
+      "name": "Bill Hwang",
+      "categories": []
+    },
+    {
+      "name": "Archegos Capital",
+      "categories": []
+    },
+    {
+      "name": "ETH gas",
+      "categories": []
+    },
+    {
+      "name": "Mirror Protocol",
+      "categories": []
+    },
+    {
+      "name": "Larry Fink",
+      "categories": []
+    },
+    {
+      "name": "Jamie Dimon",
+      "categories": []
+    },
+    {
+      "name": "Fractal",
+      "categories": []
+    },
+    {
+      "name": "DAFI Protocol",
+      "categories": []
+    },
+    {
+      "name": "ORN Token",
+      "categories": []
+    },
+    {
+      "name": "Orion Terminal",
+      "categories": []
+    },
+    {
+      "name": "Efinity",
+      "categories": []
+    },
+    {
+      "name": "HARD Tokens",
+      "categories": []
+    },
+    {
+      "name": "Hard Protocol",
+      "categories": []
+    },
+    {
+      "name": "HARD",
+      "categories": []
+    },
+    {
+      "name": "Lelantus",
+      "categories": []
+    },
+    {
+      "name": "US",
+      "categories": []
+    },
+    {
+      "name": "Chromia",
+      "categories": []
+    },
+    {
+      "name": "CHR",
+      "categories": []
+    },
+    {
+      "name": "Mycelium wallet",
+      "categories": []
+    },
+    {
+      "name": "Mycelium",
+      "categories": []
+    },
+    {
+      "name": "RNS Manager",
+      "categories": []
+    },
+    {
+      "name": "RIF Name Service",
+      "categories": []
+    },
+    {
+      "name": "spacex",
+      "categories": []
+    },
+    {
+      "name": "FILEUSDT",
+      "categories": []
+    },
+    {
+      "name": "FILUSD",
+      "categories": []
+    },
+    {
+      "name": "Dogecoin Price Prediction",
+      "categories": []
+    },
+    {
+      "name": "DOGE Price Analysis",
+      "categories": []
+    },
+    {
+      "name": "Crypto Events",
+      "categories": []
+    },
+    {
+      "name": "EulerBeats",
+      "categories": []
+    },
+    {
+      "name": "VCs",
+      "categories": []
+    },
+    {
+      "name": "Acala",
+      "categories": []
+    },
+    {
+      "name": "Bitcoin Interest Wallet",
+      "categories": []
+    },
+    {
+      "name": "Bexplus",
+      "categories": []
+    },
+    {
+      "name": "Digibyte (DGB)",
+      "categories": []
+    },
+    {
+      "name": "NFT Art",
+      "categories": []
+    },
+    {
+      "name": "Open Interest (OI)",
+      "categories": []
+    },
+    {
+      "name": "Holo",
+      "categories": []
+    },
+    {
+      "name": "HBAR Price",
+      "categories": []
+    },
+    {
+      "name": "DOT Price",
+      "categories": []
+    },
+    {
+      "name": "BAND Price",
+      "categories": []
+    },
+    {
+      "name": "UMA",
+      "categories": []
+    },
+    {
+      "name": "OPIUM Price",
+      "categories": []
+    },
+    {
+      "name": "Opium Network",
+      "categories": []
+    }
+  ],
+  "categoriesList17": [
+    {
+      "name": "Gnosis News",
+      "categories": []
+    },
+    {
+      "name": "Brian Armstrong",
+      "categories": []
+    },
+    {
+      "name": "DOGE price",
+      "categories": []
+    },
+    {
+      "name": "Anime",
+      "categories": []
+    },
+    {
+      "name": "Streaming",
+      "categories": []
+    },
+    {
+      "name": "Rewards",
+      "categories": []
+    },
+    {
+      "name": "education",
+      "categories": []
+    },
+    {
+      "name": "fashion",
+      "categories": []
+    },
+    {
+      "name": "April Fools",
+      "categories": []
+    },
+    {
+      "name": "SOCKS",
+      "categories": []
+    },
+    {
+      "name": "MCAP",
+      "categories": []
+    },
+    {
+      "name": "ethernity chain",
+      "categories": []
+    },
+    {
+      "name": "kenetic capital",
+      "categories": []
+    },
+    {
+      "name": "partnership",
+      "categories": []
+    },
+    {
+      "name": "Akropolis",
+      "categories": []
+    },
+    {
+      "name": "THORChain",
+      "categories": []
+    },
+    {
+      "name": "3iq",
+      "categories": []
+    },
+    {
+      "name": "aave",
+      "categories": []
+    },
+    {
+      "name": "decentraland",
+      "categories": []
+    },
+    {
+      "name": "mana",
+      "categories": []
+    },
+    {
+      "name": "WeChat Pay",
+      "categories": []
+    },
+    {
+      "name": "People\u2019s Bank of China",
+      "categories": []
+    },
+    {
+      "name": "Digital Currency Research Institute",
+      "categories": []
+    },
+    {
+      "name": "Beijing",
+      "categories": []
+    },
+    {
+      "name": "Gate",
+      "categories": []
+    },
+    {
+      "name": "Smart contract",
+      "categories": []
+    },
+    {
+      "name": "Coinbase effect",
+      "categories": []
+    },
+    {
+      "name": "court ruling",
+      "categories": []
+    },
+    {
+      "name": "Circle Internet Financial",
+      "categories": []
+    },
+    {
+      "name": "Son",
+      "categories": []
+    },
+    {
+      "name": "Reddit Post",
+      "categories": []
+    },
+    {
+      "name": "Pundits",
+      "categories": []
+    },
+    {
+      "name": "Mom",
+      "categories": []
+    },
+    {
+      "name": "Loved Ones",
+      "categories": []
+    },
+    {
+      "name": "Lambo Boys",
+      "categories": []
+    },
+    {
+      "name": "Investment Advice",
+      "categories": []
+    },
+    {
+      "name": "Friends",
+      "categories": []
+    },
+    {
+      "name": "Financial Hopes",
+      "categories": []
+    },
+    {
+      "name": "end game",
+      "categories": []
+    },
+    {
+      "name": "economists",
+      "categories": []
+    },
+    {
+      "name": "Daughter",
+      "categories": []
+    },
+    {
+      "name": "Dad",
+      "categories": []
+    },
+    {
+      "name": "advice",
+      "categories": []
+    },
+    {
+      "name": "Suez Token",
+      "categories": []
+    },
+    {
+      "name": "KuCoin",
+      "categories": []
+    },
+    {
+      "name": "April Fool's Day",
+      "categories": []
+    },
+    {
+      "name": "UnitedCorp",
+      "categories": []
+    },
+    {
+      "name": "United American Corp",
+      "categories": []
+    },
+    {
+      "name": "UAC",
+      "categories": []
+    },
+    {
+      "name": "U.S. court",
+      "categories": []
+    },
+    {
+      "name": "Sherman Act",
+      "categories": []
+    },
+    {
+      "name": "Jesse Powell",
+      "categories": []
+    },
+    {
+      "name": "Florida Lawsuit",
+      "categories": []
+    },
+    {
+      "name": "Chris McAliley",
+      "categories": []
+    },
+    {
+      "name": "Bitcoinsv (BSV)",
+      "categories": []
+    },
+    {
+      "name": "BCH Devs",
+      "categories": []
+    },
+    {
+      "name": "BCH developers",
+      "categories": []
+    },
+    {
+      "name": "Antitrust Lawsuit",
+      "categories": []
+    },
+    {
+      "name": "Antitrust Case",
+      "categories": []
+    },
+    {
+      "name": "Wax Blockchain",
+      "categories": []
+    },
+    {
+      "name": "Vinyl Funko Pop!",
+      "categories": []
+    },
+    {
+      "name": "Non-fungible tokens",
+      "categories": []
+    },
+    {
+      "name": "NFT collectibles",
+      "categories": []
+    },
+    {
+      "name": "Nasdaq: FNKO",
+      "categories": []
+    },
+    {
+      "name": "Funko Pop!",
+      "categories": []
+    },
+    {
+      "name": "Funko NFTs",
+      "categories": []
+    },
+    {
+      "name": "Funko",
+      "categories": []
+    },
+    {
+      "name": "Brian Mariotti",
+      "categories": []
+    },
+    {
+      "name": "Bobbleheads",
+      "categories": []
+    },
+    {
+      "name": "Bobblehead",
+      "categories": []
+    },
+    {
+      "name": "xSigma",
+      "categories": []
+    },
+    {
+      "name": "storage network filecoin",
+      "categories": []
+    },
+    {
+      "name": "LiNK",
+      "categories": []
+    },
+    {
+      "name": "filecoin (FIL)",
+      "categories": []
+    },
+    {
+      "name": "$FIL",
+      "categories": []
+    },
+    {
+      "name": "tesla bitcoin",
+      "categories": []
+    },
+    {
+      "name": "Square Inc.",
+      "categories": []
+    },
+    {
+      "name": "2017 Bull run",
+      "categories": []
+    },
+    {
+      "name": "Smartbch website",
+      "categories": []
+    },
+    {
+      "name": "Smartbch",
+      "categories": []
+    },
+    {
+      "name": "Smart Bitcoin Cash",
+      "categories": []
+    },
+    {
+      "name": "MoeingEVM",
+      "categories": []
+    },
+    {
+      "name": "Moeing",
+      "categories": []
+    },
+    {
+      "name": "EVM",
+      "categories": []
+    },
+    {
+      "name": "BCH Miners",
+      "categories": []
+    },
+    {
+      "name": "ireland bitcoin",
+      "categories": []
+    },
+    {
+      "name": "bitcoin scammers",
+      "categories": []
+    },
+    {
+      "name": "bitcoin scam victims",
+      "categories": []
+    },
+    {
+      "name": "ZAR trading pairs",
+      "categories": []
+    },
+    {
+      "name": "low liquidity",
+      "categories": []
+    },
+    {
+      "name": "btc pay",
+      "categories": []
+    },
+    {
+      "name": "rapul pal",
+      "categories": []
+    },
+    {
+      "name": "liquidapps",
+      "categories": []
+    },
+    {
+      "name": "ecurve",
+      "categories": []
+    },
+    {
+      "name": "curve",
+      "categories": []
+    },
+    {
+      "name": "blockchain capital",
+      "categories": []
+    },
+    {
+      "name": "China CBDC",
+      "categories": []
+    },
+    {
+      "name": "Monetary policy",
+      "categories": []
+    },
+    {
+      "name": "Fiscal Policy",
+      "categories": []
+    },
+    {
+      "name": "Fed",
+      "categories": []
+    }
+  ],
+  "categoriesList18": [],
+  "categoriesList19": [],
+  "categoriesList20": []
+}

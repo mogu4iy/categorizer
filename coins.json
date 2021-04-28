@@ -1,0 +1,8395 @@
+{
+  "Cryptocurrencies": [
+    {
+      "names": [
+        "bitcoin",
+        "btc"
+      ],
+      "fullName": "bitcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "ethereum",
+        "eth"
+      ],
+      "fullName": "ethereum",
+      "except": []
+    },
+    {
+      "names": [
+        "binance coin",
+        "bnb",
+        "binance"
+      ],
+      "fullName": "binance coin",
+      "except": []
+    },
+    {
+      "names": [
+        "xrp"
+      ],
+      "fullName": "xrp",
+      "except": []
+    },
+    {
+      "names": [
+        "tether",
+        "usdt"
+      ],
+      "fullName": "tether",
+      "except": []
+    },
+    {
+      "names": [
+        "cardano",
+        "ada"
+      ],
+      "fullName": "cardano",
+      "except": []
+    },
+    {
+      "names": [
+        "dogecoin",
+        "doge"
+      ],
+      "fullName": "dogecoin",
+      "except": []
+    },
+    {
+      "names": [
+        "polkadot",
+        "dot"
+      ],
+      "fullName": "polkadot",
+      "except": []
+    },
+    {
+      "names": [
+        "uniswap",
+        "uni"
+      ],
+      "fullName": "uniswap",
+      "except": []
+    },
+    {
+      "names": [
+        "litecoin",
+        "ltc"
+      ],
+      "fullName": "litecoin",
+      "except": []
+    },
+    {
+      "names": [
+        "bitcoin cash",
+        "bch"
+      ],
+      "fullName": "bitcoin cash",
+      "except": [
+        "bitcoin"
+      ]
+    },
+    {
+      "names": [
+        "chainlink",
+        "link"
+      ],
+      "fullName": "chainlink",
+      "except": []
+    },
+    {
+      "names": [
+        "vechain",
+        "vet"
+      ],
+      "fullName": "vechain",
+      "except": []
+    },
+    {
+      "names": [
+        "solana",
+        "sol"
+      ],
+      "fullName": "solana",
+      "except": []
+    },
+    {
+      "names": [
+        "usd coin",
+        "usdc",
+        "usd"
+      ],
+      "fullName": "usd coin",
+      "except": []
+    },
+    {
+      "names": [
+        "stellar",
+        "xlm"
+      ],
+      "fullName": "stellar",
+      "except": []
+    },
+    {
+      "names": [
+        "theta"
+      ],
+      "fullName": "theta",
+      "except": []
+    },
+    {
+      "names": [
+        "filecoin",
+        "fil"
+      ],
+      "fullName": "filecoin",
+      "except": []
+    },
+    {
+      "names": [
+        "tron",
+        "trx"
+      ],
+      "fullName": "tron",
+      "except": []
+    },
+    {
+      "names": [
+        "wrapped bitcoin",
+        "wbtc",
+        "wrapped"
+      ],
+      "fullName": "wrapped bitcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "monero",
+        "xmr"
+      ],
+      "fullName": "monero",
+      "except": []
+    },
+    {
+      "names": [
+        "binance usd",
+        "busd",
+        "binance"
+      ],
+      "fullName": "binance usd",
+      "except": []
+    },
+    {
+      "names": [
+        "terra",
+        "luna"
+      ],
+      "fullName": "terra",
+      "except": []
+    },
+    {
+      "names": [
+        "neo",
+        "neo"
+      ],
+      "fullName": "neo",
+      "except": []
+    },
+    {
+      "names": [
+        "aave",
+        "aave"
+      ],
+      "fullName": "aave",
+      "except": []
+    },
+    {
+      "names": [
+        "iota",
+        "miota"
+      ],
+      "fullName": "iota",
+      "except": []
+    },
+    {
+      "names": [
+        "klaytn",
+        "klay"
+      ],
+      "fullName": "klaytn",
+      "except": []
+    },
+    {
+      "names": [
+        "pancakeswap",
+        "cake"
+      ],
+      "fullName": "pancakeswap",
+      "except": []
+    },
+    {
+      "names": [
+        "eos"
+      ],
+      "fullName": "eos",
+      "except": []
+    },
+    {
+      "names": [
+        "bitcoin sv",
+        "bsv"
+      ],
+      "fullName": "bitcoin sv",
+      "except": [
+        "bitcoin"
+      ]
+    },
+    {
+      "names": [
+        "ftx token",
+        "ftt",
+        "ftx"
+      ],
+      "fullName": "ftx token",
+      "except": []
+    },
+    {
+      "names": [
+        "cosmos",
+        "atom"
+      ],
+      "fullName": "cosmos",
+      "except": []
+    },
+    {
+      "names": [
+        "crypto.com coin",
+        "cro",
+        "crypto.com"
+      ],
+      "fullName": "crypto.com coin",
+      "except": []
+    },
+    {
+      "names": [
+        "bittorrent",
+        "btt"
+      ],
+      "fullName": "bittorrent",
+      "except": []
+    },
+    {
+      "names": [
+        "maker",
+        "mkr"
+      ],
+      "fullName": "maker",
+      "except": []
+    },
+    {
+      "names": [
+        "polygon",
+        "matic"
+      ],
+      "fullName": "polygon",
+      "except": []
+    },
+    {
+      "names": [
+        "tezos",
+        "xtz"
+      ],
+      "fullName": "tezos",
+      "except": []
+    },
+    {
+      "names": [
+        "ethereum classic",
+        "etc"
+      ],
+      "fullName": "ethereum classic",
+      "except": [
+        "ethereum"
+      ]
+    },
+    {
+      "names": [
+        "dai",
+        "dai"
+      ],
+      "fullName": "dai",
+      "except": []
+    },
+    {
+      "names": [
+        "algorand",
+        "algo"
+      ],
+      "fullName": "algorand",
+      "except": []
+    },
+    {
+      "names": [
+        "avalanche",
+        "avax"
+      ],
+      "fullName": "avalanche",
+      "except": []
+    },
+    {
+      "names": [
+        "huobi token",
+        "ht",
+        "huobi"
+      ],
+      "fullName": "huobi token",
+      "except": []
+    },
+    {
+      "names": [
+        "kusama",
+        "ksm"
+      ],
+      "fullName": "kusama",
+      "except": []
+    },
+    {
+      "names": [
+        "thorchain",
+        "rune"
+      ],
+      "fullName": "thorchain",
+      "except": []
+    },
+    {
+      "names": [
+        "compound",
+        "comp"
+      ],
+      "fullName": "compound",
+      "except": []
+    },
+    {
+      "names": [
+        "elrond",
+        "egld"
+      ],
+      "fullName": "elrond",
+      "except": []
+    },
+    {
+      "names": [
+        "bitcoin bep2",
+        "btcb"
+      ],
+      "fullName": "bitcoin bep2",
+      "except": [
+        "bitcoin"
+      ]
+    },
+    {
+      "names": [
+        "nem",
+        "xem"
+      ],
+      "fullName": "nem",
+      "except": []
+    },
+    {
+      "names": [
+        "chiliz",
+        "chz"
+      ],
+      "fullName": "chiliz",
+      "except": []
+    },
+    {
+      "names": [
+        "dash",
+        "dash"
+      ],
+      "fullName": "dash",
+      "except": []
+    },
+    {
+      "names": [
+        "zcash",
+        "zec"
+      ],
+      "fullName": "zcash",
+      "except": []
+    },
+    {
+      "names": [
+        "decred",
+        "dcr"
+      ],
+      "fullName": "decred",
+      "except": []
+    },
+    {
+      "names": [
+        "holo",
+        "hot"
+      ],
+      "fullName": "holo",
+      "except": []
+    },
+    {
+      "names": [
+        "stacks",
+        "stx"
+      ],
+      "fullName": "stacks",
+      "except": []
+    },
+    {
+      "names": [
+        "unus sed leo",
+        "leo",
+        "unus"
+      ],
+      "fullName": "unus sed leo",
+      "except": []
+    },
+    {
+      "names": [
+        "decentraland",
+        "mana"
+      ],
+      "fullName": "decentraland",
+      "except": []
+    },
+    {
+      "names": [
+        "hedera hashgraph",
+        "hbar",
+        "hedera"
+      ],
+      "fullName": "hedera hashgraph",
+      "except": []
+    },
+    {
+      "names": [
+        "enjin coin",
+        "enj",
+        "enjin"
+      ],
+      "fullName": "enjin coin",
+      "except": []
+    },
+    {
+      "names": [
+        "zilliqa",
+        "zil"
+      ],
+      "fullName": "zilliqa",
+      "except": []
+    },
+    {
+      "names": [
+        "nexo",
+        "nexo"
+      ],
+      "fullName": "nexo",
+      "except": []
+    },
+    {
+      "names": [
+        "waves",
+        "waves"
+      ],
+      "fullName": "waves",
+      "except": []
+    },
+    {
+      "names": [
+        "synthetix",
+        "snx"
+      ],
+      "fullName": "synthetix",
+      "except": []
+    },
+    {
+      "names": [
+        "terrausd",
+        "ust"
+      ],
+      "fullName": "terrausd",
+      "except": []
+    },
+    {
+      "names": [
+        "the graph",
+        "grt",
+        "the"
+      ],
+      "fullName": "the graph",
+      "except": []
+    },
+    {
+      "names": [
+        "siacoin",
+        "sc"
+      ],
+      "fullName": "siacoin",
+      "except": []
+    },
+    {
+      "names": [
+        "yearn.finance",
+        "yfi"
+      ],
+      "fullName": "yearn.finance",
+      "except": []
+    },
+    {
+      "names": [
+        "near protocol",
+        "near"
+      ],
+      "fullName": "near protocol",
+      "except": [
+        "near"
+      ]
+    },
+    {
+      "names": [
+        "sushiswap",
+        "sushi"
+      ],
+      "fullName": "sushiswap",
+      "except": []
+    },
+    {
+      "names": [
+        "digibyte",
+        "dgb"
+      ],
+      "fullName": "digibyte",
+      "except": []
+    },
+    {
+      "names": [
+        "basic attention token",
+        "bat"
+      ],
+      "fullName": "basic attention token",
+      "except": [
+        "basic"
+      ]
+    },
+    {
+      "names": [
+        "theta fuel",
+        "tfuel"
+      ],
+      "fullName": "theta fuel",
+      "except": [
+        "theta"
+      ]
+    },
+    {
+      "names": [
+        "bitcoin gold",
+        "btg"
+      ],
+      "fullName": "bitcoin gold",
+      "except": [
+        "bitcoin"
+      ]
+    },
+    {
+      "names": [
+        "uma"
+      ],
+      "fullName": "uma",
+      "except": []
+    },
+    {
+      "names": [
+        "celsius",
+        "cel"
+      ],
+      "fullName": "celsius",
+      "except": []
+    },
+    {
+      "names": [
+        "helium",
+        "hnt"
+      ],
+      "fullName": "helium",
+      "except": []
+    },
+    {
+      "names": [
+        "fantom",
+        "ftm"
+      ],
+      "fullName": "fantom",
+      "except": []
+    },
+    {
+      "names": [
+        "ravencoin",
+        "rvn"
+      ],
+      "fullName": "ravencoin",
+      "except": []
+    },
+    {
+      "names": [
+        "qtum",
+        "qtum"
+      ],
+      "fullName": "qtum",
+      "except": []
+    },
+    {
+      "names": [
+        "icon",
+        "icx"
+      ],
+      "fullName": "icon",
+      "except": []
+    },
+    {
+      "names": [
+        "ontology",
+        "ont"
+      ],
+      "fullName": "ontology",
+      "except": []
+    },
+    {
+      "names": [
+        "0x",
+        "zrx"
+      ],
+      "fullName": "0x",
+      "except": []
+    },
+    {
+      "names": [
+        "horizen",
+        "zen"
+      ],
+      "fullName": "horizen",
+      "except": []
+    },
+    {
+      "names": [
+        "harmony",
+        "one"
+      ],
+      "fullName": "harmony",
+      "except": []
+    },
+    {
+      "names": [
+        "ankr",
+        "ankr"
+      ],
+      "fullName": "ankr",
+      "except": []
+    },
+    {
+      "names": [
+        "bancor",
+        "bnt"
+      ],
+      "fullName": "bancor",
+      "except": []
+    },
+    {
+      "names": [
+        "swissborg",
+        "chsb"
+      ],
+      "fullName": "swissborg",
+      "except": []
+    },
+    {
+      "names": [
+        "reserve rights",
+        "rsr",
+        "reserve"
+      ],
+      "fullName": "reserve rights",
+      "except": []
+    },
+    {
+      "names": [
+        "revain",
+        "rev"
+      ],
+      "fullName": "revain",
+      "except": []
+    },
+    {
+      "names": [
+        "flow",
+        "flow"
+      ],
+      "fullName": "flow",
+      "except": []
+    },
+    {
+      "names": [
+        "nano",
+        "nano"
+      ],
+      "fullName": "nano",
+      "except": []
+    },
+    {
+      "names": [
+        "celo",
+        "celo"
+      ],
+      "fullName": "celo",
+      "except": []
+    },
+    {
+      "names": [
+        "kucoin token",
+        "kcs",
+        "kucoin"
+      ],
+      "fullName": "kucoin token",
+      "except": []
+    },
+    {
+      "names": [
+        "omg network",
+        "omg"
+      ],
+      "fullName": "omg network",
+      "except": [
+        "omg"
+      ]
+    },
+    {
+      "names": [
+        "dent",
+        "dent"
+      ],
+      "fullName": "dent",
+      "except": []
+    },
+    {
+      "names": [
+        "okb"
+      ],
+      "fullName": "okb",
+      "except": []
+    },
+    {
+      "names": [
+        "iost"
+      ],
+      "fullName": "iost",
+      "except": []
+    },
+    {
+      "names": [
+        "arweave",
+        "ar"
+      ],
+      "fullName": "arweave",
+      "except": []
+    },
+    {
+      "names": [
+        "voyager token",
+        "vgx",
+        "voyager"
+      ],
+      "fullName": "voyager token",
+      "except": []
+    },
+    {
+      "names": [
+        "paxos standard",
+        "pax",
+        "paxos"
+      ],
+      "fullName": "paxos standard",
+      "except": []
+    },
+    {
+      "names": [
+        "1inch",
+        "1inch"
+      ],
+      "fullName": "1inch",
+      "except": []
+    },
+    {
+      "names": [
+        "wazirx",
+        "wrx"
+      ],
+      "fullName": "wazirx",
+      "except": []
+    },
+    {
+      "names": [
+        "ren",
+        "ren"
+      ],
+      "fullName": "ren",
+      "except": []
+    },
+    {
+      "names": [
+        "conflux network",
+        "cfx",
+        "conflux"
+      ],
+      "fullName": "conflux network",
+      "except": []
+    },
+    {
+      "names": [
+        "curve dao token",
+        "crv",
+        "curve"
+      ],
+      "fullName": "curve dao token",
+      "except": []
+    },
+    {
+      "names": [
+        "verge",
+        "xvg"
+      ],
+      "fullName": "verge",
+      "except": []
+    },
+    {
+      "names": [
+        "venus",
+        "xvs"
+      ],
+      "fullName": "venus",
+      "except": []
+    },
+    {
+      "names": [
+        "husd"
+      ],
+      "fullName": "husd",
+      "except": []
+    },
+    {
+      "names": [
+        "renbtc",
+        "renbtc"
+      ],
+      "fullName": "renbtc",
+      "except": []
+    },
+    {
+      "names": [
+        "livepeer",
+        "lpt"
+      ],
+      "fullName": "livepeer",
+      "except": []
+    },
+    {
+      "names": [
+        "btmx"
+      ],
+      "fullName": "btmx",
+      "except": []
+    },
+    {
+      "names": [
+        "vethor token",
+        "vtho",
+        "vethor"
+      ],
+      "fullName": "vethor token",
+      "except": []
+    },
+    {
+      "names": [
+        "lisk",
+        "lsk"
+      ],
+      "fullName": "lisk",
+      "except": []
+    },
+    {
+      "names": [
+        "loopring",
+        "lrc"
+      ],
+      "fullName": "loopring",
+      "except": []
+    },
+    {
+      "names": [
+        "kyber network crystal legacy",
+        "knc",
+        "kyber"
+      ],
+      "fullName": "kyber network crystal legacy",
+      "except": []
+    },
+    {
+      "names": [
+        "nervos network",
+        "ckb",
+        "nervos"
+      ],
+      "fullName": "nervos network",
+      "except": []
+    },
+    {
+      "names": [
+        "bitcoin standard hashrate token",
+        "btcst"
+      ],
+      "fullName": "bitcoin standard hashrate token",
+      "except": [
+        "bitcoin"
+      ]
+    },
+    {
+      "names": [
+        "status",
+        "snt"
+      ],
+      "fullName": "status",
+      "except": []
+    },
+    {
+      "names": [
+        "storj",
+        "storj"
+      ],
+      "fullName": "storj",
+      "except": []
+    },
+    {
+      "names": [
+        "ocean protocol",
+        "ocean"
+      ],
+      "fullName": "ocean protocol",
+      "except": [
+        "ocean"
+      ]
+    },
+    {
+      "names": [
+        "mdex",
+        "mdx"
+      ],
+      "fullName": "mdex",
+      "except": []
+    },
+    {
+      "names": [
+        "origin protocol",
+        "ogn",
+        "origin"
+      ],
+      "fullName": "origin protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "quant",
+        "qnt"
+      ],
+      "fullName": "quant",
+      "except": []
+    },
+    {
+      "names": [
+        "zkswap",
+        "zks"
+      ],
+      "fullName": "zkswap",
+      "except": []
+    },
+    {
+      "names": [
+        "mco"
+      ],
+      "fullName": "mco",
+      "except": []
+    },
+    {
+      "names": [
+        "serum",
+        "srm"
+      ],
+      "fullName": "serum",
+      "except": []
+    },
+    {
+      "names": [
+        "iotex",
+        "iotx"
+      ],
+      "fullName": "iotex",
+      "except": []
+    },
+    {
+      "names": [
+        "stormx",
+        "stmx"
+      ],
+      "fullName": "stormx",
+      "except": []
+    },
+    {
+      "names": [
+        "kin",
+        "kin"
+      ],
+      "fullName": "kin",
+      "except": []
+    },
+    {
+      "names": [
+        "golem",
+        "glm"
+      ],
+      "fullName": "golem",
+      "except": []
+    },
+    {
+      "names": [
+        "fetch.ai",
+        "fet"
+      ],
+      "fullName": "fetch.ai",
+      "except": []
+    },
+    {
+      "names": [
+        "energy web token",
+        "ewt",
+        "energy"
+      ],
+      "fullName": "energy web token",
+      "except": []
+    },
+    {
+      "names": [
+        "maidsafecoin",
+        "maid"
+      ],
+      "fullName": "maidsafecoin",
+      "except": []
+    },
+    {
+      "names": [
+        "winklink",
+        "win"
+      ],
+      "fullName": "winklink",
+      "except": []
+    },
+    {
+      "names": [
+        "balancer",
+        "bal"
+      ],
+      "fullName": "balancer",
+      "except": []
+    },
+    {
+      "names": [
+        "bitcoin diamond",
+        "bcd"
+      ],
+      "fullName": "bitcoin diamond",
+      "except": [
+        "bitcoin"
+      ]
+    },
+    {
+      "names": [
+        "augur",
+        "rep"
+      ],
+      "fullName": "augur",
+      "except": []
+    },
+    {
+      "names": [
+        "reef",
+        "reef"
+      ],
+      "fullName": "reef",
+      "except": []
+    },
+    {
+      "names": [
+        "the sandbox",
+        "sand",
+        "the"
+      ],
+      "fullName": "the sandbox",
+      "except": []
+    },
+    {
+      "names": [
+        "dodo"
+      ],
+      "fullName": "dodo",
+      "except": []
+    },
+    {
+      "names": [
+        "wax",
+        "waxp"
+      ],
+      "fullName": "wax",
+      "except": []
+    },
+    {
+      "names": [
+        "skale network",
+        "skl",
+        "skale"
+      ],
+      "fullName": "skale network",
+      "except": []
+    },
+    {
+      "names": [
+        "nkn"
+      ],
+      "fullName": "nkn",
+      "except": []
+    },
+    {
+      "names": [
+        "wootrade",
+        "woo"
+      ],
+      "fullName": "wootrade",
+      "except": []
+    },
+    {
+      "names": [
+        "ardor",
+        "ardr"
+      ],
+      "fullName": "ardor",
+      "except": []
+    },
+    {
+      "names": [
+        "telcoin",
+        "tel"
+      ],
+      "fullName": "telcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "celer network",
+        "celr",
+        "celer"
+      ],
+      "fullName": "celer network",
+      "except": []
+    },
+    {
+      "names": [
+        "trustswap",
+        "swap"
+      ],
+      "fullName": "trustswap",
+      "except": []
+    },
+    {
+      "names": [
+        "nucypher",
+        "nu"
+      ],
+      "fullName": "nucypher",
+      "except": []
+    },
+    {
+      "names": [
+        "alpha finance lab",
+        "alpha"
+      ],
+      "fullName": "alpha finance lab",
+      "except": [
+        "alpha"
+      ]
+    },
+    {
+      "names": [
+        "swipe",
+        "sxp"
+      ],
+      "fullName": "swipe",
+      "except": []
+    },
+    {
+      "names": [
+        "aragon",
+        "ant"
+      ],
+      "fullName": "aragon",
+      "except": []
+    },
+    {
+      "names": [
+        "band protocol",
+        "band"
+      ],
+      "fullName": "band protocol",
+      "except": [
+        "band"
+      ]
+    },
+    {
+      "names": [
+        "singularitynet",
+        "agi"
+      ],
+      "fullName": "singularitynet",
+      "except": []
+    },
+    {
+      "names": [
+        "civic",
+        "cvc"
+      ],
+      "fullName": "civic",
+      "except": []
+    },
+    {
+      "names": [
+        "medibloc",
+        "med"
+      ],
+      "fullName": "medibloc",
+      "except": []
+    },
+    {
+      "names": [
+        "bitshares",
+        "bts"
+      ],
+      "fullName": "bitshares",
+      "except": []
+    },
+    {
+      "names": [
+        "funtoken",
+        "fun"
+      ],
+      "fullName": "funtoken",
+      "except": []
+    },
+    {
+      "names": [
+        "abbc coin",
+        "abbc"
+      ],
+      "fullName": "abbc coin",
+      "except": [
+        "abbc"
+      ]
+    },
+    {
+      "names": [
+        "numeraire",
+        "nmr"
+      ],
+      "fullName": "numeraire",
+      "except": []
+    },
+    {
+      "names": [
+        "komodo",
+        "kmd"
+      ],
+      "fullName": "komodo",
+      "except": []
+    },
+    {
+      "names": [
+        "trueusd",
+        "tusd"
+      ],
+      "fullName": "trueusd",
+      "except": []
+    },
+    {
+      "names": [
+        "neutrino usd",
+        "usdn",
+        "neutrino"
+      ],
+      "fullName": "neutrino usd",
+      "except": []
+    },
+    {
+      "names": [
+        "gnosis",
+        "gno"
+      ],
+      "fullName": "gnosis",
+      "except": []
+    },
+    {
+      "names": [
+        "steem",
+        "steem"
+      ],
+      "fullName": "steem",
+      "except": []
+    },
+    {
+      "names": [
+        "injective protocol",
+        "inj",
+        "injective"
+      ],
+      "fullName": "injective protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "badger dao",
+        "badger"
+      ],
+      "fullName": "badger dao",
+      "except": [
+        "badger"
+      ]
+    },
+    {
+      "names": [
+        "unibright",
+        "ubt"
+      ],
+      "fullName": "unibright",
+      "except": []
+    },
+    {
+      "names": [
+        "orbs",
+        "orbs"
+      ],
+      "fullName": "orbs",
+      "except": []
+    },
+    {
+      "names": [
+        "kava.io",
+        "kava"
+      ],
+      "fullName": "kava.io",
+      "except": []
+    },
+    {
+      "names": [
+        "syntropy",
+        "noia"
+      ],
+      "fullName": "syntropy",
+      "except": []
+    },
+    {
+      "names": [
+        "haven protocol",
+        "xhv",
+        "haven"
+      ],
+      "fullName": "haven protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "velas",
+        "vlx"
+      ],
+      "fullName": "velas",
+      "except": []
+    },
+    {
+      "names": [
+        "wanchain",
+        "wan"
+      ],
+      "fullName": "wanchain",
+      "except": []
+    },
+    {
+      "names": [
+        "stratis",
+        "strax"
+      ],
+      "fullName": "stratis",
+      "except": []
+    },
+    {
+      "names": [
+        "just",
+        "jst"
+      ],
+      "fullName": "just",
+      "except": []
+    },
+    {
+      "names": [
+        "populous",
+        "ppt"
+      ],
+      "fullName": "populous",
+      "except": []
+    },
+    {
+      "names": [
+        "bytom",
+        "btm"
+      ],
+      "fullName": "bytom",
+      "except": []
+    },
+    {
+      "names": [
+        "uquid coin",
+        "uqc",
+        "uquid"
+      ],
+      "fullName": "uquid coin",
+      "except": []
+    },
+    {
+      "names": [
+        "gatetoken",
+        "gt"
+      ],
+      "fullName": "gatetoken",
+      "except": []
+    },
+    {
+      "names": [
+        "handshake",
+        "hns"
+      ],
+      "fullName": "handshake",
+      "except": []
+    },
+    {
+      "names": [
+        "travala.com",
+        "ava"
+      ],
+      "fullName": "travala.com",
+      "except": []
+    },
+    {
+      "names": [
+        "hive",
+        "hive"
+      ],
+      "fullName": "hive",
+      "except": []
+    },
+    {
+      "names": [
+        "ark",
+        "ark"
+      ],
+      "fullName": "ark",
+      "except": []
+    },
+    {
+      "names": [
+        "ampleforth",
+        "ampl"
+      ],
+      "fullName": "ampleforth",
+      "except": []
+    },
+    {
+      "names": [
+        "aelf",
+        "elf"
+      ],
+      "fullName": "aelf",
+      "except": []
+    },
+    {
+      "names": [
+        "cybervein",
+        "cvt"
+      ],
+      "fullName": "cybervein",
+      "except": []
+    },
+    {
+      "names": [
+        "coti"
+      ],
+      "fullName": "coti",
+      "except": []
+    },
+    {
+      "names": [
+        "metal",
+        "mtl"
+      ],
+      "fullName": "metal",
+      "except": []
+    },
+    {
+      "names": [
+        "polymath",
+        "poly"
+      ],
+      "fullName": "polymath",
+      "except": []
+    },
+    {
+      "names": [
+        "ontology gas",
+        "ong"
+      ],
+      "fullName": "ontology gas",
+      "except": [
+        "ontology"
+      ]
+    },
+    {
+      "names": [
+        "oasis network",
+        "rose",
+        "oasis"
+      ],
+      "fullName": "oasis network",
+      "except": []
+    },
+    {
+      "names": [
+        "rsk infrastructure framework",
+        "rif",
+        "rsk"
+      ],
+      "fullName": "rsk infrastructure framework",
+      "except": []
+    },
+    {
+      "names": [
+        "metadium",
+        "meta"
+      ],
+      "fullName": "metadium",
+      "except": []
+    },
+    {
+      "names": [
+        "utrust",
+        "utk"
+      ],
+      "fullName": "utrust",
+      "except": []
+    },
+    {
+      "names": [
+        "orchid",
+        "oxt"
+      ],
+      "fullName": "orchid",
+      "except": []
+    },
+    {
+      "names": [
+        "iexec rlc",
+        "rlc",
+        "iexec"
+      ],
+      "fullName": "iexec rlc",
+      "except": []
+    },
+    {
+      "names": [
+        "secret",
+        "scrt"
+      ],
+      "fullName": "secret",
+      "except": []
+    },
+    {
+      "names": [
+        "reddcoin",
+        "rdd"
+      ],
+      "fullName": "reddcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "bora"
+      ],
+      "fullName": "bora",
+      "except": []
+    },
+    {
+      "names": [
+        "zb token",
+        "zb"
+      ],
+      "fullName": "zb token",
+      "except": [
+        "zb"
+      ]
+    },
+    {
+      "names": [
+        "wrapped bnb",
+        "wbnb",
+        "wrapped"
+      ],
+      "fullName": "wrapped bnb",
+      "except": []
+    },
+    {
+      "names": [
+        "creditcoin",
+        "ctc"
+      ],
+      "fullName": "creditcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "hex"
+      ],
+      "fullName": "hex",
+      "except": []
+    },
+    {
+      "names": [
+        "fei protocol",
+        "fei"
+      ],
+      "fullName": "fei protocol",
+      "except": [
+        "fei"
+      ]
+    },
+    {
+      "names": [
+        "counos x",
+        "ccxx",
+        "counos"
+      ],
+      "fullName": "counos x",
+      "except": []
+    },
+    {
+      "names": [
+        "huobi btc",
+        "hbtc",
+        "huobi"
+      ],
+      "fullName": "huobi btc",
+      "except": []
+    },
+    {
+      "names": [
+        "pirate chain",
+        "arrr",
+        "pirate"
+      ],
+      "fullName": "pirate chain",
+      "except": []
+    },
+    {
+      "names": [
+        "defichain",
+        "dfi"
+      ],
+      "fullName": "defichain",
+      "except": []
+    },
+    {
+      "names": [
+        "bridge oracle",
+        "brg",
+        "bridge"
+      ],
+      "fullName": "bridge oracle",
+      "except": []
+    },
+    {
+      "names": [
+        "whitecoin",
+        "xwc"
+      ],
+      "fullName": "whitecoin",
+      "except": []
+    },
+    {
+      "names": [
+        "bitpanda ecosystem token",
+        "best",
+        "bitpanda"
+      ],
+      "fullName": "bitpanda ecosystem token",
+      "except": []
+    },
+    {
+      "names": [
+        "xinfin network",
+        "xdc",
+        "xinfin"
+      ],
+      "fullName": "xinfin network",
+      "except": []
+    },
+    {
+      "names": [
+        "ecomi",
+        "omi"
+      ],
+      "fullName": "ecomi",
+      "except": []
+    },
+    {
+      "names": [
+        "orbit chain",
+        "orc",
+        "orbit"
+      ],
+      "fullName": "orbit chain",
+      "except": []
+    },
+    {
+      "names": [
+        "venus bnb",
+        "vbnb"
+      ],
+      "fullName": "venus bnb",
+      "except": [
+        "venus"
+      ]
+    },
+    {
+      "names": [
+        "the transfer token",
+        "ttt",
+        "the"
+      ],
+      "fullName": "the transfer token",
+      "except": []
+    },
+    {
+      "names": [
+        "thorecoin",
+        "thr"
+      ],
+      "fullName": "thorecoin",
+      "except": []
+    },
+    {
+      "names": [
+        "ino coin",
+        "ino"
+      ],
+      "fullName": "ino coin",
+      "except": [
+        "ino"
+      ]
+    },
+    {
+      "names": [
+        "pundi x[new]",
+        "pundix",
+        "pundi"
+      ],
+      "fullName": "pundi x[new]",
+      "except": []
+    },
+    {
+      "names": [
+        "steth (lido)",
+        "steth"
+      ],
+      "fullName": "steth (lido)",
+      "except": [
+        "steth"
+      ]
+    },
+    {
+      "names": [
+        "nxm"
+      ],
+      "fullName": "nxm",
+      "except": []
+    },
+    {
+      "names": [
+        "bakerytoken",
+        "bake"
+      ],
+      "fullName": "bakerytoken",
+      "except": []
+    },
+    {
+      "names": [
+        "bitcoin cash abc",
+        "bcha"
+      ],
+      "fullName": "bitcoin cash abc",
+      "except": [
+        "bitcoin"
+      ]
+    },
+    {
+      "names": [
+        "mirror protocol",
+        "mir",
+        "mirror"
+      ],
+      "fullName": "mirror protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "amp",
+        "amp"
+      ],
+      "fullName": "amp",
+      "except": []
+    },
+    {
+      "names": [
+        "hedgetrade",
+        "hedg"
+      ],
+      "fullName": "hedgetrade",
+      "except": []
+    },
+    {
+      "names": [
+        "raydium",
+        "ray"
+      ],
+      "fullName": "raydium",
+      "except": []
+    },
+    {
+      "names": [
+        "klayswap protocol",
+        "ksp",
+        "klayswap"
+      ],
+      "fullName": "klayswap protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "dawn protocol",
+        "dawn"
+      ],
+      "fullName": "dawn protocol",
+      "except": [
+        "dawn"
+      ]
+    },
+    {
+      "names": [
+        "mixin",
+        "xin"
+      ],
+      "fullName": "mixin",
+      "except": []
+    },
+    {
+      "names": [
+        "axie infinity",
+        "axs",
+        "axie"
+      ],
+      "fullName": "axie infinity",
+      "except": []
+    },
+    {
+      "names": [
+        "zelwin",
+        "zlw"
+      ],
+      "fullName": "zelwin",
+      "except": []
+    },
+    {
+      "names": [
+        "botxcoin",
+        "botx"
+      ],
+      "fullName": "botxcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "electroneum",
+        "etn"
+      ],
+      "fullName": "electroneum",
+      "except": []
+    },
+    {
+      "names": [
+        "lotto",
+        "lotto"
+      ],
+      "fullName": "lotto",
+      "except": []
+    },
+    {
+      "names": [
+        "sologenic",
+        "solo"
+      ],
+      "fullName": "sologenic",
+      "except": []
+    },
+    {
+      "names": [
+        "redfox labs",
+        "rfox",
+        "redfox"
+      ],
+      "fullName": "redfox labs",
+      "except": []
+    },
+    {
+      "names": [
+        "venus xvs",
+        "vxvs"
+      ],
+      "fullName": "venus xvs",
+      "except": [
+        "venus"
+      ]
+    },
+    {
+      "names": [
+        "akash network",
+        "akt",
+        "akash"
+      ],
+      "fullName": "akash network",
+      "except": []
+    },
+    {
+      "names": [
+        "tribe",
+        "tribe"
+      ],
+      "fullName": "tribe",
+      "except": []
+    },
+    {
+      "names": [
+        "linear",
+        "lina"
+      ],
+      "fullName": "linear",
+      "except": []
+    },
+    {
+      "names": [
+        "keep network",
+        "keep"
+      ],
+      "fullName": "keep network",
+      "except": [
+        "keep"
+      ]
+    },
+    {
+      "names": [
+        "alien worlds",
+        "tlm",
+        "alien"
+      ],
+      "fullName": "alien worlds",
+      "except": []
+    },
+    {
+      "names": [
+        "orion protocol",
+        "orn",
+        "orion"
+      ],
+      "fullName": "orion protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "anchor protocol",
+        "anc",
+        "anchor"
+      ],
+      "fullName": "anchor protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "toko token",
+        "tko",
+        "toko"
+      ],
+      "fullName": "toko token",
+      "except": []
+    },
+    {
+      "names": [
+        "mvl"
+      ],
+      "fullName": "mvl",
+      "except": []
+    },
+    {
+      "names": [
+        "onotoken",
+        "onot"
+      ],
+      "fullName": "onotoken",
+      "except": []
+    },
+    {
+      "names": [
+        "klever",
+        "klv"
+      ],
+      "fullName": "klever",
+      "except": []
+    },
+    {
+      "names": [
+        "attila",
+        "att"
+      ],
+      "fullName": "attila",
+      "except": []
+    },
+    {
+      "names": [
+        "audius",
+        "audio"
+      ],
+      "fullName": "audius",
+      "except": []
+    },
+    {
+      "names": [
+        "newscrypto",
+        "nwc"
+      ],
+      "fullName": "newscrypto",
+      "except": []
+    },
+    {
+      "names": [
+        "safepal",
+        "sfp"
+      ],
+      "fullName": "safepal",
+      "except": []
+    },
+    {
+      "names": [
+        "12ships",
+        "tshp"
+      ],
+      "fullName": "12ships",
+      "except": []
+    },
+    {
+      "names": [
+        "hellenic coin",
+        "hnc",
+        "hellenic"
+      ],
+      "fullName": "hellenic coin",
+      "except": []
+    },
+    {
+      "names": [
+        "hathor",
+        "htr"
+      ],
+      "fullName": "hathor",
+      "except": []
+    },
+    {
+      "names": [
+        "venus btc",
+        "vbtc"
+      ],
+      "fullName": "venus btc",
+      "except": [
+        "venus"
+      ]
+    },
+    {
+      "names": [
+        "kardiachain",
+        "kai"
+      ],
+      "fullName": "kardiachain",
+      "except": []
+    },
+    {
+      "names": [
+        "pancake bunny",
+        "bunny",
+        "pancake"
+      ],
+      "fullName": "pancake bunny",
+      "except": []
+    },
+    {
+      "names": [
+        "superfarm",
+        "super"
+      ],
+      "fullName": "superfarm",
+      "except": []
+    },
+    {
+      "names": [
+        "math"
+      ],
+      "fullName": "math",
+      "except": []
+    },
+    {
+      "names": [
+        "everipedia",
+        "iq"
+      ],
+      "fullName": "everipedia",
+      "except": []
+    },
+    {
+      "names": [
+        "origintrail",
+        "trac"
+      ],
+      "fullName": "origintrail",
+      "except": []
+    },
+    {
+      "names": [
+        "myneighboralice",
+        "alice"
+      ],
+      "fullName": "myneighboralice",
+      "except": []
+    },
+    {
+      "names": [
+        "troy"
+      ],
+      "fullName": "troy",
+      "except": []
+    },
+    {
+      "names": [
+        "enzyme",
+        "mln"
+      ],
+      "fullName": "enzyme",
+      "except": []
+    },
+    {
+      "names": [
+        "cartesi",
+        "ctsi"
+      ],
+      "fullName": "cartesi",
+      "except": []
+    },
+    {
+      "names": [
+        "syscoin",
+        "sys"
+      ],
+      "fullName": "syscoin",
+      "except": []
+    },
+    {
+      "names": [
+        "polkastarter",
+        "pols"
+      ],
+      "fullName": "polkastarter",
+      "except": []
+    },
+    {
+      "names": [
+        "ampleforth governance token",
+        "forth"
+      ],
+      "fullName": "ampleforth governance token",
+      "except": [
+        "ampleforth"
+      ]
+    },
+    {
+      "names": [
+        "rocket pool",
+        "rpl",
+        "rocket"
+      ],
+      "fullName": "rocket pool",
+      "except": []
+    },
+    {
+      "names": [
+        "maro",
+        "maro"
+      ],
+      "fullName": "maro",
+      "except": []
+    },
+    {
+      "names": [
+        "vai",
+        "vai"
+      ],
+      "fullName": "vai",
+      "except": []
+    },
+    {
+      "names": [
+        "quarkchain",
+        "qkc"
+      ],
+      "fullName": "quarkchain",
+      "except": []
+    },
+    {
+      "names": [
+        "crust",
+        "cru"
+      ],
+      "fullName": "crust",
+      "except": []
+    },
+    {
+      "names": [
+        "atari token",
+        "atri",
+        "atari"
+      ],
+      "fullName": "atari token",
+      "except": []
+    },
+    {
+      "names": [
+        "dkargo",
+        "dka"
+      ],
+      "fullName": "dkargo",
+      "except": []
+    },
+    {
+      "names": [
+        "monacoin",
+        "mona"
+      ],
+      "fullName": "monacoin",
+      "except": []
+    },
+    {
+      "names": [
+        "gny"
+      ],
+      "fullName": "gny",
+      "except": []
+    },
+    {
+      "names": [
+        "ellipsis",
+        "eps"
+      ],
+      "fullName": "ellipsis",
+      "except": []
+    },
+    {
+      "names": [
+        "tomochain",
+        "tomo"
+      ],
+      "fullName": "tomochain",
+      "except": []
+    },
+    {
+      "names": [
+        "rchain",
+        "rev"
+      ],
+      "fullName": "rchain",
+      "except": []
+    },
+    {
+      "names": [
+        "doctors coin",
+        "drs",
+        "doctors"
+      ],
+      "fullName": "doctors coin",
+      "except": []
+    },
+    {
+      "names": [
+        "power ledger",
+        "powr",
+        "power"
+      ],
+      "fullName": "power ledger",
+      "except": []
+    },
+    {
+      "names": [
+        "sora",
+        "xor"
+      ],
+      "fullName": "sora",
+      "except": []
+    },
+    {
+      "names": [
+        "veruscoin",
+        "vrsc"
+      ],
+      "fullName": "veruscoin",
+      "except": []
+    },
+    {
+      "names": [
+        "parsiq",
+        "prq"
+      ],
+      "fullName": "parsiq",
+      "except": []
+    },
+    {
+      "names": [
+        "district0x",
+        "dnt"
+      ],
+      "fullName": "district0x",
+      "except": []
+    },
+    {
+      "names": [
+        "paid network",
+        "paid"
+      ],
+      "fullName": "paid network",
+      "except": [
+        "paid"
+      ]
+    },
+    {
+      "names": [
+        "rari governance token",
+        "rgt"
+      ],
+      "fullName": "rari governance token",
+      "except": [
+        "rari"
+      ]
+    },
+    {
+      "names": [
+        "phala network",
+        "pha",
+        "phala"
+      ],
+      "fullName": "phala network",
+      "except": []
+    },
+    {
+      "names": [
+        "oxygen",
+        "oxy"
+      ],
+      "fullName": "oxygen",
+      "except": []
+    },
+    {
+      "names": [
+        "bytecoin",
+        "bcn"
+      ],
+      "fullName": "bytecoin",
+      "except": []
+    },
+    {
+      "names": [
+        "wrapped nxm",
+        "wnxm",
+        "wrapped"
+      ],
+      "fullName": "wrapped nxm",
+      "except": []
+    },
+    {
+      "names": [
+        "sun"
+      ],
+      "fullName": "sun",
+      "except": []
+    },
+    {
+      "names": [
+        "strike",
+        "strk"
+      ],
+      "fullName": "strike",
+      "except": []
+    },
+    {
+      "names": [
+        "hifi finance",
+        "mft",
+        "hifi"
+      ],
+      "fullName": "hifi finance",
+      "except": []
+    },
+    {
+      "names": [
+        "elitium",
+        "eum"
+      ],
+      "fullName": "elitium",
+      "except": []
+    },
+    {
+      "names": [
+        "aion",
+        "aion"
+      ],
+      "fullName": "aion",
+      "except": []
+    },
+    {
+      "names": [
+        "trust wallet token",
+        "twt",
+        "trust"
+      ],
+      "fullName": "trust wallet token",
+      "except": []
+    },
+    {
+      "names": [
+        "function x",
+        "fx",
+        "function"
+      ],
+      "fullName": "function x",
+      "except": []
+    },
+    {
+      "names": [
+        "perpetual protocol",
+        "perp",
+        "perpetual"
+      ],
+      "fullName": "perpetual protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "pac protocol",
+        "pac"
+      ],
+      "fullName": "pac protocol",
+      "except": [
+        "pac"
+      ]
+    },
+    {
+      "names": [
+        "lukso",
+        "lyxe"
+      ],
+      "fullName": "lukso",
+      "except": []
+    },
+    {
+      "names": [
+        "litentry",
+        "lit"
+      ],
+      "fullName": "litentry",
+      "except": []
+    },
+    {
+      "names": [
+        "ultra",
+        "uos"
+      ],
+      "fullName": "ultra",
+      "except": []
+    },
+    {
+      "names": [
+        "render token",
+        "rndr",
+        "render"
+      ],
+      "fullName": "render token",
+      "except": []
+    },
+    {
+      "names": [
+        "dia"
+      ],
+      "fullName": "dia",
+      "except": []
+    },
+    {
+      "names": [
+        "mil.k",
+        "mlk"
+      ],
+      "fullName": "mil.k",
+      "except": []
+    },
+    {
+      "names": [
+        "adex network",
+        "adx",
+        "adex"
+      ],
+      "fullName": "adex network",
+      "except": []
+    },
+    {
+      "names": [
+        "edgeware",
+        "edg"
+      ],
+      "fullName": "edgeware",
+      "except": []
+    },
+    {
+      "names": [
+        "elastos",
+        "ela"
+      ],
+      "fullName": "elastos",
+      "except": []
+    },
+    {
+      "names": [
+        "verasity",
+        "vra"
+      ],
+      "fullName": "verasity",
+      "except": []
+    },
+    {
+      "names": [
+        "irisnet",
+        "iris"
+      ],
+      "fullName": "irisnet",
+      "except": []
+    },
+    {
+      "names": [
+        "ethernity chain",
+        "ern",
+        "ethernity"
+      ],
+      "fullName": "ethernity chain",
+      "except": []
+    },
+    {
+      "names": [
+        "akropolis",
+        "akro"
+      ],
+      "fullName": "akropolis",
+      "except": []
+    },
+    {
+      "names": [
+        "coinmetro token",
+        "xcm",
+        "coinmetro"
+      ],
+      "fullName": "coinmetro token",
+      "except": []
+    },
+    {
+      "names": [
+        "carry",
+        "cre"
+      ],
+      "fullName": "carry",
+      "except": []
+    },
+    {
+      "names": [
+        "ramp"
+      ],
+      "fullName": "ramp",
+      "except": []
+    },
+    {
+      "names": [
+        "gas",
+        "gas"
+      ],
+      "fullName": "gas",
+      "except": []
+    },
+    {
+      "names": [
+        "derivadao",
+        "ddx"
+      ],
+      "fullName": "derivadao",
+      "except": []
+    },
+    {
+      "names": [
+        "quickswap",
+        "quick"
+      ],
+      "fullName": "quickswap",
+      "except": []
+    },
+    {
+      "names": [
+        "susd",
+        "susd"
+      ],
+      "fullName": "susd",
+      "except": []
+    },
+    {
+      "names": [
+        "newyork exchange",
+        "nye",
+        "newyork"
+      ],
+      "fullName": "newyork exchange",
+      "except": []
+    },
+    {
+      "names": [
+        "dao maker",
+        "dao"
+      ],
+      "fullName": "dao maker",
+      "except": [
+        "dao"
+      ]
+    },
+    {
+      "names": [
+        "sapphire",
+        "sapp"
+      ],
+      "fullName": "sapphire",
+      "except": []
+    },
+    {
+      "names": [
+        "loom network",
+        "loom"
+      ],
+      "fullName": "loom network",
+      "except": [
+        "loom"
+      ]
+    },
+    {
+      "names": [
+        "dego finance",
+        "dego"
+      ],
+      "fullName": "dego finance",
+      "except": [
+        "dego"
+      ]
+    },
+    {
+      "names": [
+        "lto network",
+        "lto"
+      ],
+      "fullName": "lto network",
+      "except": [
+        "lto"
+      ]
+    },
+    {
+      "names": [
+        "chimpion",
+        "bnana"
+      ],
+      "fullName": "chimpion",
+      "except": []
+    },
+    {
+      "names": [
+        "mask network",
+        "mask"
+      ],
+      "fullName": "mask network",
+      "except": [
+        "mask"
+      ]
+    },
+    {
+      "names": [
+        "bloomzed loyalty club ticket",
+        "blct",
+        "bloomzed"
+      ],
+      "fullName": "bloomzed loyalty club ticket",
+      "except": []
+    },
+    {
+      "names": [
+        "aeternity",
+        "ae"
+      ],
+      "fullName": "aeternity",
+      "except": []
+    },
+    {
+      "names": [
+        "bzx protocol",
+        "bzrx",
+        "bzx"
+      ],
+      "fullName": "bzx protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "hxro",
+        "hxro"
+      ],
+      "fullName": "hxro",
+      "except": []
+    },
+    {
+      "names": [
+        "sharetoken",
+        "shr"
+      ],
+      "fullName": "sharetoken",
+      "except": []
+    },
+    {
+      "names": [
+        "gala",
+        "gala"
+      ],
+      "fullName": "gala",
+      "except": []
+    },
+    {
+      "names": [
+        "mimblewimblecoin",
+        "mwc"
+      ],
+      "fullName": "mimblewimblecoin",
+      "except": []
+    },
+    {
+      "names": [
+        "sechain",
+        "snn"
+      ],
+      "fullName": "sechain",
+      "except": []
+    },
+    {
+      "names": [
+        "energi",
+        "nrg"
+      ],
+      "fullName": "energi",
+      "except": []
+    },
+    {
+      "names": [
+        "tellor",
+        "trb"
+      ],
+      "fullName": "tellor",
+      "except": []
+    },
+    {
+      "names": [
+        "request",
+        "req"
+      ],
+      "fullName": "request",
+      "except": []
+    },
+    {
+      "names": [
+        "saffron.finance",
+        "sfi"
+      ],
+      "fullName": "saffron.finance",
+      "except": []
+    },
+    {
+      "names": [
+        "mithril",
+        "mith"
+      ],
+      "fullName": "mithril",
+      "except": []
+    },
+    {
+      "names": [
+        "marlin",
+        "pond"
+      ],
+      "fullName": "marlin",
+      "except": []
+    },
+    {
+      "names": [
+        "titanswap",
+        "titan"
+      ],
+      "fullName": "titanswap",
+      "except": []
+    },
+    {
+      "names": [
+        "nerve finance",
+        "nrv",
+        "nerve"
+      ],
+      "fullName": "nerve finance",
+      "except": []
+    },
+    {
+      "names": [
+        "chromia",
+        "chr"
+      ],
+      "fullName": "chromia",
+      "except": []
+    },
+    {
+      "names": [
+        "streamr",
+        "data"
+      ],
+      "fullName": "streamr",
+      "except": []
+    },
+    {
+      "names": [
+        "dsla protocol",
+        "dsla"
+      ],
+      "fullName": "dsla protocol",
+      "except": [
+        "dsla"
+      ]
+    },
+    {
+      "names": [
+        "gemini dollar",
+        "gusd",
+        "gemini"
+      ],
+      "fullName": "gemini dollar",
+      "except": []
+    },
+    {
+      "names": [
+        "casinocoin",
+        "csc"
+      ],
+      "fullName": "casinocoin",
+      "except": []
+    },
+    {
+      "names": [
+        "shopping",
+        "spi"
+      ],
+      "fullName": "shopping",
+      "except": []
+    },
+    {
+      "names": [
+        "firo",
+        "firo"
+      ],
+      "fullName": "firo",
+      "except": []
+    },
+    {
+      "names": [
+        "bosagora",
+        "boa"
+      ],
+      "fullName": "bosagora",
+      "except": []
+    },
+    {
+      "names": [
+        "divi",
+        "divi"
+      ],
+      "fullName": "divi",
+      "except": []
+    },
+    {
+      "names": [
+        "mx token",
+        "mx"
+      ],
+      "fullName": "mx token",
+      "except": [
+        "mx"
+      ]
+    },
+    {
+      "names": [
+        "pibble",
+        "pib"
+      ],
+      "fullName": "pibble",
+      "except": []
+    },
+    {
+      "names": [
+        "thunder token",
+        "tt",
+        "thunder"
+      ],
+      "fullName": "thunder token",
+      "except": []
+    },
+    {
+      "names": [
+        "allianceblock",
+        "albt"
+      ],
+      "fullName": "allianceblock",
+      "except": []
+    },
+    {
+      "names": [
+        "kadena",
+        "kda"
+      ],
+      "fullName": "kadena",
+      "except": []
+    },
+    {
+      "names": [
+        "lambda",
+        "lamb"
+      ],
+      "fullName": "lambda",
+      "except": []
+    },
+    {
+      "names": [
+        "apollo currency",
+        "apl",
+        "apollo"
+      ],
+      "fullName": "apollo currency",
+      "except": []
+    },
+    {
+      "names": [
+        "maps"
+      ],
+      "fullName": "maps",
+      "except": []
+    },
+    {
+      "names": [
+        "efforce",
+        "wozx"
+      ],
+      "fullName": "efforce",
+      "except": []
+    },
+    {
+      "names": [
+        "free coin",
+        "free"
+      ],
+      "fullName": "free coin",
+      "except": [
+        "free"
+      ]
+    },
+    {
+      "names": [
+        "ergo",
+        "erg"
+      ],
+      "fullName": "ergo",
+      "except": []
+    },
+    {
+      "names": [
+        "fc barcelona fan token",
+        "bar",
+        "fc"
+      ],
+      "fullName": "fc barcelona fan token",
+      "except": []
+    },
+    {
+      "names": [
+        "tokenlon network token",
+        "lon",
+        "tokenlon"
+      ],
+      "fullName": "tokenlon network token",
+      "except": []
+    },
+    {
+      "names": [
+        "bella protocol",
+        "bel",
+        "bella"
+      ],
+      "fullName": "bella protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "frax",
+        "frax"
+      ],
+      "fullName": "frax",
+      "except": []
+    },
+    {
+      "names": [
+        "terra virtua kolect",
+        "tvk"
+      ],
+      "fullName": "terra virtua kolect",
+      "except": [
+        "terra"
+      ]
+    },
+    {
+      "names": [
+        "greenpower",
+        "grn"
+      ],
+      "fullName": "greenpower",
+      "except": []
+    },
+    {
+      "names": [
+        "certik",
+        "ctk"
+      ],
+      "fullName": "certik",
+      "except": []
+    },
+    {
+      "names": [
+        "whale"
+      ],
+      "fullName": "whale",
+      "except": []
+    },
+    {
+      "names": [
+        "mxc"
+      ],
+      "fullName": "mxc",
+      "except": []
+    },
+    {
+      "names": [
+        "super zero protocol",
+        "sero"
+      ],
+      "fullName": "super zero protocol",
+      "except": [
+        "super"
+      ]
+    },
+    {
+      "names": [
+        "morpheus.network",
+        "mrph"
+      ],
+      "fullName": "morpheus.network",
+      "except": []
+    },
+    {
+      "names": [
+        "eauric",
+        "eauric"
+      ],
+      "fullName": "eauric",
+      "except": []
+    },
+    {
+      "names": [
+        "radix",
+        "exrd"
+      ],
+      "fullName": "radix",
+      "except": []
+    },
+    {
+      "names": [
+        "waltonchain",
+        "wtc"
+      ],
+      "fullName": "waltonchain",
+      "except": []
+    },
+    {
+      "names": [
+        "venus eth",
+        "veth"
+      ],
+      "fullName": "venus eth",
+      "except": [
+        "venus"
+      ]
+    },
+    {
+      "names": [
+        "kleros",
+        "pnk"
+      ],
+      "fullName": "kleros",
+      "except": []
+    },
+    {
+      "names": [
+        "xdai",
+        "stake"
+      ],
+      "fullName": "xdai",
+      "except": []
+    },
+    {
+      "names": [
+        "flamingo",
+        "flm"
+      ],
+      "fullName": "flamingo",
+      "except": []
+    },
+    {
+      "names": [
+        "rally",
+        "rly"
+      ],
+      "fullName": "rally",
+      "except": []
+    },
+    {
+      "names": [
+        "beam",
+        "beam"
+      ],
+      "fullName": "beam",
+      "except": []
+    },
+    {
+      "names": [
+        "youcash",
+        "youc"
+      ],
+      "fullName": "youcash",
+      "except": []
+    },
+    {
+      "names": [
+        "hoge finance",
+        "hoge"
+      ],
+      "fullName": "hoge finance",
+      "except": [
+        "hoge"
+      ]
+    },
+    {
+      "names": [
+        "xenioscoin",
+        "xnc"
+      ],
+      "fullName": "xenioscoin",
+      "except": []
+    },
+    {
+      "names": [
+        "bluzelle",
+        "blz"
+      ],
+      "fullName": "bluzelle",
+      "except": []
+    },
+    {
+      "names": [
+        "pax gold",
+        "paxg"
+      ],
+      "fullName": "pax gold",
+      "except": [
+        "pax"
+      ]
+    },
+    {
+      "names": [
+        "zenon",
+        "znn"
+      ],
+      "fullName": "zenon",
+      "except": []
+    },
+    {
+      "names": [
+        "pivx"
+      ],
+      "fullName": "pivx",
+      "except": []
+    },
+    {
+      "names": [
+        "everest",
+        "id"
+      ],
+      "fullName": "everest",
+      "except": []
+    },
+    {
+      "names": [
+        "oxen",
+        "oxen"
+      ],
+      "fullName": "oxen",
+      "except": []
+    },
+    {
+      "names": [
+        "v.systems",
+        "vsys"
+      ],
+      "fullName": "v.systems",
+      "except": []
+    },
+    {
+      "names": [
+        "einsteinium",
+        "emc2"
+      ],
+      "fullName": "einsteinium",
+      "except": []
+    },
+    {
+      "names": [
+        "vesper",
+        "vsp"
+      ],
+      "fullName": "vesper",
+      "except": []
+    },
+    {
+      "names": [
+        "harvest finance",
+        "farm",
+        "harvest"
+      ],
+      "fullName": "harvest finance",
+      "except": []
+    },
+    {
+      "names": [
+        "dragonchain",
+        "drgn"
+      ],
+      "fullName": "dragonchain",
+      "except": []
+    },
+    {
+      "names": [
+        "groestlcoin",
+        "grs"
+      ],
+      "fullName": "groestlcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "constellation",
+        "dag"
+      ],
+      "fullName": "constellation",
+      "except": []
+    },
+    {
+      "names": [
+        "sport and leisure",
+        "snl",
+        "sport"
+      ],
+      "fullName": "sport and leisure",
+      "except": []
+    },
+    {
+      "names": [
+        "moviebloc",
+        "mbl"
+      ],
+      "fullName": "moviebloc",
+      "except": []
+    },
+    {
+      "names": [
+        "ignis",
+        "ignis"
+      ],
+      "fullName": "ignis",
+      "except": []
+    },
+    {
+      "names": [
+        "nuls"
+      ],
+      "fullName": "nuls",
+      "except": []
+    },
+    {
+      "names": [
+        "insure defi",
+        "sure",
+        "insure"
+      ],
+      "fullName": "insure defi",
+      "except": []
+    },
+    {
+      "names": [
+        "beefy.finance",
+        "bifi"
+      ],
+      "fullName": "beefy.finance",
+      "except": []
+    },
+    {
+      "names": [
+        "latoken",
+        "la"
+      ],
+      "fullName": "latoken",
+      "except": []
+    },
+    {
+      "names": [
+        "dxchain token",
+        "dx",
+        "dxchain"
+      ],
+      "fullName": "dxchain token",
+      "except": []
+    },
+    {
+      "names": [
+        "smartlands network",
+        "slt",
+        "smartlands"
+      ],
+      "fullName": "smartlands network",
+      "except": []
+    },
+    {
+      "names": [
+        "centrality",
+        "cennz"
+      ],
+      "fullName": "centrality",
+      "except": []
+    },
+    {
+      "names": [
+        "waykichain",
+        "wicc"
+      ],
+      "fullName": "waykichain",
+      "except": []
+    },
+    {
+      "names": [
+        "refereum",
+        "rfr"
+      ],
+      "fullName": "refereum",
+      "except": []
+    },
+    {
+      "names": [
+        "mobilian coin",
+        "mbn",
+        "mobilian"
+      ],
+      "fullName": "mobilian coin",
+      "except": []
+    },
+    {
+      "names": [
+        "locktrip",
+        "loc"
+      ],
+      "fullName": "locktrip",
+      "except": []
+    },
+    {
+      "names": [
+        "api3"
+      ],
+      "fullName": "api3",
+      "except": []
+    },
+    {
+      "names": [
+        "hard protocol",
+        "hard"
+      ],
+      "fullName": "hard protocol",
+      "except": [
+        "hard"
+      ]
+    },
+    {
+      "names": [
+        "juggernaut",
+        "jgn"
+      ],
+      "fullName": "juggernaut",
+      "except": []
+    },
+    {
+      "names": [
+        "solve"
+      ],
+      "fullName": "solve",
+      "except": []
+    },
+    {
+      "names": [
+        "venus usdc",
+        "vusdc"
+      ],
+      "fullName": "venus usdc",
+      "except": [
+        "venus"
+      ]
+    },
+    {
+      "names": [
+        "nexus",
+        "nxs"
+      ],
+      "fullName": "nexus",
+      "except": []
+    },
+    {
+      "names": [
+        "lbry credits",
+        "lbc",
+        "lbry"
+      ],
+      "fullName": "lbry credits",
+      "except": []
+    },
+    {
+      "names": [
+        "bscpad"
+      ],
+      "fullName": "bscpad",
+      "except": []
+    },
+    {
+      "names": [
+        "yield app",
+        "yld",
+        "yield"
+      ],
+      "fullName": "yield app",
+      "except": []
+    },
+    {
+      "names": [
+        "ferrum network",
+        "frm",
+        "ferrum"
+      ],
+      "fullName": "ferrum network",
+      "except": []
+    },
+    {
+      "names": [
+        "dfi.money",
+        "yfii"
+      ],
+      "fullName": "dfi.money",
+      "except": []
+    },
+    {
+      "names": [
+        "dusk network",
+        "dusk"
+      ],
+      "fullName": "dusk network",
+      "except": [
+        "dusk"
+      ]
+    },
+    {
+      "names": [
+        "arpa chain",
+        "arpa"
+      ],
+      "fullName": "arpa chain",
+      "except": [
+        "arpa"
+      ]
+    },
+    {
+      "names": [
+        "bounce token",
+        "auction",
+        "bounce"
+      ],
+      "fullName": "bounce token",
+      "except": []
+    },
+    {
+      "names": [
+        "aergo",
+        "aergo"
+      ],
+      "fullName": "aergo",
+      "except": []
+    },
+    {
+      "names": [
+        "barnbridge",
+        "bond"
+      ],
+      "fullName": "barnbridge",
+      "except": []
+    },
+    {
+      "names": [
+        "project pai",
+        "pai",
+        "project"
+      ],
+      "fullName": "project pai",
+      "except": []
+    },
+    {
+      "names": [
+        "contentos",
+        "cos"
+      ],
+      "fullName": "contentos",
+      "except": []
+    },
+    {
+      "names": [
+        "unifi protocol dao",
+        "unfi",
+        "unifi"
+      ],
+      "fullName": "unifi protocol dao",
+      "except": []
+    },
+    {
+      "names": [
+        "amo coin",
+        "amo"
+      ],
+      "fullName": "amo coin",
+      "except": [
+        "amo"
+      ]
+    },
+    {
+      "names": [
+        "dero",
+        "dero"
+      ],
+      "fullName": "dero",
+      "except": []
+    },
+    {
+      "names": [
+        "mantra dao",
+        "om",
+        "mantra"
+      ],
+      "fullName": "mantra dao",
+      "except": []
+    },
+    {
+      "names": [
+        "vertcoin",
+        "vtc"
+      ],
+      "fullName": "vertcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "cortex",
+        "ctxc"
+      ],
+      "fullName": "cortex",
+      "except": []
+    },
+    {
+      "names": [
+        "#metahash",
+        "mhc"
+      ],
+      "fullName": "#metahash",
+      "except": []
+    },
+    {
+      "names": [
+        "visor.finance",
+        "visr"
+      ],
+      "fullName": "visor.finance",
+      "except": []
+    },
+    {
+      "names": [
+        "mushroom",
+        "mush"
+      ],
+      "fullName": "mushroom",
+      "except": []
+    },
+    {
+      "names": [
+        "sparkpoint",
+        "srk"
+      ],
+      "fullName": "sparkpoint",
+      "except": []
+    },
+    {
+      "names": [
+        "hypercash",
+        "hc"
+      ],
+      "fullName": "hypercash",
+      "except": []
+    },
+    {
+      "names": [
+        "bifrost (bfc)",
+        "bfc",
+        "bifrost"
+      ],
+      "fullName": "bifrost (bfc)",
+      "except": []
+    },
+    {
+      "names": [
+        "phoenix global",
+        "phb",
+        "phoenix"
+      ],
+      "fullName": "phoenix global",
+      "except": []
+    },
+    {
+      "names": [
+        "bonfida",
+        "fida"
+      ],
+      "fullName": "bonfida",
+      "except": []
+    },
+    {
+      "names": [
+        "humanscape",
+        "hum"
+      ],
+      "fullName": "humanscape",
+      "except": []
+    },
+    {
+      "names": [
+        "standard tokenization protocol",
+        "stpt",
+        "standard"
+      ],
+      "fullName": "standard tokenization protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "massnet",
+        "mass"
+      ],
+      "fullName": "massnet",
+      "except": []
+    },
+    {
+      "names": [
+        "persistence",
+        "xprt"
+      ],
+      "fullName": "persistence",
+      "except": []
+    },
+    {
+      "names": [
+        "sentinel protocol",
+        "upp"
+      ],
+      "fullName": "sentinel protocol",
+      "except": [
+        "sentinel"
+      ]
+    },
+    {
+      "names": [
+        "bankera",
+        "bnk"
+      ],
+      "fullName": "bankera",
+      "except": []
+    },
+    {
+      "names": [
+        "radicle",
+        "rad"
+      ],
+      "fullName": "radicle",
+      "except": []
+    },
+    {
+      "names": [
+        "rarible",
+        "rari"
+      ],
+      "fullName": "rarible",
+      "except": []
+    },
+    {
+      "names": [
+        "endor protocol",
+        "edr",
+        "endor"
+      ],
+      "fullName": "endor protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "suku"
+      ],
+      "fullName": "suku",
+      "except": []
+    },
+    {
+      "names": [
+        "huobi pool token",
+        "hpt",
+        "huobi"
+      ],
+      "fullName": "huobi pool token",
+      "except": []
+    },
+    {
+      "names": [
+        "vite"
+      ],
+      "fullName": "vite",
+      "except": []
+    },
+    {
+      "names": [
+        "frontier",
+        "front"
+      ],
+      "fullName": "frontier",
+      "except": []
+    },
+    {
+      "names": [
+        "spartan protocol",
+        "sparta",
+        "spartan"
+      ],
+      "fullName": "spartan protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "axel"
+      ],
+      "fullName": "axel",
+      "except": []
+    },
+    {
+      "names": [
+        "nest protocol",
+        "nest"
+      ],
+      "fullName": "nest protocol",
+      "except": [
+        "nest"
+      ]
+    },
+    {
+      "names": [
+        "swingby",
+        "swingby"
+      ],
+      "fullName": "swingby",
+      "except": []
+    },
+    {
+      "names": [
+        "rsk smart bitcoin",
+        "rbtc",
+        "rsk"
+      ],
+      "fullName": "rsk smart bitcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "empty set dollar",
+        "esd",
+        "empty"
+      ],
+      "fullName": "empty set dollar",
+      "except": []
+    },
+    {
+      "names": [
+        "dad"
+      ],
+      "fullName": "dad",
+      "except": []
+    },
+    {
+      "names": [
+        "nimiq",
+        "nim"
+      ],
+      "fullName": "nimiq",
+      "except": []
+    },
+    {
+      "names": [
+        "burger swap",
+        "burger"
+      ],
+      "fullName": "burger swap",
+      "except": [
+        "burger"
+      ]
+    },
+    {
+      "names": [
+        "switcheo",
+        "swth"
+      ],
+      "fullName": "switcheo",
+      "except": []
+    },
+    {
+      "names": [
+        "nftx"
+      ],
+      "fullName": "nftx",
+      "except": []
+    },
+    {
+      "names": [
+        "get protocol",
+        "get"
+      ],
+      "fullName": "get protocol",
+      "except": [
+        "get"
+      ]
+    },
+    {
+      "names": [
+        "asta"
+      ],
+      "fullName": "asta",
+      "except": []
+    },
+    {
+      "names": [
+        "ankreth",
+        "aeth"
+      ],
+      "fullName": "ankreth",
+      "except": []
+    },
+    {
+      "names": [
+        "selfkey",
+        "key"
+      ],
+      "fullName": "selfkey",
+      "except": []
+    },
+    {
+      "names": [
+        "revv"
+      ],
+      "fullName": "revv",
+      "except": []
+    },
+    {
+      "names": [
+        "wownero",
+        "wow"
+      ],
+      "fullName": "wownero",
+      "except": []
+    },
+    {
+      "names": [
+        "fio protocol",
+        "fio"
+      ],
+      "fullName": "fio protocol",
+      "except": [
+        "fio"
+      ]
+    },
+    {
+      "names": [
+        "hacken token",
+        "hai",
+        "hacken"
+      ],
+      "fullName": "hacken token",
+      "except": []
+    },
+    {
+      "names": [
+        "idex"
+      ],
+      "fullName": "idex",
+      "except": []
+    },
+    {
+      "names": [
+        "finxflo",
+        "fxf"
+      ],
+      "fullName": "finxflo",
+      "except": []
+    },
+    {
+      "names": [
+        "chainx",
+        "pcx"
+      ],
+      "fullName": "chainx",
+      "except": []
+    },
+    {
+      "names": [
+        "qcash",
+        "qc"
+      ],
+      "fullName": "qcash",
+      "except": []
+    },
+    {
+      "names": [
+        "xyo"
+      ],
+      "fullName": "xyo",
+      "except": []
+    },
+    {
+      "names": [
+        "fusion",
+        "fsn"
+      ],
+      "fullName": "fusion",
+      "except": []
+    },
+    {
+      "names": [
+        "hegic",
+        "hegic"
+      ],
+      "fullName": "hegic",
+      "except": []
+    },
+    {
+      "names": [
+        "yaxis",
+        "yax"
+      ],
+      "fullName": "yaxis",
+      "except": []
+    },
+    {
+      "names": [
+        "dock",
+        "dock"
+      ],
+      "fullName": "dock",
+      "except": []
+    },
+    {
+      "names": [
+        "cream finance",
+        "cream"
+      ],
+      "fullName": "cream finance",
+      "except": [
+        "cream"
+      ]
+    },
+    {
+      "names": [
+        "perlin",
+        "perl"
+      ],
+      "fullName": "perlin",
+      "except": []
+    },
+    {
+      "names": [
+        "belt",
+        "belt"
+      ],
+      "fullName": "belt",
+      "except": []
+    },
+    {
+      "names": [
+        "cindicator",
+        "cnd"
+      ],
+      "fullName": "cindicator",
+      "except": []
+    },
+    {
+      "names": [
+        "btu protocol",
+        "btu"
+      ],
+      "fullName": "btu protocol",
+      "except": [
+        "btu"
+      ]
+    },
+    {
+      "names": [
+        "wirex token",
+        "wxt",
+        "wirex"
+      ],
+      "fullName": "wirex token",
+      "except": []
+    },
+    {
+      "names": [
+        "moss coin",
+        "moc",
+        "moss"
+      ],
+      "fullName": "moss coin",
+      "except": []
+    },
+    {
+      "names": [
+        "poseidon network",
+        "qqq",
+        "poseidon"
+      ],
+      "fullName": "poseidon network",
+      "except": []
+    },
+    {
+      "names": [
+        "vulcan forged pyr",
+        "pyr",
+        "vulcan"
+      ],
+      "fullName": "vulcan forged pyr",
+      "except": []
+    },
+    {
+      "names": [
+        "basid coin",
+        "basid"
+      ],
+      "fullName": "basid coin",
+      "except": [
+        "basid"
+      ]
+    },
+    {
+      "names": [
+        "cvault.finance",
+        "core"
+      ],
+      "fullName": "cvault.finance",
+      "except": []
+    },
+    {
+      "names": [
+        "grin",
+        "grin"
+      ],
+      "fullName": "grin",
+      "except": []
+    },
+    {
+      "names": [
+        "decentral games",
+        "dg",
+        "decentral"
+      ],
+      "fullName": "decentral games",
+      "except": []
+    },
+    {
+      "names": [
+        "dmarket",
+        "dmt"
+      ],
+      "fullName": "dmarket",
+      "except": []
+    },
+    {
+      "names": [
+        "minter network",
+        "bip",
+        "minter"
+      ],
+      "fullName": "minter network",
+      "except": []
+    },
+    {
+      "names": [
+        "proton",
+        "xpr"
+      ],
+      "fullName": "proton",
+      "except": []
+    },
+    {
+      "names": [
+        "kylin",
+        "kyl"
+      ],
+      "fullName": "kylin",
+      "except": []
+    },
+    {
+      "names": [
+        "wing",
+        "wing"
+      ],
+      "fullName": "wing",
+      "except": []
+    },
+    {
+      "names": [
+        "helmet.insure",
+        "helmet"
+      ],
+      "fullName": "helmet.insure",
+      "except": []
+    },
+    {
+      "names": [
+        "observer",
+        "obsr"
+      ],
+      "fullName": "observer",
+      "except": []
+    },
+    {
+      "names": [
+        "cyberfi token",
+        "cfi",
+        "cyberfi"
+      ],
+      "fullName": "cyberfi token",
+      "except": []
+    },
+    {
+      "names": [
+        "nxt",
+        "nxt"
+      ],
+      "fullName": "nxt",
+      "except": []
+    },
+    {
+      "names": [
+        "dextools",
+        "dext"
+      ],
+      "fullName": "dextools",
+      "except": []
+    },
+    {
+      "names": [
+        "unilayer",
+        "layer"
+      ],
+      "fullName": "unilayer",
+      "except": []
+    },
+    {
+      "names": [
+        "duckdaodime",
+        "ddim"
+      ],
+      "fullName": "duckdaodime",
+      "except": []
+    },
+    {
+      "names": [
+        "pixel",
+        "pxl"
+      ],
+      "fullName": "pixel",
+      "except": []
+    },
+    {
+      "names": [
+        "suterusu",
+        "suter"
+      ],
+      "fullName": "suterusu",
+      "except": []
+    },
+    {
+      "names": [
+        "videocoin",
+        "vid"
+      ],
+      "fullName": "videocoin",
+      "except": []
+    },
+    {
+      "names": [
+        "dexe",
+        "dexe"
+      ],
+      "fullName": "dexe",
+      "except": []
+    },
+    {
+      "names": [
+        "aioz network",
+        "aioz"
+      ],
+      "fullName": "aioz network",
+      "except": [
+        "aioz"
+      ]
+    },
+    {
+      "names": [
+        "powerpool",
+        "cvp"
+      ],
+      "fullName": "powerpool",
+      "except": []
+    },
+    {
+      "names": [
+        "peakdefi",
+        "peak"
+      ],
+      "fullName": "peakdefi",
+      "except": []
+    },
+    {
+      "names": [
+        "darwinia network",
+        "ring",
+        "darwinia"
+      ],
+      "fullName": "darwinia network",
+      "except": []
+    },
+    {
+      "names": [
+        "paris saint-germain fan token",
+        "psg",
+        "paris"
+      ],
+      "fullName": "paris saint-germain fan token",
+      "except": []
+    },
+    {
+      "names": [
+        "skycoin",
+        "sky"
+      ],
+      "fullName": "skycoin",
+      "except": []
+    },
+    {
+      "names": [
+        "gifto",
+        "gto"
+      ],
+      "fullName": "gifto",
+      "except": []
+    },
+    {
+      "names": [
+        "boringdao",
+        "bor"
+      ],
+      "fullName": "boringdao",
+      "except": []
+    },
+    {
+      "names": [
+        "beldex",
+        "bdx"
+      ],
+      "fullName": "beldex",
+      "except": []
+    },
+    {
+      "names": [
+        "prometeus",
+        "prom"
+      ],
+      "fullName": "prometeus",
+      "except": []
+    },
+    {
+      "names": [
+        "gxchain",
+        "gxc"
+      ],
+      "fullName": "gxchain",
+      "except": []
+    },
+    {
+      "names": [
+        "quantstamp",
+        "qsp"
+      ],
+      "fullName": "quantstamp",
+      "except": []
+    },
+    {
+      "names": [
+        "airswap",
+        "ast"
+      ],
+      "fullName": "airswap",
+      "except": []
+    },
+    {
+      "names": [
+        "the midas touch gold",
+        "tmtg",
+        "the"
+      ],
+      "fullName": "the midas touch gold",
+      "except": []
+    },
+    {
+      "names": [
+        "nebulas",
+        "nas"
+      ],
+      "fullName": "nebulas",
+      "except": []
+    },
+    {
+      "names": [
+        "stasis euro",
+        "eurs",
+        "stasis"
+      ],
+      "fullName": "stasis euro",
+      "except": []
+    },
+    {
+      "names": [
+        "ripio credit network",
+        "rcn",
+        "ripio"
+      ],
+      "fullName": "ripio credit network",
+      "except": []
+    },
+    {
+      "names": [
+        "0chain",
+        "zcn"
+      ],
+      "fullName": "0chain",
+      "except": []
+    },
+    {
+      "names": [
+        "convergence",
+        "conv"
+      ],
+      "fullName": "convergence",
+      "except": []
+    },
+    {
+      "names": [
+        "tornado cash",
+        "torn",
+        "tornado"
+      ],
+      "fullName": "tornado cash",
+      "except": []
+    },
+    {
+      "names": [
+        "sentivate",
+        "sntvt"
+      ],
+      "fullName": "sentivate",
+      "except": []
+    },
+    {
+      "names": [
+        "digitalbits",
+        "xdb"
+      ],
+      "fullName": "digitalbits",
+      "except": []
+    },
+    {
+      "names": [
+        "drep [new]",
+        "drep"
+      ],
+      "fullName": "drep [new]",
+      "except": [
+        "drep"
+      ]
+    },
+    {
+      "names": [
+        "frax share",
+        "fxs"
+      ],
+      "fullName": "frax share",
+      "except": [
+        "frax"
+      ]
+    },
+    {
+      "names": [
+        "baasid",
+        "baas"
+      ],
+      "fullName": "baasid",
+      "except": []
+    },
+    {
+      "names": [
+        "usdx [kava]",
+        "usdx"
+      ],
+      "fullName": "usdx [kava]",
+      "except": [
+        "usdx"
+      ]
+    },
+    {
+      "names": [
+        "arianee",
+        "aria20"
+      ],
+      "fullName": "arianee",
+      "except": []
+    },
+    {
+      "names": [
+        "venus busd",
+        "vbusd"
+      ],
+      "fullName": "venus busd",
+      "except": [
+        "venus"
+      ]
+    },
+    {
+      "names": [
+        "armor"
+      ],
+      "fullName": "armor",
+      "except": []
+    },
+    {
+      "names": [
+        "zeroswap",
+        "zee"
+      ],
+      "fullName": "zeroswap",
+      "except": []
+    },
+    {
+      "names": [
+        "obyte",
+        "gbyte"
+      ],
+      "fullName": "obyte",
+      "except": []
+    },
+    {
+      "names": [
+        "propy",
+        "pro"
+      ],
+      "fullName": "propy",
+      "except": []
+    },
+    {
+      "names": [
+        "steem dollars",
+        "sbd"
+      ],
+      "fullName": "steem dollars",
+      "except": [
+        "steem"
+      ]
+    },
+    {
+      "names": [
+        "keep3rv1",
+        "kp3r"
+      ],
+      "fullName": "keep3rv1",
+      "except": []
+    },
+    {
+      "names": [
+        "ducato protocol token",
+        "ducato"
+      ],
+      "fullName": "ducato protocol token",
+      "except": [
+        "ducato"
+      ]
+    },
+    {
+      "names": [
+        "quiztok",
+        "qtcon"
+      ],
+      "fullName": "quiztok",
+      "except": []
+    },
+    {
+      "names": [
+        "dentacoin",
+        "dcn"
+      ],
+      "fullName": "dentacoin",
+      "except": []
+    },
+    {
+      "names": [
+        "erc20"
+      ],
+      "fullName": "erc20",
+      "except": []
+    },
+    {
+      "names": [
+        "aavegotchi",
+        "ghst"
+      ],
+      "fullName": "aavegotchi",
+      "except": []
+    },
+    {
+      "names": [
+        "digixdao",
+        "dgd"
+      ],
+      "fullName": "digixdao",
+      "except": []
+    },
+    {
+      "names": [
+        "appcoins",
+        "appc"
+      ],
+      "fullName": "appcoins",
+      "except": []
+    },
+    {
+      "names": [
+        "wabi",
+        "wabi"
+      ],
+      "fullName": "wabi",
+      "except": []
+    },
+    {
+      "names": [
+        "bitkan",
+        "kan"
+      ],
+      "fullName": "bitkan",
+      "except": []
+    },
+    {
+      "names": [
+        "elysia",
+        "el"
+      ],
+      "fullName": "elysia",
+      "except": []
+    },
+    {
+      "names": [
+        "big data protocol",
+        "bdp",
+        "big"
+      ],
+      "fullName": "big data protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "phantasma",
+        "soul"
+      ],
+      "fullName": "phantasma",
+      "except": []
+    },
+    {
+      "names": [
+        "bitz token",
+        "bz",
+        "bitz"
+      ],
+      "fullName": "bitz token",
+      "except": []
+    },
+    {
+      "names": [
+        "gochain",
+        "go"
+      ],
+      "fullName": "gochain",
+      "except": []
+    },
+    {
+      "names": [
+        "raiden network token",
+        "rdn",
+        "raiden"
+      ],
+      "fullName": "raiden network token",
+      "except": []
+    },
+    {
+      "names": [
+        "insurace",
+        "insur"
+      ],
+      "fullName": "insurace",
+      "except": []
+    },
+    {
+      "names": [
+        "ultiledger",
+        "ult"
+      ],
+      "fullName": "ultiledger",
+      "except": []
+    },
+    {
+      "names": [
+        "nexalt",
+        "xlt"
+      ],
+      "fullName": "nexalt",
+      "except": []
+    },
+    {
+      "names": [
+        "neblio",
+        "nebl"
+      ],
+      "fullName": "neblio",
+      "except": []
+    },
+    {
+      "names": [
+        "pnetwork",
+        "pnt"
+      ],
+      "fullName": "pnetwork",
+      "except": []
+    },
+    {
+      "names": [
+        "nash",
+        "nex"
+      ],
+      "fullName": "nash",
+      "except": []
+    },
+    {
+      "names": [
+        "truefi",
+        "tru"
+      ],
+      "fullName": "truefi",
+      "except": []
+    },
+    {
+      "names": [
+        "mstable governance token: meta (mta)",
+        "mta",
+        "mstable"
+      ],
+      "fullName": "mstable governance token: meta (mta)",
+      "except": []
+    },
+    {
+      "names": [
+        "cocos-bcx",
+        "cocos"
+      ],
+      "fullName": "cocos-bcx",
+      "except": []
+    },
+    {
+      "names": [
+        "vidy"
+      ],
+      "fullName": "vidy",
+      "except": []
+    },
+    {
+      "names": [
+        "octofi",
+        "octo"
+      ],
+      "fullName": "octofi",
+      "except": []
+    },
+    {
+      "names": [
+        "aurora",
+        "aoa"
+      ],
+      "fullName": "aurora",
+      "except": []
+    },
+    {
+      "names": [
+        "bnktothefuture",
+        "bft"
+      ],
+      "fullName": "bnktothefuture",
+      "except": []
+    },
+    {
+      "names": [
+        "celo dollar",
+        "cusd"
+      ],
+      "fullName": "celo dollar",
+      "except": [
+        "celo"
+      ]
+    },
+    {
+      "names": [
+        "nucleus vision",
+        "ncash",
+        "nucleus"
+      ],
+      "fullName": "nucleus vision",
+      "except": []
+    },
+    {
+      "names": [
+        "stakenet",
+        "xsn"
+      ],
+      "fullName": "stakenet",
+      "except": []
+    },
+    {
+      "names": [
+        "lcx"
+      ],
+      "fullName": "lcx",
+      "except": []
+    },
+    {
+      "names": [
+        "digg"
+      ],
+      "fullName": "digg",
+      "except": []
+    },
+    {
+      "names": [
+        "dovu",
+        "dov"
+      ],
+      "fullName": "dovu",
+      "except": []
+    },
+    {
+      "names": [
+        "julswap",
+        "juld"
+      ],
+      "fullName": "julswap",
+      "except": []
+    },
+    {
+      "names": [
+        "turtlecoin",
+        "trtl"
+      ],
+      "fullName": "turtlecoin",
+      "except": []
+    },
+    {
+      "names": [
+        "metronome",
+        "met"
+      ],
+      "fullName": "metronome",
+      "except": []
+    },
+    {
+      "names": [
+        "navcoin",
+        "nav"
+      ],
+      "fullName": "navcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "dora factory",
+        "dora"
+      ],
+      "fullName": "dora factory",
+      "except": [
+        "dora"
+      ]
+    },
+    {
+      "names": [
+        "terrakrw",
+        "krt"
+      ],
+      "fullName": "terrakrw",
+      "except": []
+    },
+    {
+      "names": [
+        "veritaseum",
+        "veri"
+      ],
+      "fullName": "veritaseum",
+      "except": []
+    },
+    {
+      "names": [
+        "etherisc dip token",
+        "dip",
+        "etherisc"
+      ],
+      "fullName": "etherisc dip token",
+      "except": []
+    },
+    {
+      "names": [
+        "deepbrain chain",
+        "dbc",
+        "deepbrain"
+      ],
+      "fullName": "deepbrain chain",
+      "except": []
+    },
+    {
+      "names": [
+        "coinex token",
+        "cet",
+        "coinex"
+      ],
+      "fullName": "coinex token",
+      "except": []
+    },
+    {
+      "names": [
+        "robonomics.network",
+        "xrt"
+      ],
+      "fullName": "robonomics.network",
+      "except": []
+    },
+    {
+      "names": [
+        "infinitecoin",
+        "ifc"
+      ],
+      "fullName": "infinitecoin",
+      "except": []
+    },
+    {
+      "names": [
+        "sentinel",
+        "dvpn"
+      ],
+      "fullName": "sentinel",
+      "except": []
+    },
+    {
+      "names": [
+        "bounce token (old)",
+        "bot",
+        "bounce"
+      ],
+      "fullName": "bounce token (old)",
+      "except": []
+    },
+    {
+      "names": [
+        "alpha quark token",
+        "aqt"
+      ],
+      "fullName": "alpha quark token",
+      "except": [
+        "alpha"
+      ]
+    },
+    {
+      "names": [
+        "measurable data token",
+        "mdt",
+        "measurable"
+      ],
+      "fullName": "measurable data token",
+      "except": []
+    },
+    {
+      "names": [
+        "bridge mutual",
+        "bmi",
+        "bridge"
+      ],
+      "fullName": "bridge mutual",
+      "except": []
+    },
+    {
+      "names": [
+        "roobee"
+      ],
+      "fullName": "roobee",
+      "except": []
+    },
+    {
+      "names": [
+        "aleph.im",
+        "aleph"
+      ],
+      "fullName": "aleph.im",
+      "except": []
+    },
+    {
+      "names": [
+        "vidt datalink",
+        "vidt"
+      ],
+      "fullName": "vidt datalink",
+      "except": [
+        "vidt"
+      ]
+    },
+    {
+      "names": [
+        "fortube",
+        "for"
+      ],
+      "fullName": "fortube",
+      "except": []
+    },
+    {
+      "names": [
+        "neutrino token",
+        "nsbt",
+        "neutrino"
+      ],
+      "fullName": "neutrino token",
+      "except": []
+    },
+    {
+      "names": [
+        "88mph",
+        "mph"
+      ],
+      "fullName": "88mph",
+      "except": []
+    },
+    {
+      "names": [
+        "darma cash",
+        "dmch",
+        "darma"
+      ],
+      "fullName": "darma cash",
+      "except": []
+    },
+    {
+      "names": [
+        "hunt"
+      ],
+      "fullName": "hunt",
+      "except": []
+    },
+    {
+      "names": [
+        "gamecredits",
+        "game"
+      ],
+      "fullName": "gamecredits",
+      "except": []
+    },
+    {
+      "names": [
+        "bondly",
+        "bondly"
+      ],
+      "fullName": "bondly",
+      "except": []
+    },
+    {
+      "names": [
+        "viacoin",
+        "via"
+      ],
+      "fullName": "viacoin",
+      "except": []
+    },
+    {
+      "names": [
+        "babb",
+        "bax"
+      ],
+      "fullName": "babb",
+      "except": []
+    },
+    {
+      "names": [
+        "morpheus labs",
+        "mitx",
+        "morpheus"
+      ],
+      "fullName": "morpheus labs",
+      "except": []
+    },
+    {
+      "names": [
+        "xsgd"
+      ],
+      "fullName": "xsgd",
+      "except": []
+    },
+    {
+      "names": [
+        "basic"
+      ],
+      "fullName": "basic",
+      "except": []
+    },
+    {
+      "names": [
+        "aeon",
+        "aeon"
+      ],
+      "fullName": "aeon",
+      "except": []
+    },
+    {
+      "names": [
+        "step finance",
+        "step"
+      ],
+      "fullName": "step finance",
+      "except": [
+        "step"
+      ]
+    },
+    {
+      "names": [
+        "anyswap",
+        "any"
+      ],
+      "fullName": "anyswap",
+      "except": []
+    },
+    {
+      "names": [
+        "mstable usd",
+        "musd",
+        "mstable"
+      ],
+      "fullName": "mstable usd",
+      "except": []
+    },
+    {
+      "names": [
+        "exeedme",
+        "xed"
+      ],
+      "fullName": "exeedme",
+      "except": []
+    },
+    {
+      "names": [
+        "dforce",
+        "df"
+      ],
+      "fullName": "dforce",
+      "except": []
+    },
+    {
+      "names": [
+        "bitrue coin",
+        "btr",
+        "bitrue"
+      ],
+      "fullName": "bitrue coin",
+      "except": []
+    },
+    {
+      "names": [
+        "lympo",
+        "lym"
+      ],
+      "fullName": "lympo",
+      "except": []
+    },
+    {
+      "names": [
+        "dracula token",
+        "drc",
+        "dracula"
+      ],
+      "fullName": "dracula token",
+      "except": []
+    },
+    {
+      "names": [
+        "genesis vision",
+        "gvt",
+        "genesis"
+      ],
+      "fullName": "genesis vision",
+      "except": []
+    },
+    {
+      "names": [
+        "meme",
+        "meme"
+      ],
+      "fullName": "meme",
+      "except": []
+    },
+    {
+      "names": [
+        "mirrored ishares gold trust",
+        "miau",
+        "mirrored"
+      ],
+      "fullName": "mirrored ishares gold trust",
+      "except": []
+    },
+    {
+      "names": [
+        "illuvium",
+        "ilv"
+      ],
+      "fullName": "illuvium",
+      "except": []
+    },
+    {
+      "names": [
+        "mirrored tesla",
+        "mtsla",
+        "mirrored"
+      ],
+      "fullName": "mirrored tesla",
+      "except": []
+    },
+    {
+      "names": [
+        "duck dao (dlp duck token)",
+        "duck"
+      ],
+      "fullName": "duck dao (dlp duck token)",
+      "except": [
+        "duck"
+      ]
+    },
+    {
+      "names": [
+        "glitch",
+        "glch"
+      ],
+      "fullName": "glitch",
+      "except": []
+    },
+    {
+      "names": [
+        "vitae",
+        "vitae"
+      ],
+      "fullName": "vitae",
+      "except": []
+    },
+    {
+      "names": [
+        "homeros",
+        "hmr"
+      ],
+      "fullName": "homeros",
+      "except": []
+    },
+    {
+      "names": [
+        "qash"
+      ],
+      "fullName": "qash",
+      "except": []
+    },
+    {
+      "names": [
+        "lgcy network",
+        "lgcy"
+      ],
+      "fullName": "lgcy network",
+      "except": [
+        "lgcy"
+      ]
+    },
+    {
+      "names": [
+        "quantum resistant ledger",
+        "qrl",
+        "quantum"
+      ],
+      "fullName": "quantum resistant ledger",
+      "except": []
+    },
+    {
+      "names": [
+        "auto",
+        "auto"
+      ],
+      "fullName": "auto",
+      "except": []
+    },
+    {
+      "names": [
+        "bux token",
+        "bux"
+      ],
+      "fullName": "bux token",
+      "except": [
+        "bux"
+      ]
+    },
+    {
+      "names": [
+        "unmarshal",
+        "marsh"
+      ],
+      "fullName": "unmarshal",
+      "except": []
+    },
+    {
+      "names": [
+        "molecular future",
+        "mof",
+        "molecular"
+      ],
+      "fullName": "molecular future",
+      "except": []
+    },
+    {
+      "names": [
+        "rakon",
+        "rkn"
+      ],
+      "fullName": "rakon",
+      "except": []
+    },
+    {
+      "names": [
+        "float protocol",
+        "bank",
+        "float"
+      ],
+      "fullName": "float protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "apy.finance",
+        "apy"
+      ],
+      "fullName": "apy.finance",
+      "except": []
+    },
+    {
+      "names": [
+        "mirrored amazon",
+        "mamzn",
+        "mirrored"
+      ],
+      "fullName": "mirrored amazon",
+      "except": []
+    },
+    {
+      "names": [
+        "truefeedback",
+        "tfb"
+      ],
+      "fullName": "truefeedback",
+      "except": []
+    },
+    {
+      "names": [
+        "electric vehicle zone",
+        "evz",
+        "electric"
+      ],
+      "fullName": "electric vehicle zone",
+      "except": []
+    },
+    {
+      "names": [
+        "stablexswap",
+        "stax"
+      ],
+      "fullName": "stablexswap",
+      "except": []
+    },
+    {
+      "names": [
+        "bitforex token",
+        "bf",
+        "bitforex"
+      ],
+      "fullName": "bitforex token",
+      "except": []
+    },
+    {
+      "names": [
+        "cargox",
+        "cxo"
+      ],
+      "fullName": "cargox",
+      "except": []
+    },
+    {
+      "names": [
+        "salt"
+      ],
+      "fullName": "salt",
+      "except": []
+    },
+    {
+      "names": [
+        "mirrored invesco qqq trust",
+        "mqqq",
+        "mirrored"
+      ],
+      "fullName": "mirrored invesco qqq trust",
+      "except": []
+    },
+    {
+      "names": [
+        "king dag",
+        "kdag",
+        "king"
+      ],
+      "fullName": "king dag",
+      "except": []
+    },
+    {
+      "names": [
+        "zano",
+        "zano"
+      ],
+      "fullName": "zano",
+      "except": []
+    },
+    {
+      "names": [
+        "mirrored ishares silver trust",
+        "mslv",
+        "mirrored"
+      ],
+      "fullName": "mirrored ishares silver trust",
+      "except": []
+    },
+    {
+      "names": [
+        "davinci coin",
+        "dac",
+        "davinci"
+      ],
+      "fullName": "davinci coin",
+      "except": []
+    },
+    {
+      "names": [
+        "blank wallet",
+        "blank"
+      ],
+      "fullName": "blank wallet",
+      "except": [
+        "blank"
+      ]
+    },
+    {
+      "names": [
+        "all sports",
+        "soc",
+        "all"
+      ],
+      "fullName": "all sports",
+      "except": []
+    },
+    {
+      "names": [
+        "temco"
+      ],
+      "fullName": "temco",
+      "except": []
+    },
+    {
+      "names": [
+        "curate",
+        "xcur"
+      ],
+      "fullName": "curate",
+      "except": []
+    },
+    {
+      "names": [
+        "glitzkoin",
+        "gtn"
+      ],
+      "fullName": "glitzkoin",
+      "except": []
+    },
+    {
+      "names": [
+        "mirrored apple",
+        "maapl",
+        "mirrored"
+      ],
+      "fullName": "mirrored apple",
+      "except": []
+    },
+    {
+      "names": [
+        "tokamak network",
+        "ton",
+        "tokamak"
+      ],
+      "fullName": "tokamak network",
+      "except": []
+    },
+    {
+      "names": [
+        "callisto network",
+        "clo",
+        "callisto"
+      ],
+      "fullName": "callisto network",
+      "except": []
+    },
+    {
+      "names": [
+        "tokenclub",
+        "tct"
+      ],
+      "fullName": "tokenclub",
+      "except": []
+    },
+    {
+      "names": [
+        "firmachain",
+        "fct"
+      ],
+      "fullName": "firmachain",
+      "except": []
+    },
+    {
+      "names": [
+        "cutcoin",
+        "cut"
+      ],
+      "fullName": "cutcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "polkamon",
+        "pmon"
+      ],
+      "fullName": "polkamon",
+      "except": []
+    },
+    {
+      "names": [
+        "rubic",
+        "rbc"
+      ],
+      "fullName": "rubic",
+      "except": []
+    },
+    {
+      "names": [
+        "mirrored microsoft",
+        "mmsft",
+        "mirrored"
+      ],
+      "fullName": "mirrored microsoft",
+      "except": []
+    },
+    {
+      "names": [
+        "zap",
+        "zap"
+      ],
+      "fullName": "zap",
+      "except": []
+    },
+    {
+      "names": [
+        "benchmark protocol",
+        "mark",
+        "benchmark"
+      ],
+      "fullName": "benchmark protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "te-food",
+        "tone"
+      ],
+      "fullName": "te-food",
+      "except": []
+    },
+    {
+      "names": [
+        "enecuum",
+        "enq"
+      ],
+      "fullName": "enecuum",
+      "except": []
+    },
+    {
+      "names": [
+        "ichi"
+      ],
+      "fullName": "ichi",
+      "except": []
+    },
+    {
+      "names": [
+        "bao finance",
+        "bao"
+      ],
+      "fullName": "bao finance",
+      "except": [
+        "bao"
+      ]
+    },
+    {
+      "names": [
+        "venus sxp",
+        "vsxp"
+      ],
+      "fullName": "venus sxp",
+      "except": [
+        "venus"
+      ]
+    },
+    {
+      "names": [
+        "deeper network",
+        "dpr",
+        "deeper"
+      ],
+      "fullName": "deeper network",
+      "except": []
+    },
+    {
+      "names": [
+        "mirrored netflix",
+        "mnflx",
+        "mirrored"
+      ],
+      "fullName": "mirrored netflix",
+      "except": []
+    },
+    {
+      "names": [
+        "six"
+      ],
+      "fullName": "six",
+      "except": []
+    },
+    {
+      "names": [
+        "cover protocol",
+        "cover"
+      ],
+      "fullName": "cover protocol",
+      "except": [
+        "cover"
+      ]
+    },
+    {
+      "names": [
+        "banano",
+        "ban"
+      ],
+      "fullName": "banano",
+      "except": []
+    },
+    {
+      "names": [
+        "burst",
+        "burst"
+      ],
+      "fullName": "burst",
+      "except": []
+    },
+    {
+      "names": [
+        "bithao",
+        "bhao"
+      ],
+      "fullName": "bithao",
+      "except": []
+    },
+    {
+      "names": [
+        "mirrored twitter",
+        "mtwtr",
+        "mirrored"
+      ],
+      "fullName": "mirrored twitter",
+      "except": []
+    },
+    {
+      "names": [
+        "wepower",
+        "wpr"
+      ],
+      "fullName": "wepower",
+      "except": []
+    },
+    {
+      "names": [
+        "cashaa",
+        "cas"
+      ],
+      "fullName": "cashaa",
+      "except": []
+    },
+    {
+      "names": [
+        "hermez network",
+        "hez",
+        "hermez"
+      ],
+      "fullName": "hermez network",
+      "except": []
+    },
+    {
+      "names": [
+        "plian",
+        "pi"
+      ],
+      "fullName": "plian",
+      "except": []
+    },
+    {
+      "names": [
+        "mirrored united states oil fund",
+        "muso",
+        "mirrored"
+      ],
+      "fullName": "mirrored united states oil fund",
+      "except": []
+    },
+    {
+      "names": [
+        "peercoin",
+        "ppc"
+      ],
+      "fullName": "peercoin",
+      "except": []
+    },
+    {
+      "names": [
+        "mirrored alibaba",
+        "mbaba",
+        "mirrored"
+      ],
+      "fullName": "mirrored alibaba",
+      "except": []
+    },
+    {
+      "names": [
+        "horizon protocol",
+        "hzn",
+        "horizon"
+      ],
+      "fullName": "horizon protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "bitball treasure",
+        "btrs",
+        "bitball"
+      ],
+      "fullName": "bitball treasure",
+      "except": []
+    },
+    {
+      "names": [
+        "bitcoinhd",
+        "bhd"
+      ],
+      "fullName": "bitcoinhd",
+      "except": []
+    },
+    {
+      "names": [
+        "venus usdt",
+        "vusdt"
+      ],
+      "fullName": "venus usdt",
+      "except": [
+        "venus"
+      ]
+    },
+    {
+      "names": [
+        "anchor neural world",
+        "anw",
+        "anchor"
+      ],
+      "fullName": "anchor neural world",
+      "except": []
+    },
+    {
+      "names": [
+        "bigone token",
+        "one",
+        "bigone"
+      ],
+      "fullName": "bigone token",
+      "except": []
+    },
+    {
+      "names": [
+        "plasma finance",
+        "ppay",
+        "plasma"
+      ],
+      "fullName": "plasma finance",
+      "except": []
+    },
+    {
+      "names": [
+        "namecoin",
+        "nmc"
+      ],
+      "fullName": "namecoin",
+      "except": []
+    },
+    {
+      "names": [
+        "lgo token",
+        "lgo"
+      ],
+      "fullName": "lgo token",
+      "except": [
+        "lgo"
+      ]
+    },
+    {
+      "names": [
+        "crowns",
+        "cws"
+      ],
+      "fullName": "crowns",
+      "except": []
+    },
+    {
+      "names": [
+        "cudos"
+      ],
+      "fullName": "cudos",
+      "except": []
+    },
+    {
+      "names": [
+        "oax"
+      ],
+      "fullName": "oax",
+      "except": []
+    },
+    {
+      "names": [
+        "map protocol",
+        "map"
+      ],
+      "fullName": "map protocol",
+      "except": [
+        "map"
+      ]
+    },
+    {
+      "names": [
+        "bitmart token",
+        "bmx",
+        "bitmart"
+      ],
+      "fullName": "bitmart token",
+      "except": []
+    },
+    {
+      "names": [
+        "lattice token",
+        "ltx",
+        "lattice"
+      ],
+      "fullName": "lattice token",
+      "except": []
+    },
+    {
+      "names": [
+        "digitalnote",
+        "xdn"
+      ],
+      "fullName": "digitalnote",
+      "except": []
+    },
+    {
+      "names": [
+        "metaverse etp",
+        "etp",
+        "metaverse"
+      ],
+      "fullName": "metaverse etp",
+      "except": []
+    },
+    {
+      "names": [
+        "mirrored proshares vix",
+        "mvixy",
+        "mirrored"
+      ],
+      "fullName": "mirrored proshares vix",
+      "except": []
+    },
+    {
+      "names": [
+        "aga token",
+        "aga"
+      ],
+      "fullName": "aga token",
+      "except": [
+        "aga"
+      ]
+    },
+    {
+      "names": [
+        "small love potion",
+        "slp",
+        "small"
+      ],
+      "fullName": "small love potion",
+      "except": []
+    },
+    {
+      "names": [
+        "olyseum",
+        "oly"
+      ],
+      "fullName": "olyseum",
+      "except": []
+    },
+    {
+      "names": [
+        "idavoll network",
+        "idv",
+        "idavoll"
+      ],
+      "fullName": "idavoll network",
+      "except": []
+    },
+    {
+      "names": [
+        "mixmarvel",
+        "mix"
+      ],
+      "fullName": "mixmarvel",
+      "except": []
+    },
+    {
+      "names": [
+        "wagerr",
+        "wgr"
+      ],
+      "fullName": "wagerr",
+      "except": []
+    },
+    {
+      "names": [
+        "bread",
+        "brd"
+      ],
+      "fullName": "bread",
+      "except": []
+    },
+    {
+      "names": [
+        "saketoken",
+        "sake"
+      ],
+      "fullName": "saketoken",
+      "except": []
+    },
+    {
+      "names": [
+        "metaverse dualchain network architecture",
+        "dna",
+        "metaverse"
+      ],
+      "fullName": "metaverse dualchain network architecture",
+      "except": []
+    },
+    {
+      "names": [
+        "opium",
+        "opium"
+      ],
+      "fullName": "opium",
+      "except": []
+    },
+    {
+      "names": [
+        "usdk"
+      ],
+      "fullName": "usdk",
+      "except": []
+    },
+    {
+      "names": [
+        "dhedge dao",
+        "dht",
+        "dhedge"
+      ],
+      "fullName": "dhedge dao",
+      "except": []
+    },
+    {
+      "names": [
+        "hitchain",
+        "hit"
+      ],
+      "fullName": "hitchain",
+      "except": []
+    },
+    {
+      "names": [
+        "crypterium",
+        "crpt"
+      ],
+      "fullName": "crypterium",
+      "except": []
+    },
+    {
+      "names": [
+        "multivac",
+        "mtv"
+      ],
+      "fullName": "multivac",
+      "except": []
+    },
+    {
+      "names": [
+        "blox",
+        "cdt"
+      ],
+      "fullName": "blox",
+      "except": []
+    },
+    {
+      "names": [
+        "prizm",
+        "pzm"
+      ],
+      "fullName": "prizm",
+      "except": []
+    },
+    {
+      "names": [
+        "justliquidity",
+        "jul"
+      ],
+      "fullName": "justliquidity",
+      "except": []
+    },
+    {
+      "names": [
+        "liquidapps",
+        "dapp"
+      ],
+      "fullName": "liquidapps",
+      "except": []
+    },
+    {
+      "names": [
+        "upbots",
+        "ubxt"
+      ],
+      "fullName": "upbots",
+      "except": []
+    },
+    {
+      "names": [
+        "multi channel influencer creater cloud funding platform",
+        "mci",
+        "multi"
+      ],
+      "fullName": "multi channel influencer creater cloud funding platform",
+      "except": []
+    },
+    {
+      "names": [
+        "galatasaray fan token",
+        "gal",
+        "galatasaray"
+      ],
+      "fullName": "galatasaray fan token",
+      "except": []
+    },
+    {
+      "names": [
+        "polkadex",
+        "pdex"
+      ],
+      "fullName": "polkadex",
+      "except": []
+    },
+    {
+      "names": [
+        "matrix ai network",
+        "man",
+        "matrix"
+      ],
+      "fullName": "matrix ai network",
+      "except": []
+    },
+    {
+      "names": [
+        "high performance blockchain",
+        "hpb",
+        "high"
+      ],
+      "fullName": "high performance blockchain",
+      "except": []
+    },
+    {
+      "names": [
+        "multiplier",
+        "mxx"
+      ],
+      "fullName": "multiplier",
+      "except": []
+    },
+    {
+      "names": [
+        "everex",
+        "evx"
+      ],
+      "fullName": "everex",
+      "except": []
+    },
+    {
+      "names": [
+        "oraichain token",
+        "orai",
+        "oraichain"
+      ],
+      "fullName": "oraichain token",
+      "except": []
+    },
+    {
+      "names": [
+        "oddz",
+        "oddz"
+      ],
+      "fullName": "oddz",
+      "except": []
+    },
+    {
+      "names": [
+        "flux",
+        "flux"
+      ],
+      "fullName": "flux",
+      "except": []
+    },
+    {
+      "names": [
+        "blocknet",
+        "block"
+      ],
+      "fullName": "blocknet",
+      "except": []
+    },
+    {
+      "names": [
+        "stafi",
+        "fis"
+      ],
+      "fullName": "stafi",
+      "except": []
+    },
+    {
+      "names": [
+        "blink",
+        "blink"
+      ],
+      "fullName": "blink",
+      "except": []
+    },
+    {
+      "names": [
+        "freeway token",
+        "fwt",
+        "freeway"
+      ],
+      "fullName": "freeway token",
+      "except": []
+    },
+    {
+      "names": [
+        "ring x platform",
+        "ringx"
+      ],
+      "fullName": "ring x platform",
+      "except": [
+        "ring"
+      ]
+    },
+    {
+      "names": [
+        "poolz finance",
+        "poolz"
+      ],
+      "fullName": "poolz finance",
+      "except": [
+        "poolz"
+      ]
+    },
+    {
+      "names": [
+        "ost"
+      ],
+      "fullName": "ost",
+      "except": []
+    },
+    {
+      "names": [
+        "ruff",
+        "ruff"
+      ],
+      "fullName": "ruff",
+      "except": []
+    },
+    {
+      "names": [
+        "cardstack",
+        "card"
+      ],
+      "fullName": "cardstack",
+      "except": []
+    },
+    {
+      "names": [
+        "nix"
+      ],
+      "fullName": "nix",
+      "except": []
+    },
+    {
+      "names": [
+        "autonio",
+        "niox"
+      ],
+      "fullName": "autonio",
+      "except": []
+    },
+    {
+      "names": [
+        "rewardiqa",
+        "rew"
+      ],
+      "fullName": "rewardiqa",
+      "except": []
+    },
+    {
+      "names": [
+        "top"
+      ],
+      "fullName": "top",
+      "except": []
+    },
+    {
+      "names": [
+        "presearch",
+        "pre"
+      ],
+      "fullName": "presearch",
+      "except": []
+    },
+    {
+      "names": [
+        "labs group",
+        "labs"
+      ],
+      "fullName": "labs group",
+      "except": [
+        "labs"
+      ]
+    },
+    {
+      "names": [
+        "wom protocol",
+        "wom"
+      ],
+      "fullName": "wom protocol",
+      "except": [
+        "wom"
+      ]
+    },
+    {
+      "names": [
+        "invictus hyperion fund",
+        "ihf",
+        "invictus"
+      ],
+      "fullName": "invictus hyperion fund",
+      "except": []
+    },
+    {
+      "names": [
+        "tixl",
+        "txl"
+      ],
+      "fullName": "tixl",
+      "except": []
+    },
+    {
+      "names": [
+        "telos",
+        "tlos"
+      ],
+      "fullName": "telos",
+      "except": []
+    },
+    {
+      "names": [
+        "fleta"
+      ],
+      "fullName": "fleta",
+      "except": []
+    },
+    {
+      "names": [
+        "dynamic",
+        "dyn"
+      ],
+      "fullName": "dynamic",
+      "except": []
+    },
+    {
+      "names": [
+        "ig gold",
+        "igg",
+        "ig"
+      ],
+      "fullName": "ig gold",
+      "except": []
+    },
+    {
+      "names": [
+        "swftcoin",
+        "swftc"
+      ],
+      "fullName": "swftcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "moeda loyalty points",
+        "mda",
+        "moeda"
+      ],
+      "fullName": "moeda loyalty points",
+      "except": []
+    },
+    {
+      "names": [
+        "time new bank",
+        "tnb",
+        "time"
+      ],
+      "fullName": "time new bank",
+      "except": []
+    },
+    {
+      "names": [
+        "viberate",
+        "vib"
+      ],
+      "fullName": "viberate",
+      "except": []
+    },
+    {
+      "names": [
+        "vanilla network",
+        "vnla",
+        "vanilla"
+      ],
+      "fullName": "vanilla network",
+      "except": []
+    },
+    {
+      "names": [
+        "factom",
+        "fct"
+      ],
+      "fullName": "factom",
+      "except": []
+    },
+    {
+      "names": [
+        "exnetwork token",
+        "exnt",
+        "exnetwork"
+      ],
+      "fullName": "exnetwork token",
+      "except": []
+    },
+    {
+      "names": [
+        "data",
+        "dta"
+      ],
+      "fullName": "data",
+      "except": []
+    },
+    {
+      "names": [
+        "riodefi",
+        "rfuel"
+      ],
+      "fullName": "riodefi",
+      "except": []
+    },
+    {
+      "names": [
+        "polkamarkets",
+        "polk"
+      ],
+      "fullName": "polkamarkets",
+      "except": []
+    },
+    {
+      "names": [
+        "1irstcoin",
+        "fst"
+      ],
+      "fullName": "1irstcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "safe haven",
+        "sha",
+        "safe"
+      ],
+      "fullName": "safe haven",
+      "except": []
+    },
+    {
+      "names": [
+        "tenx",
+        "pay"
+      ],
+      "fullName": "tenx",
+      "except": []
+    },
+    {
+      "names": [
+        "props token",
+        "props"
+      ],
+      "fullName": "props token",
+      "except": [
+        "props"
+      ]
+    },
+    {
+      "names": [
+        "multiplier",
+        "bmxx"
+      ],
+      "fullName": "multiplier",
+      "except": []
+    },
+    {
+      "names": [
+        "newton",
+        "new"
+      ],
+      "fullName": "newton",
+      "except": []
+    },
+    {
+      "names": [
+        "bepro network",
+        "bepro"
+      ],
+      "fullName": "bepro network",
+      "except": [
+        "bepro"
+      ]
+    },
+    {
+      "names": [
+        "decentr",
+        "dec"
+      ],
+      "fullName": "decentr",
+      "except": []
+    },
+    {
+      "names": [
+        "zeon"
+      ],
+      "fullName": "zeon",
+      "except": []
+    },
+    {
+      "names": [
+        "powertrade fuel",
+        "ptf",
+        "powertrade"
+      ],
+      "fullName": "powertrade fuel",
+      "except": []
+    },
+    {
+      "names": [
+        "atomic wallet coin",
+        "awc",
+        "atomic"
+      ],
+      "fullName": "atomic wallet coin",
+      "except": []
+    },
+    {
+      "names": [
+        "unisocks",
+        "socks"
+      ],
+      "fullName": "unisocks",
+      "except": []
+    },
+    {
+      "names": [
+        "effect.ai",
+        "efx"
+      ],
+      "fullName": "effect.ai",
+      "except": []
+    },
+    {
+      "names": [
+        "tranche finance",
+        "slice",
+        "tranche"
+      ],
+      "fullName": "tranche finance",
+      "except": []
+    },
+    {
+      "names": [
+        "gulden",
+        "nlg"
+      ],
+      "fullName": "gulden",
+      "except": []
+    },
+    {
+      "names": [
+        "sonm",
+        "snm"
+      ],
+      "fullName": "sonm",
+      "except": []
+    },
+    {
+      "names": [
+        "poa"
+      ],
+      "fullName": "poa",
+      "except": []
+    },
+    {
+      "names": [
+        "niftyx protocol",
+        "shroom",
+        "niftyx"
+      ],
+      "fullName": "niftyx protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "insureum",
+        "isr"
+      ],
+      "fullName": "insureum",
+      "except": []
+    },
+    {
+      "names": [
+        "cobak token",
+        "cbk",
+        "cobak"
+      ],
+      "fullName": "cobak token",
+      "except": []
+    },
+    {
+      "names": [
+        "modefi",
+        "mod"
+      ],
+      "fullName": "modefi",
+      "except": []
+    },
+    {
+      "names": [
+        "ubiq",
+        "ubq"
+      ],
+      "fullName": "ubiq",
+      "except": []
+    },
+    {
+      "names": [
+        "venus link",
+        "vlink"
+      ],
+      "fullName": "venus link",
+      "except": [
+        "venus"
+      ]
+    },
+    {
+      "names": [
+        "unitrade",
+        "trade"
+      ],
+      "fullName": "unitrade",
+      "except": []
+    },
+    {
+      "names": [
+        "razor network",
+        "razor"
+      ],
+      "fullName": "razor network",
+      "except": [
+        "razor"
+      ]
+    },
+    {
+      "names": [
+        "smartcash",
+        "smart"
+      ],
+      "fullName": "smartcash",
+      "except": []
+    },
+    {
+      "names": [
+        "arcblock",
+        "abt"
+      ],
+      "fullName": "arcblock",
+      "except": []
+    },
+    {
+      "names": [
+        "juventus fan token",
+        "juv",
+        "juventus"
+      ],
+      "fullName": "juventus fan token",
+      "except": []
+    },
+    {
+      "names": [
+        "kattana",
+        "ktn"
+      ],
+      "fullName": "kattana",
+      "except": []
+    },
+    {
+      "names": [
+        "konomi network",
+        "kono",
+        "konomi"
+      ],
+      "fullName": "konomi network",
+      "except": []
+    },
+    {
+      "names": [
+        "goose finance",
+        "egg",
+        "goose"
+      ],
+      "fullName": "goose finance",
+      "except": []
+    },
+    {
+      "names": [
+        "archer dao governance token",
+        "arch",
+        "archer"
+      ],
+      "fullName": "archer dao governance token",
+      "except": []
+    },
+    {
+      "names": [
+        "router protocol",
+        "route",
+        "router"
+      ],
+      "fullName": "router protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "foam"
+      ],
+      "fullName": "foam",
+      "except": []
+    },
+    {
+      "names": [
+        "achain",
+        "act"
+      ],
+      "fullName": "achain",
+      "except": []
+    },
+    {
+      "names": [
+        "agrello",
+        "dlt"
+      ],
+      "fullName": "agrello",
+      "except": []
+    },
+    {
+      "names": [
+        "venus ltc",
+        "vltc"
+      ],
+      "fullName": "venus ltc",
+      "except": [
+        "venus"
+      ]
+    },
+    {
+      "names": [
+        "blockv",
+        "vee"
+      ],
+      "fullName": "blockv",
+      "except": []
+    },
+    {
+      "names": [
+        "sylo",
+        "sylo"
+      ],
+      "fullName": "sylo",
+      "except": []
+    },
+    {
+      "names": [
+        "spacechain",
+        "spc"
+      ],
+      "fullName": "spacechain",
+      "except": []
+    },
+    {
+      "names": [
+        "oceanex token",
+        "oce",
+        "oceanex"
+      ],
+      "fullName": "oceanex token",
+      "except": []
+    },
+    {
+      "names": [
+        "aidos kuneen",
+        "adk",
+        "aidos"
+      ],
+      "fullName": "aidos kuneen",
+      "except": []
+    },
+    {
+      "names": [
+        "strong",
+        "strong"
+      ],
+      "fullName": "strong",
+      "except": []
+    },
+    {
+      "names": [
+        "cybermiles",
+        "cmt"
+      ],
+      "fullName": "cybermiles",
+      "except": []
+    },
+    {
+      "names": [
+        "senso"
+      ],
+      "fullName": "senso",
+      "except": []
+    },
+    {
+      "names": [
+        "gamb",
+        "gmb"
+      ],
+      "fullName": "gamb",
+      "except": []
+    },
+    {
+      "names": [
+        "xensor",
+        "xsr"
+      ],
+      "fullName": "xensor",
+      "except": []
+    },
+    {
+      "names": [
+        "ac milan fan token",
+        "acm",
+        "ac"
+      ],
+      "fullName": "ac milan fan token",
+      "except": []
+    },
+    {
+      "names": [
+        "egretia",
+        "egt"
+      ],
+      "fullName": "egretia",
+      "except": []
+    },
+    {
+      "names": [
+        "degate",
+        "dg"
+      ],
+      "fullName": "degate",
+      "except": []
+    },
+    {
+      "names": [
+        "geodb",
+        "geo"
+      ],
+      "fullName": "geodb",
+      "except": []
+    },
+    {
+      "names": [
+        "elamachain",
+        "elama"
+      ],
+      "fullName": "elamachain",
+      "except": []
+    },
+    {
+      "names": [
+        "chain guardians",
+        "cgg",
+        "chain"
+      ],
+      "fullName": "chain guardians",
+      "except": []
+    },
+    {
+      "names": [
+        "amlt"
+      ],
+      "fullName": "amlt",
+      "except": []
+    },
+    {
+      "names": [
+        "basis cash",
+        "bac",
+        "basis"
+      ],
+      "fullName": "basis cash",
+      "except": []
+    },
+    {
+      "names": [
+        "unilend",
+        "uft"
+      ],
+      "fullName": "unilend",
+      "except": []
+    },
+    {
+      "names": [
+        "opacity",
+        "opct"
+      ],
+      "fullName": "opacity",
+      "except": []
+    },
+    {
+      "names": [
+        "platoncoin",
+        "pltc"
+      ],
+      "fullName": "platoncoin",
+      "except": []
+    },
+    {
+      "names": [
+        "permission coin",
+        "ask",
+        "permission"
+      ],
+      "fullName": "permission coin",
+      "except": []
+    },
+    {
+      "names": [
+        "swerve",
+        "swrv"
+      ],
+      "fullName": "swerve",
+      "except": []
+    },
+    {
+      "names": [
+        "truechain",
+        "true"
+      ],
+      "fullName": "truechain",
+      "except": []
+    },
+    {
+      "names": [
+        "monetha",
+        "mth"
+      ],
+      "fullName": "monetha",
+      "except": []
+    },
+    {
+      "names": [
+        "hiveterminal token",
+        "hvn",
+        "hiveterminal"
+      ],
+      "fullName": "hiveterminal token",
+      "except": []
+    },
+    {
+      "names": [
+        "biopassport token",
+        "biot",
+        "biopassport"
+      ],
+      "fullName": "biopassport token",
+      "except": []
+    },
+    {
+      "names": [
+        "alchemy pay",
+        "ach",
+        "alchemy"
+      ],
+      "fullName": "alchemy pay",
+      "except": []
+    },
+    {
+      "names": [
+        "moonswap",
+        "moon"
+      ],
+      "fullName": "moonswap",
+      "except": []
+    },
+    {
+      "names": [
+        "yfdai.finance",
+        "yf-dai"
+      ],
+      "fullName": "yfdai.finance",
+      "except": []
+    },
+    {
+      "names": [
+        "htmlcoin",
+        "html"
+      ],
+      "fullName": "htmlcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "pickle finance",
+        "pickle"
+      ],
+      "fullName": "pickle finance",
+      "except": [
+        "pickle"
+      ]
+    },
+    {
+      "names": [
+        "saito",
+        "saito"
+      ],
+      "fullName": "saito",
+      "except": []
+    },
+    {
+      "names": [
+        "stem cell coin",
+        "scc",
+        "stem"
+      ],
+      "fullName": "stem cell coin",
+      "except": []
+    },
+    {
+      "names": [
+        "emirex token",
+        "emrx",
+        "emirex"
+      ],
+      "fullName": "emirex token",
+      "except": []
+    },
+    {
+      "names": [
+        "platincoin",
+        "plc"
+      ],
+      "fullName": "platincoin",
+      "except": []
+    },
+    {
+      "names": [
+        "conun",
+        "con"
+      ],
+      "fullName": "conun",
+      "except": []
+    },
+    {
+      "names": [
+        "quickx protocol",
+        "qcx",
+        "quickx"
+      ],
+      "fullName": "quickx protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "qlc chain",
+        "qlc"
+      ],
+      "fullName": "qlc chain",
+      "except": [
+        "qlc"
+      ]
+    },
+    {
+      "names": [
+        "ardcoin",
+        "ardx"
+      ],
+      "fullName": "ardcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "k21"
+      ],
+      "fullName": "k21",
+      "except": []
+    },
+    {
+      "names": [
+        "nervenetwork",
+        "nvt"
+      ],
+      "fullName": "nervenetwork",
+      "except": []
+    },
+    {
+      "names": [
+        "swarm",
+        "swm"
+      ],
+      "fullName": "swarm",
+      "except": []
+    },
+    {
+      "names": [
+        "scala",
+        "xla"
+      ],
+      "fullName": "scala",
+      "except": []
+    },
+    {
+      "names": [
+        "santiment network token",
+        "san",
+        "santiment"
+      ],
+      "fullName": "santiment network token",
+      "except": []
+    },
+    {
+      "names": [
+        "xend finance",
+        "xend"
+      ],
+      "fullName": "xend finance",
+      "except": [
+        "xend"
+      ]
+    },
+    {
+      "names": [
+        "\u03c4bitcoin",
+        "\u03c4btc"
+      ],
+      "fullName": "\u03c4bitcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "idle",
+        "idle"
+      ],
+      "fullName": "idle",
+      "except": []
+    },
+    {
+      "names": [
+        "optionroom",
+        "room"
+      ],
+      "fullName": "optionroom",
+      "except": []
+    },
+    {
+      "names": [
+        "apyswap",
+        "apys"
+      ],
+      "fullName": "apyswap",
+      "except": []
+    },
+    {
+      "names": [
+        "metrix coin",
+        "mrx",
+        "metrix"
+      ],
+      "fullName": "metrix coin",
+      "except": []
+    },
+    {
+      "names": [
+        "aragon court",
+        "anj"
+      ],
+      "fullName": "aragon court",
+      "except": [
+        "aragon"
+      ]
+    },
+    {
+      "names": [
+        "genesis shards",
+        "gs",
+        "genesis"
+      ],
+      "fullName": "genesis shards",
+      "except": []
+    },
+    {
+      "names": [
+        "singulardtv",
+        "sngls"
+      ],
+      "fullName": "singulardtv",
+      "except": []
+    },
+    {
+      "names": [
+        "yusra"
+      ],
+      "fullName": "yusra",
+      "except": []
+    },
+    {
+      "names": [
+        "tachyon protocol",
+        "ipx",
+        "tachyon"
+      ],
+      "fullName": "tachyon protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "medishares",
+        "mds"
+      ],
+      "fullName": "medishares",
+      "except": []
+    },
+    {
+      "names": [
+        "yoyow"
+      ],
+      "fullName": "yoyow",
+      "except": []
+    },
+    {
+      "names": [
+        "leverj gluon",
+        "l2",
+        "leverj"
+      ],
+      "fullName": "leverj gluon",
+      "except": []
+    },
+    {
+      "names": [
+        "unicly cryptopunks collection",
+        "upunk",
+        "unicly"
+      ],
+      "fullName": "unicly cryptopunks collection",
+      "except": []
+    },
+    {
+      "names": [
+        "odyssey",
+        "ocn"
+      ],
+      "fullName": "odyssey",
+      "except": []
+    },
+    {
+      "names": [
+        "trias (old)",
+        "try",
+        "trias"
+      ],
+      "fullName": "trias (old)",
+      "except": []
+    },
+    {
+      "names": [
+        "eos force",
+        "eosc"
+      ],
+      "fullName": "eos force",
+      "except": [
+        "eos"
+      ]
+    },
+    {
+      "names": [
+        "antimatter",
+        "matter"
+      ],
+      "fullName": "antimatter",
+      "except": []
+    },
+    {
+      "names": [
+        "hybrix",
+        "hy"
+      ],
+      "fullName": "hybrix",
+      "except": []
+    },
+    {
+      "names": [
+        "tera"
+      ],
+      "fullName": "tera",
+      "except": []
+    },
+    {
+      "names": [
+        "yield optimization platform & protocol",
+        "yop",
+        "yield"
+      ],
+      "fullName": "yield optimization platform & protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "monolith",
+        "tkn"
+      ],
+      "fullName": "monolith",
+      "except": []
+    },
+    {
+      "names": [
+        "somesing",
+        "ssx"
+      ],
+      "fullName": "somesing",
+      "except": []
+    },
+    {
+      "names": [
+        "unicrypt",
+        "uncx"
+      ],
+      "fullName": "unicrypt",
+      "except": []
+    },
+    {
+      "names": [
+        "credits",
+        "cs"
+      ],
+      "fullName": "credits",
+      "except": []
+    },
+    {
+      "names": [
+        "polyswarm",
+        "nct"
+      ],
+      "fullName": "polyswarm",
+      "except": []
+    },
+    {
+      "names": [
+        "thekey",
+        "tky"
+      ],
+      "fullName": "thekey",
+      "except": []
+    },
+    {
+      "names": [
+        "pumapay",
+        "pma"
+      ],
+      "fullName": "pumapay",
+      "except": []
+    },
+    {
+      "names": [
+        "centaur",
+        "cntr"
+      ],
+      "fullName": "centaur",
+      "except": []
+    },
+    {
+      "names": [
+        "iqeon",
+        "iqn"
+      ],
+      "fullName": "iqeon",
+      "except": []
+    },
+    {
+      "names": [
+        "fnb protocol",
+        "fnb"
+      ],
+      "fullName": "fnb protocol",
+      "except": [
+        "fnb"
+      ]
+    },
+    {
+      "names": [
+        "raze network",
+        "raze"
+      ],
+      "fullName": "raze network",
+      "except": [
+        "raze"
+      ]
+    },
+    {
+      "names": [
+        "bitcoinpos",
+        "bps"
+      ],
+      "fullName": "bitcoinpos",
+      "except": []
+    },
+    {
+      "names": [
+        "synchrobitcoin",
+        "snb"
+      ],
+      "fullName": "synchrobitcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "hakka.finance",
+        "hakka"
+      ],
+      "fullName": "hakka.finance",
+      "except": []
+    },
+    {
+      "names": [
+        "gaps",
+        "gap"
+      ],
+      "fullName": "gaps",
+      "except": []
+    },
+    {
+      "names": [
+        "waves enterprise",
+        "west"
+      ],
+      "fullName": "waves enterprise",
+      "except": [
+        "waves"
+      ]
+    },
+    {
+      "names": [
+        "kicktoken",
+        "kick"
+      ],
+      "fullName": "kicktoken",
+      "except": []
+    },
+    {
+      "names": [
+        "yieldwatch",
+        "watch"
+      ],
+      "fullName": "yieldwatch",
+      "except": []
+    },
+    {
+      "names": [
+        "carvertical",
+        "cv"
+      ],
+      "fullName": "carvertical",
+      "except": []
+    },
+    {
+      "names": [
+        "myriad",
+        "xmy"
+      ],
+      "fullName": "myriad",
+      "except": []
+    },
+    {
+      "names": [
+        "s4fe",
+        "s4f"
+      ],
+      "fullName": "s4fe",
+      "except": []
+    },
+    {
+      "names": [
+        "whiteheart",
+        "white"
+      ],
+      "fullName": "whiteheart",
+      "except": []
+    },
+    {
+      "names": [
+        "usdj"
+      ],
+      "fullName": "usdj",
+      "except": []
+    },
+    {
+      "names": [
+        "kambria",
+        "kat"
+      ],
+      "fullName": "kambria",
+      "except": []
+    },
+    {
+      "names": [
+        "biki"
+      ],
+      "fullName": "biki",
+      "except": []
+    },
+    {
+      "names": [
+        "unimex network",
+        "umx",
+        "unimex"
+      ],
+      "fullName": "unimex network",
+      "except": []
+    },
+    {
+      "names": [
+        "tidal finance",
+        "tidal"
+      ],
+      "fullName": "tidal finance",
+      "except": [
+        "tidal"
+      ]
+    },
+    {
+      "names": [
+        "likecoin",
+        "like"
+      ],
+      "fullName": "likecoin",
+      "except": []
+    },
+    {
+      "names": [
+        "non-fungible yearn",
+        "nfy",
+        "non-fungible"
+      ],
+      "fullName": "non-fungible yearn",
+      "except": []
+    },
+    {
+      "names": [
+        "pillar",
+        "plr"
+      ],
+      "fullName": "pillar",
+      "except": []
+    },
+    {
+      "names": [
+        "tnc coin",
+        "tnc"
+      ],
+      "fullName": "tnc coin",
+      "except": [
+        "tnc"
+      ]
+    },
+    {
+      "names": [
+        "mobius",
+        "mobi"
+      ],
+      "fullName": "mobius",
+      "except": []
+    },
+    {
+      "names": [
+        "lamden",
+        "tau"
+      ],
+      "fullName": "lamden",
+      "except": []
+    },
+    {
+      "names": [
+        "bitcoinz",
+        "btcz"
+      ],
+      "fullName": "bitcoinz",
+      "except": []
+    },
+    {
+      "names": [
+        "meet.one",
+        "meetone"
+      ],
+      "fullName": "meet.one",
+      "except": []
+    },
+    {
+      "names": [
+        "x-cash",
+        "xcash"
+      ],
+      "fullName": "x-cash",
+      "except": []
+    },
+    {
+      "names": [
+        "finnexus",
+        "fnx"
+      ],
+      "fullName": "finnexus",
+      "except": []
+    },
+    {
+      "names": [
+        "hydro protocol",
+        "hot",
+        "hydro"
+      ],
+      "fullName": "hydro protocol",
+      "except": []
+    },
+    {
+      "names": [
+        "euno"
+      ],
+      "fullName": "euno",
+      "except": []
+    },
+    {
+      "names": [
+        "ethereum push notification service",
+        "push"
+      ],
+      "fullName": "ethereum push notification service",
+      "except": [
+        "ethereum"
+      ]
+    },
+    {
+      "names": [
+        "peculium",
+        "pcl"
+      ],
+      "fullName": "peculium",
+      "except": []
+    },
+    {
+      "names": [
+        "precium",
+        "pcm"
+      ],
+      "fullName": "precium",
+      "except": []
+    },
+    {
+      "names": [
+        "decentralized vulnerability platform",
+        "dvp",
+        "decentralized"
+      ],
+      "fullName": "decentralized vulnerability platform",
+      "except": []
+    },
+    {
+      "names": [
+        "bird.money",
+        "bird"
+      ],
+      "fullName": "bird.money",
+      "except": []
+    },
+    {
+      "names": [
+        "dafi protocol",
+        "dafi"
+      ],
+      "fullName": "dafi protocol",
+      "except": [
+        "dafi"
+      ]
+    },
+    {
+      "names": [
+        "bibox token",
+        "bix",
+        "bibox"
+      ],
+      "fullName": "bibox token",
+      "except": []
+    },
+    {
+      "names": [
+        "folgory coin",
+        "flg",
+        "folgory"
+      ],
+      "fullName": "folgory coin",
+      "except": []
+    },
+    {
+      "names": [
+        "polkafoundry",
+        "pkf"
+      ],
+      "fullName": "polkafoundry",
+      "except": []
+    },
+    {
+      "names": [
+        "unistake",
+        "unistake"
+      ],
+      "fullName": "unistake",
+      "except": []
+    },
+    {
+      "names": [
+        "smart mfg",
+        "mfg"
+      ],
+      "fullName": "smart mfg",
+      "except": [
+        "smart"
+      ]
+    },
+    {
+      "names": [
+        "public mint",
+        "mint",
+        "public"
+      ],
+      "fullName": "public mint",
+      "except": []
+    },
+    {
+      "names": [
+        "umbrella network",
+        "umb",
+        "umbrella"
+      ],
+      "fullName": "umbrella network",
+      "except": []
+    },
+    {
+      "names": [
+        "iot chain",
+        "itc",
+        "iot"
+      ],
+      "fullName": "iot chain",
+      "except": []
+    },
+    {
+      "names": [
+        "dragonvein",
+        "dvc"
+      ],
+      "fullName": "dragonvein",
+      "except": []
+    },
+    {
+      "names": [
+        "beowulf",
+        "bwf"
+      ],
+      "fullName": "beowulf",
+      "except": []
+    },
+    {
+      "names": [
+        "method finance",
+        "mthd",
+        "method"
+      ],
+      "fullName": "method finance",
+      "except": []
+    },
+    {
+      "names": [
+        "genaro network",
+        "gnx",
+        "genaro"
+      ],
+      "fullName": "genaro network",
+      "except": []
+    },
+    {
+      "names": [
+        "bhpcoin",
+        "bhp"
+      ],
+      "fullName": "bhpcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "amepay",
+        "ame"
+      ],
+      "fullName": "amepay",
+      "except": []
+    },
+    {
+      "names": [
+        "doge token",
+        "doget"
+      ],
+      "fullName": "doge token",
+      "except": [
+        "doge"
+      ]
+    },
+    {
+      "names": [
+        "shadows",
+        "dows"
+      ],
+      "fullName": "shadows",
+      "except": []
+    },
+    {
+      "names": [
+        "matryx",
+        "mtx"
+      ],
+      "fullName": "matryx",
+      "except": []
+    },
+    {
+      "names": [
+        "validity",
+        "val"
+      ],
+      "fullName": "validity",
+      "except": []
+    },
+    {
+      "names": [
+        "pundi x nem",
+        "npxsxem",
+        "pundi"
+      ],
+      "fullName": "pundi x nem",
+      "except": []
+    },
+    {
+      "names": [
+        "muse",
+        "muse"
+      ],
+      "fullName": "muse",
+      "except": []
+    },
+    {
+      "names": [
+        "gem exchange and trading",
+        "gxt",
+        "gem"
+      ],
+      "fullName": "gem exchange and trading",
+      "except": []
+    },
+    {
+      "names": [
+        "bsc station",
+        "bscs",
+        "bsc"
+      ],
+      "fullName": "bsc station",
+      "except": []
+    },
+    {
+      "names": [
+        "lido dao token",
+        "ldo",
+        "lido"
+      ],
+      "fullName": "lido dao token",
+      "except": []
+    },
+    {
+      "names": [
+        "project with",
+        "wiken",
+        "project"
+      ],
+      "fullName": "project with",
+      "except": []
+    },
+    {
+      "names": [
+        "safex token",
+        "sft",
+        "safex"
+      ],
+      "fullName": "safex token",
+      "except": []
+    },
+    {
+      "names": [
+        "depay",
+        "depay"
+      ],
+      "fullName": "depay",
+      "except": []
+    },
+    {
+      "names": [
+        "hedget",
+        "hget"
+      ],
+      "fullName": "hedget",
+      "except": []
+    },
+    {
+      "names": [
+        "unido ep",
+        "udo",
+        "unido"
+      ],
+      "fullName": "unido ep",
+      "except": []
+    },
+    {
+      "names": [
+        "apm coin",
+        "apm"
+      ],
+      "fullName": "apm coin",
+      "except": [
+        "apm"
+      ]
+    },
+    {
+      "names": [
+        "valor token",
+        "valor"
+      ],
+      "fullName": "valor token",
+      "except": [
+        "valor"
+      ]
+    },
+    {
+      "names": [
+        "abyss",
+        "abyss"
+      ],
+      "fullName": "abyss",
+      "except": []
+    },
+    {
+      "names": [
+        "filecash",
+        "fic"
+      ],
+      "fullName": "filecash",
+      "except": []
+    },
+    {
+      "names": [
+        "unlimitedip",
+        "uip"
+      ],
+      "fullName": "unlimitedip",
+      "except": []
+    },
+    {
+      "names": [
+        "dev protocol",
+        "dev"
+      ],
+      "fullName": "dev protocol",
+      "except": [
+        "dev"
+      ]
+    },
+    {
+      "names": [
+        "nft"
+      ],
+      "fullName": "nft",
+      "except": []
+    },
+    {
+      "names": [
+        "gocrypto token",
+        "goc",
+        "gocrypto"
+      ],
+      "fullName": "gocrypto token",
+      "except": []
+    },
+    {
+      "names": [
+        "howdoo",
+        "udoo"
+      ],
+      "fullName": "howdoo",
+      "except": []
+    },
+    {
+      "names": [
+        "fuse network",
+        "fuse"
+      ],
+      "fullName": "fuse network",
+      "except": [
+        "fuse"
+      ]
+    },
+    {
+      "names": [
+        "trustverse",
+        "trv"
+      ],
+      "fullName": "trustverse",
+      "except": []
+    },
+    {
+      "names": [
+        "mobox",
+        "mbox"
+      ],
+      "fullName": "mobox",
+      "except": []
+    },
+    {
+      "names": [
+        "digitex",
+        "dgtx"
+      ],
+      "fullName": "digitex",
+      "except": []
+    },
+    {
+      "names": [
+        "blockzero labs",
+        "xio",
+        "blockzero"
+      ],
+      "fullName": "blockzero labs",
+      "except": []
+    },
+    {
+      "names": [
+        "feathercoin",
+        "ftc"
+      ],
+      "fullName": "feathercoin",
+      "except": []
+    },
+    {
+      "names": [
+        "eminer",
+        "em"
+      ],
+      "fullName": "eminer",
+      "except": []
+    },
+    {
+      "names": [
+        "sirin labs token",
+        "srn",
+        "sirin"
+      ],
+      "fullName": "sirin labs token",
+      "except": []
+    },
+    {
+      "names": [
+        "dos network",
+        "dos"
+      ],
+      "fullName": "dos network",
+      "except": [
+        "dos"
+      ]
+    },
+    {
+      "names": [
+        "realio network",
+        "rio",
+        "realio"
+      ],
+      "fullName": "realio network",
+      "except": []
+    },
+    {
+      "names": [
+        "fractal",
+        "fcl"
+      ],
+      "fullName": "fractal",
+      "except": []
+    },
+    {
+      "names": [
+        "cloudbric",
+        "clbk"
+      ],
+      "fullName": "cloudbric",
+      "except": []
+    },
+    {
+      "names": [
+        "yf link",
+        "yfl",
+        "yf"
+      ],
+      "fullName": "yf link",
+      "except": []
+    },
+    {
+      "names": [
+        "airbloc",
+        "abl"
+      ],
+      "fullName": "airbloc",
+      "except": []
+    },
+    {
+      "names": [
+        "ambrosus",
+        "amb"
+      ],
+      "fullName": "ambrosus",
+      "except": []
+    },
+    {
+      "names": [
+        "restart energy mwat",
+        "mwat",
+        "restart"
+      ],
+      "fullName": "restart energy mwat",
+      "except": []
+    },
+    {
+      "names": [
+        "covesting",
+        "cov"
+      ],
+      "fullName": "covesting",
+      "except": []
+    },
+    {
+      "names": [
+        "flo"
+      ],
+      "fullName": "flo",
+      "except": []
+    },
+    {
+      "names": [
+        "bitcoin 2",
+        "btc2"
+      ],
+      "fullName": "bitcoin 2",
+      "except": [
+        "bitcoin"
+      ]
+    },
+    {
+      "names": [
+        "vnt chain",
+        "vnt"
+      ],
+      "fullName": "vnt chain",
+      "except": [
+        "vnt"
+      ]
+    },
+    {
+      "names": [
+        "keeperdao",
+        "rook"
+      ],
+      "fullName": "keeperdao",
+      "except": []
+    },
+    {
+      "names": [
+        "oin finance",
+        "oin"
+      ],
+      "fullName": "oin finance",
+      "except": [
+        "oin"
+      ]
+    },
+    {
+      "names": [
+        "tokenomy",
+        "ten"
+      ],
+      "fullName": "tokenomy",
+      "except": []
+    },
+    {
+      "names": [
+        "meter governance",
+        "mtrg",
+        "meter"
+      ],
+      "fullName": "meter governance",
+      "except": []
+    },
+    {
+      "names": [
+        "berry data",
+        "bry",
+        "berry"
+      ],
+      "fullName": "berry data",
+      "except": []
+    },
+    {
+      "names": [
+        "circuits of value",
+        "coval",
+        "circuits"
+      ],
+      "fullName": "circuits of value",
+      "except": []
+    },
+    {
+      "names": [
+        "kryll",
+        "krl"
+      ],
+      "fullName": "kryll",
+      "except": []
+    },
+    {
+      "names": [
+        "doki doki finance",
+        "doki"
+      ],
+      "fullName": "doki doki finance",
+      "except": [
+        "doki"
+      ]
+    },
+    {
+      "names": [
+        "daostack",
+        "gen"
+      ],
+      "fullName": "daostack",
+      "except": []
+    },
+    {
+      "names": [
+        "nestree",
+        "egg"
+      ],
+      "fullName": "nestree",
+      "except": []
+    },
+    {
+      "names": [
+        "urus",
+        "urus"
+      ],
+      "fullName": "urus",
+      "except": []
+    },
+    {
+      "names": [
+        "proximax",
+        "xpx"
+      ],
+      "fullName": "proximax",
+      "except": []
+    },
+    {
+      "names": [
+        "cvcoin",
+        "cvn"
+      ],
+      "fullName": "cvcoin",
+      "except": []
+    },
+    {
+      "names": [
+        "geeq",
+        "geeq"
+      ],
+      "fullName": "geeq",
+      "except": []
+    },
+    {
+      "names": [
+        "bolt"
+      ],
+      "fullName": "bolt",
+      "except": []
+    },
+    {
+      "names": [
+        "og fan token",
+        "og"
+      ],
+      "fullName": "og fan token",
+      "except": [
+        "og"
+      ]
+    },
+    {
+      "names": [
+        "emercoin",
+        "emc"
+      ],
+      "fullName": "emercoin",
+      "except": []
+    },
+    {
+      "names": [
+        "monero classic",
+        "xmc"
+      ],
+      "fullName": "monero classic",
+      "except": [
+        "monero"
+      ]
+    },
+    {
+      "names": [
+        "anrkey x",
+        "$anrx",
+        "anrkey"
+      ],
+      "fullName": "anrkey x",
+      "except": []
+    }
+  ]
+}
