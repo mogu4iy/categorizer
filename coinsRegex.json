@@ -1,0 +1,404 @@
+{
+  "Cryptocurrencies": [
+    {
+      "regex": "(((\\b(bitcoin)(\\w(\\w)+)+)|((\\w(\\w)+)+(bitcoin)\\b))|(\\b(bitcoin)\\b)|((\\b(btc)(\\w(\\w)+)+)|((\\w(\\w)+)+(btc)\\b))|(\\b(btc)\\b))",
+      "fullName": "bitcoin"
+    },
+    {
+      "regex": "(((\\b(ethereum)(\\w(\\w)+)+)|((\\w(\\w)+)+(ethereum)\\b))|(\\b(ethereum)\\b)|((\\b(eth)(\\w(\\w)+)+)|((\\w(\\w)+)+(eth)\\b))|(\\b(eth)\\b))",
+      "fullName": "ethereum"
+    },
+    {
+      "regex": "(((\\b(bnb)(\\w(\\w)+)+)|((\\w(\\w)+)+(bnb)\\b))|(\\b(bnb)\\b)|((\\b(binance coin)(\\w(\\w)+)+)|((\\w(\\w)+)+(binance coin)\\b))|(\\b(binance coin)\\b)|((\\b(binance)(\\w(\\w)+)+)|((\\w(\\w)+)+(binance)\\b))|(\\b(binance)\\b))",
+      "fullName": "binance coin"
+    },
+    {
+      "regex": "(((\\b(xrp)(\\w(\\w)+)+)|((\\w(\\w)+)+(xrp)\\b))|(\\b(xrp)\\b))",
+      "fullName": "xrp"
+    },
+    {
+      "regex": "(((\\b(tether)(\\w(\\w)+)+)|((\\w(\\w)+)+(tether)\\b))|(\\b(tether)\\b)|((\\b(usdt)(\\w(\\w)+)+)|((\\w(\\w)+)+(usdt)\\b))|(\\b(usdt)\\b))",
+      "fullName": "tether"
+    },
+    {
+      "regex": "(((\\b(doge)(\\w(\\w)+)+)|((\\w(\\w)+)+(doge)\\b))|(\\b(doge)\\b)|((\\b(dogecoin)(\\w(\\w)+)+)|((\\w(\\w)+)+(dogecoin)\\b))|(\\b(dogecoin)\\b))",
+      "fullName": "dogecoin"
+    },
+    {
+      "regex": "(((\\b(cardano)(\\w(\\w)+)+)|((\\w(\\w)+)+(cardano)\\b))|(\\b(cardano)\\b)|((\\b(ada)(\\w(\\w)+)+)|((\\w(\\w)+)+(ada)\\b))|(\\b(ada)\\b))",
+      "fullName": "cardano"
+    },
+    {
+      "regex": "(((\\b(polkadot)(\\w(\\w)+)+)|((\\w(\\w)+)+(polkadot)\\b))|(\\b(polkadot)\\b)|((\\b(dot)(\\w(\\w)+)+)|((\\w(\\w)+)+(dot)\\b))|(\\b(dot)\\b))",
+      "fullName": "polkadot"
+    },
+    {
+      "regex": "(((\\b(uniswap)(\\w(\\w)+)+)|((\\w(\\w)+)+(uniswap)\\b))|(\\b(uniswap)\\b)|((\\b(uni)(\\w(\\w)+)+)|((\\w(\\w)+)+(uni)\\b))|(\\b(uni)\\b))",
+      "fullName": "uniswap"
+    },
+    {
+      "regex": "(((\\b(bitcoin cash)(\\w(\\w)+)+)|((\\w(\\w)+)+(bitcoin cash)\\b))|(\\b(bitcoin cash)\\b)|((\\b(bch)(\\w(\\w)+)+)|((\\w(\\w)+)+(bch)\\b))|(\\b(bch)\\b))",
+      "fullName": "bitcoin cash"
+    },
+    {
+      "regex": "(((\\b(ltc)(\\w(\\w)+)+)|((\\w(\\w)+)+(ltc)\\b))|(\\b(ltc)\\b)|((\\b(litecoin)(\\w(\\w)+)+)|((\\w(\\w)+)+(litecoin)\\b))|(\\b(litecoin)\\b))",
+      "fullName": "litecoin"
+    },
+    {
+      "regex": "(((\\b(chainlink)(\\w(\\w)+)+)|((\\w(\\w)+)+(chainlink)\\b))|(\\b(chainlink)\\b)|((\\b(link)(\\w(\\w)+)+)|((\\w(\\w)+)+(link)\\b))|(\\b(link)\\b))",
+      "fullName": "chainlink"
+    },
+    {
+      "regex": "(((\\b(usd coin)(\\w(\\w)+)+)|((\\w(\\w)+)+(usd coin)\\b))|(\\b(usd coin)\\b)|((\\b(usd)(\\w(\\w)+)+)|((\\w(\\w)+)+(usd)\\b))|(\\b(usd)\\b)|((\\b(usdc)(\\w(\\w)+)+)|((\\w(\\w)+)+(usdc)\\b))|(\\b(usdc)\\b))",
+      "fullName": "usd coin"
+    },
+    {
+      "regex": "(((\\b(vet)(\\w(\\w)+)+)|((\\w(\\w)+)+(vet)\\b))|(\\b(vet)\\b)|((\\b(vechain)(\\w(\\w)+)+)|((\\w(\\w)+)+(vechain)\\b))|(\\b(vechain)\\b))",
+      "fullName": "vechain"
+    },
+    {
+      "regex": "(((\\b(stellar)(\\w(\\w)+)+)|((\\w(\\w)+)+(stellar)\\b))|(\\b(stellar)\\b)|((\\b(xlm)(\\w(\\w)+)+)|((\\w(\\w)+)+(xlm)\\b))|(\\b(xlm)\\b))",
+      "fullName": "stellar"
+    },
+    {
+      "regex": "(((\\b(sol)(\\w(\\w)+)+)|((\\w(\\w)+)+(sol)\\b))|(\\b(sol)\\b)|((\\b(solana)(\\w(\\w)+)+)|((\\w(\\w)+)+(solana)\\b))|(\\b(solana)\\b))",
+      "fullName": "solana"
+    },
+    {
+      "regex": "(((\\b(theta)(\\w(\\w)+)+)|((\\w(\\w)+)+(theta)\\b))|(\\b(theta)\\b))",
+      "fullName": "theta"
+    },
+    {
+      "regex": "(((\\b(fil)(\\w(\\w)+)+)|((\\w(\\w)+)+(fil)\\b))|(\\b(fil)\\b)|((\\b(filecoin)(\\w(\\w)+)+)|((\\w(\\w)+)+(filecoin)\\b))|(\\b(filecoin)\\b))",
+      "fullName": "filecoin"
+    },
+    {
+      "regex": "(((\\b(wrapped bitcoin)(\\w(\\w)+)+)|((\\w(\\w)+)+(wrapped bitcoin)\\b))|(\\b(wrapped bitcoin)\\b)|((\\b(wrapped)(\\w(\\w)+)+)|((\\w(\\w)+)+(wrapped)\\b))|(\\b(wrapped)\\b)|((\\b(wbtc)(\\w(\\w)+)+)|((\\w(\\w)+)+(wbtc)\\b))|(\\b(wbtc)\\b))",
+      "fullName": "wrapped bitcoin"
+    },
+    {
+      "regex": "(((\\b(tron)(\\w(\\w)+)+)|((\\w(\\w)+)+(tron)\\b))|(\\b(tron)\\b)|((\\b(trx)(\\w(\\w)+)+)|((\\w(\\w)+)+(trx)\\b))|(\\b(trx)\\b))",
+      "fullName": "tron"
+    },
+    {
+      "regex": "(((\\b(monero)(\\w(\\w)+)+)|((\\w(\\w)+)+(monero)\\b))|(\\b(monero)\\b)|((\\b(xmr)(\\w(\\w)+)+)|((\\w(\\w)+)+(xmr)\\b))|(\\b(xmr)\\b))",
+      "fullName": "monero"
+    },
+    {
+      "regex": "(((\\b(busd)(\\w(\\w)+)+)|((\\w(\\w)+)+(busd)\\b))|(\\b(busd)\\b)|((\\b(binance usd)(\\w(\\w)+)+)|((\\w(\\w)+)+(binance usd)\\b))|(\\b(binance usd)\\b)|((\\b(binance)(\\w(\\w)+)+)|((\\w(\\w)+)+(binance)\\b))|(\\b(binance)\\b))",
+      "fullName": "binance usd"
+    },
+    {
+      "regex": "(((\\b(neo)(\\w(\\w)+)+)|((\\w(\\w)+)+(neo)\\b))|(\\b(neo)\\b))",
+      "fullName": "neo"
+    },
+    {
+      "regex": "(((\\b(cake)(\\w(\\w)+)+)|((\\w(\\w)+)+(cake)\\b))|(\\b(cake)\\b)|((\\b(pancakeswap)(\\w(\\w)+)+)|((\\w(\\w)+)+(pancakeswap)\\b))|(\\b(pancakeswap)\\b))",
+      "fullName": "pancakeswap"
+    },
+    {
+      "regex": "(((\\b(terra)(\\w(\\w)+)+)|((\\w(\\w)+)+(terra)\\b))|(\\b(terra)\\b)|((\\b(luna)(\\w(\\w)+)+)|((\\w(\\w)+)+(luna)\\b))|(\\b(luna)\\b))",
+      "fullName": "terra"
+    },
+    {
+      "regex": "(((\\b(eos)(\\w(\\w)+)+)|((\\w(\\w)+)+(eos)\\b))|(\\b(eos)\\b))",
+      "fullName": "eos"
+    },
+    {
+      "regex": "(((\\b(bitcoin sv)(\\w(\\w)+)+)|((\\w(\\w)+)+(bitcoin sv)\\b))|(\\b(bitcoin sv)\\b)|((\\b(bsv)(\\w(\\w)+)+)|((\\w(\\w)+)+(bsv)\\b))|(\\b(bsv)\\b))",
+      "fullName": "bitcoin sv"
+    },
+    {
+      "regex": "(((\\b(miota)(\\w(\\w)+)+)|((\\w(\\w)+)+(miota)\\b))|(\\b(miota)\\b)|((\\b(iota)(\\w(\\w)+)+)|((\\w(\\w)+)+(iota)\\b))|(\\b(iota)\\b))",
+      "fullName": "iota"
+    },
+    {
+      "regex": "(((\\b(aave)(\\w(\\w)+)+)|((\\w(\\w)+)+(aave)\\b))|(\\b(aave)\\b))",
+      "fullName": "aave"
+    },
+    {
+      "regex": "(((\\b(klaytn)(\\w(\\w)+)+)|((\\w(\\w)+)+(klaytn)\\b))|(\\b(klaytn)\\b)|((\\b(klay)(\\w(\\w)+)+)|((\\w(\\w)+)+(klay)\\b))|(\\b(klay)\\b))",
+      "fullName": "klaytn"
+    },
+    {
+      "regex": "(((\\b(ftx)(\\w(\\w)+)+)|((\\w(\\w)+)+(ftx)\\b))|(\\b(ftx)\\b)|((\\b(ftt)(\\w(\\w)+)+)|((\\w(\\w)+)+(ftt)\\b))|(\\b(ftt)\\b)|((\\b(ftx token)(\\w(\\w)+)+)|((\\w(\\w)+)+(ftx token)\\b))|(\\b(ftx token)\\b))",
+      "fullName": "ftx token"
+    },
+    {
+      "regex": "(((\\b(cro)(\\w(\\w)+)+)|((\\w(\\w)+)+(cro)\\b))|(\\b(cro)\\b)|((\\b(crypto.com coin)(\\w(\\w)+)+)|((\\w(\\w)+)+(crypto.com coin)\\b))|(\\b(crypto.com coin)\\b)|((\\b(crypto.com)(\\w(\\w)+)+)|((\\w(\\w)+)+(crypto.com)\\b))|(\\b(crypto.com)\\b))",
+      "fullName": "crypto.com coin"
+    },
+    {
+      "regex": "(((\\b(atom)(\\w(\\w)+)+)|((\\w(\\w)+)+(atom)\\b))|(\\b(atom)\\b)|((\\b(cosmos)(\\w(\\w)+)+)|((\\w(\\w)+)+(cosmos)\\b))|(\\b(cosmos)\\b))",
+      "fullName": "cosmos"
+    },
+    {
+      "regex": "(((\\b(btt)(\\w(\\w)+)+)|((\\w(\\w)+)+(btt)\\b))|(\\b(btt)\\b)|((\\b(bittorrent)(\\w(\\w)+)+)|((\\w(\\w)+)+(bittorrent)\\b))|(\\b(bittorrent)\\b))",
+      "fullName": "bittorrent"
+    },
+    {
+      "regex": "(((\\b(ht)(\\w(\\w)+)+)|((\\w(\\w)+)+(ht)\\b))|(\\b(ht)\\b)|((\\b(huobi)(\\w(\\w)+)+)|((\\w(\\w)+)+(huobi)\\b))|(\\b(huobi)\\b)|((\\b(huobi token)(\\w(\\w)+)+)|((\\w(\\w)+)+(huobi token)\\b))|(\\b(huobi token)\\b))",
+      "fullName": "huobi token"
+    },
+    {
+      "regex": "(((\\b(ethereum classic)(\\w(\\w)+)+)|((\\w(\\w)+)+(ethereum classic)\\b))|(\\b(ethereum classic)\\b)|((\\b(etc)(\\w(\\w)+)+)|((\\w(\\w)+)+(etc)\\b))|(\\b(etc)\\b))",
+      "fullName": "ethereum classic"
+    },
+    {
+      "regex": "(((\\b(maker)(\\w(\\w)+)+)|((\\w(\\w)+)+(maker)\\b))|(\\b(maker)\\b)|((\\b(mkr)(\\w(\\w)+)+)|((\\w(\\w)+)+(mkr)\\b))|(\\b(mkr)\\b))",
+      "fullName": "maker"
+    },
+    {
+      "regex": "(((\\b(avax)(\\w(\\w)+)+)|((\\w(\\w)+)+(avax)\\b))|(\\b(avax)\\b)|((\\b(avalanche)(\\w(\\w)+)+)|((\\w(\\w)+)+(avalanche)\\b))|(\\b(avalanche)\\b))",
+      "fullName": "avalanche"
+    },
+    {
+      "regex": "(((\\b(xtz)(\\w(\\w)+)+)|((\\w(\\w)+)+(xtz)\\b))|(\\b(xtz)\\b)|((\\b(tezos)(\\w(\\w)+)+)|((\\w(\\w)+)+(tezos)\\b))|(\\b(tezos)\\b))",
+      "fullName": "tezos"
+    },
+    {
+      "regex": "(((\\b(polygon)(\\w(\\w)+)+)|((\\w(\\w)+)+(polygon)\\b))|(\\b(polygon)\\b)|((\\b(matic)(\\w(\\w)+)+)|((\\w(\\w)+)+(matic)\\b))|(\\b(matic)\\b))",
+      "fullName": "polygon"
+    },
+    {
+      "regex": "(((\\b(algorand)(\\w(\\w)+)+)|((\\w(\\w)+)+(algorand)\\b))|(\\b(algorand)\\b)|((\\b(algo)(\\w(\\w)+)+)|((\\w(\\w)+)+(algo)\\b))|(\\b(algo)\\b))",
+      "fullName": "algorand"
+    },
+    {
+      "regex": "(((\\b(compound)(\\w(\\w)+)+)|((\\w(\\w)+)+(compound)\\b))|(\\b(compound)\\b)|((\\b(comp)(\\w(\\w)+)+)|((\\w(\\w)+)+(comp)\\b))|(\\b(comp)\\b))",
+      "fullName": "compound"
+    },
+    {
+      "regex": "(((\\b(dai)(\\w(\\w)+)+)|((\\w(\\w)+)+(dai)\\b))|(\\b(dai)\\b))",
+      "fullName": "dai"
+    },
+    {
+      "regex": "(((\\b(rune)(\\w(\\w)+)+)|((\\w(\\w)+)+(rune)\\b))|(\\b(rune)\\b)|((\\b(thorchain)(\\w(\\w)+)+)|((\\w(\\w)+)+(thorchain)\\b))|(\\b(thorchain)\\b))",
+      "fullName": "thorchain"
+    },
+    {
+      "regex": "(((\\b(kusama)(\\w(\\w)+)+)|((\\w(\\w)+)+(kusama)\\b))|(\\b(kusama)\\b)|((\\b(ksm)(\\w(\\w)+)+)|((\\w(\\w)+)+(ksm)\\b))|(\\b(ksm)\\b))",
+      "fullName": "kusama"
+    },
+    {
+      "regex": "(((\\b(dash)(\\w(\\w)+)+)|((\\w(\\w)+)+(dash)\\b))|(\\b(dash)\\b))",
+      "fullName": "dash"
+    },
+    {
+      "regex": "(((\\b(bitcoin bep2)(\\w(\\w)+)+)|((\\w(\\w)+)+(bitcoin bep2)\\b))|(\\b(bitcoin bep2)\\b)|((\\b(btcb)(\\w(\\w)+)+)|((\\w(\\w)+)+(btcb)\\b))|(\\b(btcb)\\b))",
+      "fullName": "bitcoin bep2"
+    },
+    {
+      "regex": "(((\\b(elrond)(\\w(\\w)+)+)|((\\w(\\w)+)+(elrond)\\b))|(\\b(elrond)\\b)|((\\b(egld)(\\w(\\w)+)+)|((\\w(\\w)+)+(egld)\\b))|(\\b(egld)\\b))",
+      "fullName": "elrond"
+    },
+    {
+      "regex": "(((\\b(chiliz)(\\w(\\w)+)+)|((\\w(\\w)+)+(chiliz)\\b))|(\\b(chiliz)\\b)|((\\b(chz)(\\w(\\w)+)+)|((\\w(\\w)+)+(chz)\\b))|(\\b(chz)\\b))",
+      "fullName": "chiliz"
+    },
+    {
+      "regex": "(((\\b(xem)(\\w(\\w)+)+)|((\\w(\\w)+)+(xem)\\b))|(\\b(xem)\\b)|((\\b(nem)(\\w(\\w)+)+)|((\\w(\\w)+)+(nem)\\b))|(\\b(nem)\\b))",
+      "fullName": "nem"
+    },
+    {
+      "regex": "(((\\b(zcash)(\\w(\\w)+)+)|((\\w(\\w)+)+(zcash)\\b))|(\\b(zcash)\\b)|((\\b(zec)(\\w(\\w)+)+)|((\\w(\\w)+)+(zec)\\b))|(\\b(zec)\\b))",
+      "fullName": "zcash"
+    },
+    {
+      "regex": "(((\\b(hot)(\\w(\\w)+)+)|((\\w(\\w)+)+(hot)\\b))|(\\b(hot)\\b)|((\\b(holo)(\\w(\\w)+)+)|((\\w(\\w)+)+(holo)\\b))|(\\b(holo)\\b))",
+      "fullName": "holo"
+    },
+    {
+      "regex": "(((\\b(decred)(\\w(\\w)+)+)|((\\w(\\w)+)+(decred)\\b))|(\\b(decred)\\b)|((\\b(dcr)(\\w(\\w)+)+)|((\\w(\\w)+)+(dcr)\\b))|(\\b(dcr)\\b))",
+      "fullName": "decred"
+    },
+    {
+      "regex": "(((\\b(unus)(\\w(\\w)+)+)|((\\w(\\w)+)+(unus)\\b))|(\\b(unus)\\b)|((\\b(leo)(\\w(\\w)+)+)|((\\w(\\w)+)+(leo)\\b))|(\\b(leo)\\b)|((\\b(unus sed leo)(\\w(\\w)+)+)|((\\w(\\w)+)+(unus sed leo)\\b))|(\\b(unus sed leo)\\b))",
+      "fullName": "unus sed leo"
+    },
+    {
+      "regex": "(((\\b(hedera)(\\w(\\w)+)+)|((\\w(\\w)+)+(hedera)\\b))|(\\b(hedera)\\b)|((\\b(hedera hashgraph)(\\w(\\w)+)+)|((\\w(\\w)+)+(hedera hashgraph)\\b))|(\\b(hedera hashgraph)\\b)|((\\b(hbar)(\\w(\\w)+)+)|((\\w(\\w)+)+(hbar)\\b))|(\\b(hbar)\\b))",
+      "fullName": "hedera hashgraph"
+    },
+    {
+      "regex": "(((\\b(stacks)(\\w(\\w)+)+)|((\\w(\\w)+)+(stacks)\\b))|(\\b(stacks)\\b)|((\\b(stx)(\\w(\\w)+)+)|((\\w(\\w)+)+(stx)\\b))|(\\b(stx)\\b))",
+      "fullName": "stacks"
+    },
+    {
+      "regex": "(((\\b(waves)(\\w(\\w)+)+)|((\\w(\\w)+)+(waves)\\b))|(\\b(waves)\\b))",
+      "fullName": "waves"
+    },
+    {
+      "regex": "(((\\b(dgb)(\\w(\\w)+)+)|((\\w(\\w)+)+(dgb)\\b))|(\\b(dgb)\\b)|((\\b(digibyte)(\\w(\\w)+)+)|((\\w(\\w)+)+(digibyte)\\b))|(\\b(digibyte)\\b))",
+      "fullName": "digibyte"
+    },
+    {
+      "regex": "(((\\b(zilliqa)(\\w(\\w)+)+)|((\\w(\\w)+)+(zilliqa)\\b))|(\\b(zilliqa)\\b)|((\\b(zil)(\\w(\\w)+)+)|((\\w(\\w)+)+(zil)\\b))|(\\b(zil)\\b))",
+      "fullName": "zilliqa"
+    },
+    {
+      "regex": "(((\\b(enjin)(\\w(\\w)+)+)|((\\w(\\w)+)+(enjin)\\b))|(\\b(enjin)\\b)|((\\b(enjin coin)(\\w(\\w)+)+)|((\\w(\\w)+)+(enjin coin)\\b))|(\\b(enjin coin)\\b)|((\\b(enj)(\\w(\\w)+)+)|((\\w(\\w)+)+(enj)\\b))|(\\b(enj)\\b))",
+      "fullName": "enjin coin"
+    },
+    {
+      "regex": "(((\\b(decentraland)(\\w(\\w)+)+)|((\\w(\\w)+)+(decentraland)\\b))|(\\b(decentraland)\\b)|((\\b(mana)(\\w(\\w)+)+)|((\\w(\\w)+)+(mana)\\b))|(\\b(mana)\\b))",
+      "fullName": "decentraland"
+    },
+    {
+      "regex": "(((\\b(nexo)(\\w(\\w)+)+)|((\\w(\\w)+)+(nexo)\\b))|(\\b(nexo)\\b))",
+      "fullName": "nexo"
+    },
+    {
+      "regex": "(((\\b(the)(\\w(\\w)+)+)|((\\w(\\w)+)+(the)\\b))|(\\b(the)\\b)|((\\b(grt)(\\w(\\w)+)+)|((\\w(\\w)+)+(grt)\\b))|(\\b(grt)\\b)|((\\b(the graph)(\\w(\\w)+)+)|((\\w(\\w)+)+(the graph)\\b))|(\\b(the graph)\\b))",
+      "fullName": "the graph"
+    },
+    {
+      "regex": "(((\\b(synthetix)(\\w(\\w)+)+)|((\\w(\\w)+)+(synthetix)\\b))|(\\b(synthetix)\\b)|((\\b(snx)(\\w(\\w)+)+)|((\\w(\\w)+)+(snx)\\b))|(\\b(snx)\\b))",
+      "fullName": "synthetix"
+    },
+    {
+      "regex": "(((\\b(near protocol)(\\w(\\w)+)+)|((\\w(\\w)+)+(near protocol)\\b))|(\\b(near protocol)\\b)|((\\b(near)(\\w(\\w)+)+)|((\\w(\\w)+)+(near)\\b))|(\\b(near)\\b))",
+      "fullName": "near protocol"
+    },
+    {
+      "regex": "(((\\b(terrausd)(\\w(\\w)+)+)|((\\w(\\w)+)+(terrausd)\\b))|(\\b(terrausd)\\b)|((\\b(ust)(\\w(\\w)+)+)|((\\w(\\w)+)+(ust)\\b))|(\\b(ust)\\b))",
+      "fullName": "terrausd"
+    },
+    {
+      "regex": "(((\\b(theta fuel)(\\w(\\w)+)+)|((\\w(\\w)+)+(theta fuel)\\b))|(\\b(theta fuel)\\b)|((\\b(tfuel)(\\w(\\w)+)+)|((\\w(\\w)+)+(tfuel)\\b))|(\\b(tfuel)\\b))",
+      "fullName": "theta fuel"
+    },
+    {
+      "regex": "(((\\b(sc)(\\w(\\w)+)+)|((\\w(\\w)+)+(sc)\\b))|(\\b(sc)\\b)|((\\b(siacoin)(\\w(\\w)+)+)|((\\w(\\w)+)+(siacoin)\\b))|(\\b(siacoin)\\b))",
+      "fullName": "siacoin"
+    },
+    {
+      "regex": "(((\\b(basic)(\\w(\\w)+)+)|((\\w(\\w)+)+(basic)\\b))|(\\b(basic)\\b)|((\\b(basic attention token)(\\w(\\w)+)+)|((\\w(\\w)+)+(basic attention token)\\b))|(\\b(basic attention token)\\b)|((\\b(bat)(\\w(\\w)+)+)|((\\w(\\w)+)+(bat)\\b))|(\\b(bat)\\b))",
+      "fullName": "basic attention token"
+    },
+    {
+      "regex": "(((\\b(sushi)(\\w(\\w)+)+)|((\\w(\\w)+)+(sushi)\\b))|(\\b(sushi)\\b)|((\\b(sushiswap)(\\w(\\w)+)+)|((\\w(\\w)+)+(sushiswap)\\b))|(\\b(sushiswap)\\b))",
+      "fullName": "sushiswap"
+    },
+    {
+      "regex": "(((\\b(ftm)(\\w(\\w)+)+)|((\\w(\\w)+)+(ftm)\\b))|(\\b(ftm)\\b)|((\\b(fantom)(\\w(\\w)+)+)|((\\w(\\w)+)+(fantom)\\b))|(\\b(fantom)\\b))",
+      "fullName": "fantom"
+    },
+    {
+      "regex": "(((\\b(okb)(\\w(\\w)+)+)|((\\w(\\w)+)+(okb)\\b))|(\\b(okb)\\b))",
+      "fullName": "okb"
+    },
+    {
+      "regex": "(((\\b(yfi)(\\w(\\w)+)+)|((\\w(\\w)+)+(yfi)\\b))|(\\b(yfi)\\b)|((\\b(yearn.finance)(\\w(\\w)+)+)|((\\w(\\w)+)+(yearn.finance)\\b))|(\\b(yearn.finance)\\b))",
+      "fullName": "yearn.finance"
+    },
+    {
+      "regex": "(((\\b(bitcoin gold)(\\w(\\w)+)+)|((\\w(\\w)+)+(bitcoin gold)\\b))|(\\b(bitcoin gold)\\b)|((\\b(btg)(\\w(\\w)+)+)|((\\w(\\w)+)+(btg)\\b))|(\\b(btg)\\b))",
+      "fullName": "bitcoin gold"
+    },
+    {
+      "regex": "(((\\b(icx)(\\w(\\w)+)+)|((\\w(\\w)+)+(icx)\\b))|(\\b(icx)\\b)|((\\b(icon)(\\w(\\w)+)+)|((\\w(\\w)+)+(icon)\\b))|(\\b(icon)\\b))",
+      "fullName": "icon"
+    },
+    {
+      "regex": "(((\\b(uma)(\\w(\\w)+)+)|((\\w(\\w)+)+(uma)\\b))|(\\b(uma)\\b))",
+      "fullName": "uma"
+    },
+    {
+      "regex": "(((\\b(ravencoin)(\\w(\\w)+)+)|((\\w(\\w)+)+(ravencoin)\\b))|(\\b(ravencoin)\\b)|((\\b(rvn)(\\w(\\w)+)+)|((\\w(\\w)+)+(rvn)\\b))|(\\b(rvn)\\b))",
+      "fullName": "ravencoin"
+    },
+    {
+      "regex": "(((\\b(cel)(\\w(\\w)+)+)|((\\w(\\w)+)+(cel)\\b))|(\\b(cel)\\b)|((\\b(celsius)(\\w(\\w)+)+)|((\\w(\\w)+)+(celsius)\\b))|(\\b(celsius)\\b))",
+      "fullName": "celsius"
+    },
+    {
+      "regex": "(((\\b(ontology)(\\w(\\w)+)+)|((\\w(\\w)+)+(ontology)\\b))|(\\b(ontology)\\b)|((\\b(ont)(\\w(\\w)+)+)|((\\w(\\w)+)+(ont)\\b))|(\\b(ont)\\b))",
+      "fullName": "ontology"
+    },
+    {
+      "regex": "(((\\b(qtum)(\\w(\\w)+)+)|((\\w(\\w)+)+(qtum)\\b))|(\\b(qtum)\\b))",
+      "fullName": "qtum"
+    },
+    {
+      "regex": "(((\\b(zrx)(\\w(\\w)+)+)|((\\w(\\w)+)+(zrx)\\b))|(\\b(zrx)\\b)|((\\b(0x)(\\w(\\w)+)+)|((\\w(\\w)+)+(0x)\\b))|(\\b(0x)\\b))",
+      "fullName": "0x"
+    },
+    {
+      "regex": "(((\\b(one)(\\w(\\w)+)+)|((\\w(\\w)+)+(one)\\b))|(\\b(one)\\b)|((\\b(harmony)(\\w(\\w)+)+)|((\\w(\\w)+)+(harmony)\\b))|(\\b(harmony)\\b))",
+      "fullName": "harmony"
+    },
+    {
+      "regex": "(((\\b(hnt)(\\w(\\w)+)+)|((\\w(\\w)+)+(hnt)\\b))|(\\b(hnt)\\b)|((\\b(helium)(\\w(\\w)+)+)|((\\w(\\w)+)+(helium)\\b))|(\\b(helium)\\b))",
+      "fullName": "helium"
+    },
+    {
+      "regex": "(((\\b(zen)(\\w(\\w)+)+)|((\\w(\\w)+)+(zen)\\b))|(\\b(zen)\\b)|((\\b(horizen)(\\w(\\w)+)+)|((\\w(\\w)+)+(horizen)\\b))|(\\b(horizen)\\b))",
+      "fullName": "horizen"
+    },
+    {
+      "regex": "(((\\b(swissborg)(\\w(\\w)+)+)|((\\w(\\w)+)+(swissborg)\\b))|(\\b(swissborg)\\b)|((\\b(chsb)(\\w(\\w)+)+)|((\\w(\\w)+)+(chsb)\\b))|(\\b(chsb)\\b))",
+      "fullName": "swissborg"
+    },
+    {
+      "regex": "(((\\b(ankr)(\\w(\\w)+)+)|((\\w(\\w)+)+(ankr)\\b))|(\\b(ankr)\\b))",
+      "fullName": "ankr"
+    },
+    {
+      "regex": "(((\\b(bancor)(\\w(\\w)+)+)|((\\w(\\w)+)+(bancor)\\b))|(\\b(bancor)\\b)|((\\b(bnt)(\\w(\\w)+)+)|((\\w(\\w)+)+(bnt)\\b))|(\\b(bnt)\\b))",
+      "fullName": "bancor"
+    },
+    {
+      "regex": "(((\\b(reserve)(\\w(\\w)+)+)|((\\w(\\w)+)+(reserve)\\b))|(\\b(reserve)\\b)|((\\b(reserve rights)(\\w(\\w)+)+)|((\\w(\\w)+)+(reserve rights)\\b))|(\\b(reserve rights)\\b)|((\\b(rsr)(\\w(\\w)+)+)|((\\w(\\w)+)+(rsr)\\b))|(\\b(rsr)\\b))",
+      "fullName": "reserve rights"
+    },
+    {
+      "regex": "(((\\b(kcs)(\\w(\\w)+)+)|((\\w(\\w)+)+(kcs)\\b))|(\\b(kcs)\\b)|((\\b(kucoin)(\\w(\\w)+)+)|((\\w(\\w)+)+(kucoin)\\b))|(\\b(kucoin)\\b)|((\\b(kucoin token)(\\w(\\w)+)+)|((\\w(\\w)+)+(kucoin token)\\b))|(\\b(kucoin token)\\b))",
+      "fullName": "kucoin token"
+    },
+    {
+      "regex": "(((\\b(celo)(\\w(\\w)+)+)|((\\w(\\w)+)+(celo)\\b))|(\\b(celo)\\b))",
+      "fullName": "celo"
+    },
+    {
+      "regex": "(((\\b(nano)(\\w(\\w)+)+)|((\\w(\\w)+)+(nano)\\b))|(\\b(nano)\\b))",
+      "fullName": "nano"
+    },
+    {
+      "regex": "(((\\b(revain)(\\w(\\w)+)+)|((\\w(\\w)+)+(revain)\\b))|(\\b(revain)\\b)|((\\b(rev)(\\w(\\w)+)+)|((\\w(\\w)+)+(rev)\\b))|(\\b(rev)\\b))",
+      "fullName": "revain"
+    },
+    {
+      "regex": "(((\\b(omg)(\\w(\\w)+)+)|((\\w(\\w)+)+(omg)\\b))|(\\b(omg)\\b)|((\\b(omg network)(\\w(\\w)+)+)|((\\w(\\w)+)+(omg network)\\b))|(\\b(omg network)\\b))",
+      "fullName": "omg network"
+    },
+    {
+      "regex": "(((\\b(iost)(\\w(\\w)+)+)|((\\w(\\w)+)+(iost)\\b))|(\\b(iost)\\b))",
+      "fullName": "iost"
+    },
+    {
+      "regex": "(((\\b(dent)(\\w(\\w)+)+)|((\\w(\\w)+)+(dent)\\b))|(\\b(dent)\\b))",
+      "fullName": "dent"
+    },
+    {
+      "regex": "(((\\b(flow)(\\w(\\w)+)+)|((\\w(\\w)+)+(flow)\\b))|(\\b(flow)\\b))",
+      "fullName": "flow"
+    },
+    {
+      "regex": "(((\\b(xvs)(\\w(\\w)+)+)|((\\w(\\w)+)+(xvs)\\b))|(\\b(xvs)\\b)|((\\b(venus)(\\w(\\w)+)+)|((\\w(\\w)+)+(venus)\\b))|(\\b(venus)\\b))",
+      "fullName": "venus"
+    },
+    {
+      "regex": "(((\\b(ar)(\\w(\\w)+)+)|((\\w(\\w)+)+(ar)\\b))|(\\b(ar)\\b)|((\\b(arweave)(\\w(\\w)+)+)|((\\w(\\w)+)+(arweave)\\b))|(\\b(arweave)\\b))",
+      "fullName": "arweave"
+    },
+    {
+      "regex": "(((\\b(ren)(\\w(\\w)+)+)|((\\w(\\w)+)+(ren)\\b))|(\\b(ren)\\b))",
+      "fullName": "ren"
+    },
+    {
+      "regex": "(((\\b(vgx)(\\w(\\w)+)+)|((\\w(\\w)+)+(vgx)\\b))|(\\b(vgx)\\b)|((\\b(voyager)(\\w(\\w)+)+)|((\\w(\\w)+)+(voyager)\\b))|(\\b(voyager)\\b)|((\\b(voyager token)(\\w(\\w)+)+)|((\\w(\\w)+)+(voyager token)\\b))|(\\b(voyager token)\\b))",
+      "fullName": "voyager token"
+    }
+  ]
+}
