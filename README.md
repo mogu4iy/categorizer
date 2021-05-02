@@ -3,7 +3,7 @@
 Simple python cryptoCurrencies categorizer, based on regex.
 # Usage
 #### Prepare to use
-If you want to update coinsList and coinsRegex:
+If you want to update coins.json, coinsList.json and coinsRegex.json:
 
 ```sh
 pip install requirements.txt
