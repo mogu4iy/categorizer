@@ -1,37 +1,31 @@
 import json
 import re
 
-COINS_FILE = r"coins.json"
-COINS_RE = lambda coin: rf"((\b({coin})(\w(\w)+)+)|((\w(\w)+)+({coin})\b))|(\b({coin})\b)"
+COINS_REGEX_FILE = r"coinsRegex.json"
 
 
 def lowerList(listToLower):
     return list(map(lambda x: x.lower(), listToLower))
 
 
+def subSet(category1, category2):
+    return category1['searchResult'][0] <= category2['searchResult'][0] and \
+           category1['searchResult'][-1] >= category2['searchResult'][-1] and \
+           category2['fullName'] in category1['fullName']
+
+
 def categorize(tagsList):
-    with open(COINS_FILE, "r") as coinsListFile:
+    with open(COINS_REGEX_FILE, "r") as coinsListFile:
         coinsListJSON = json.load(coinsListFile)['Cryptocurrencies']
-        categories = []
-        for tag in lowerList(tagsList):
-            tagCategories = []
-            exceptCategories = []
-            for coin in coinsListJSON:
-                for c in coin['names']:
-                    pattern = re.compile(COINS_RE(c))
-                    result = re.search(pattern, tag)
-                    if result:
-                        exceptCategories.extend(coin['except'])
-                        tagCategories.append({'fullName': coin['fullName'], 'result': result, 'foundBy': c})
-                        break
-            for t in tagCategories:
-                for otherTag in tagCategories:
-                    if otherTag != t:
-                        if t['foundBy'] in otherTag['foundBy']:
-                            tagMatch = t['result'].span()
-                            otherTagMatch = otherTag['result'].span()
-                            if tagMatch[0] >= otherTagMatch[0] & tagMatch[1] <= otherTagMatch[1]:
-                                tagCategories.remove(t)
-            resultCategories = [c['fullName'] for c in tagCategories]
-            categories.extend(resultCategories)
-        return list(set(categories))
+        tagsString = "|".join(lowerList(tagsList))
+        tagCategories = []
+        for coin in coinsListJSON:
+            result = re.search(coin['regex'], tagsString)
+            if result:
+                tagCategories.append({'fullName': coin['fullName'], 'searchResult': result.span()})
+        for i in range(len(tagCategories) - 1):
+            for j in range(i+1, len(tagCategories)):
+                if subSet(tagCategories[j], tagCategories[i]):
+                    tagCategories.remove(tagCategories[i])
+
+        return list(set(coinName['fullName'] for coinName in tagCategories))
