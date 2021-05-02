@@ -24,6 +24,7 @@ Output : list of categories
 tags :
  ['XMR/BTC', 'BTC Options OI held', 'DOGEBTC (TradingView)', 'BTCB', 'get-more-btc', 'filbtc', 'BTCADA (TradingView)', 'bitcoin cash prices', 'bitcoin btc/btcp makes bitcoin cash incre
 ase', 'bitcoin cash increases']
+
 categories :
  ['bitcoin', 'bitcoin cash', 'cardano', 'dogecoin', 'filecoin', 'monero', 'bitcoin bep2']
 
