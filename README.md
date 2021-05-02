@@ -1,7 +1,7 @@
 # Mogu4iy Categorizer
 
 Simple python cryptoCurrencies categorizer, based on regex.
-# Usage
+## Usage
 #### Prepare to use
 If you want to update coins.json, coinsList.json and coinsRegex.json:
 
